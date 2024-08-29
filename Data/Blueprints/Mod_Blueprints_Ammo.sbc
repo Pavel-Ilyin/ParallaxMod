@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0085_NATO_50x184mmMagazine</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_NATO_50x184mm</DisplayName>
+            <Icon>Textures\Icons\Ammo_Box_1.png</Icon>
+            <Prerequisites>
+                <Item Amount="90" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="9.0" TypeId="Ingot" SubtypeId="Magnesium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="NATO_50x184mm"/>
+            <BaseProductionTimeInSeconds>24</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0080_NATO_25x184mmMagazine</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_NATO_25x184mm</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\Ammo_Box.dds</Icon>
+            <Prerequisites>
+                <Item Amount="40" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="3.0" TypeId="Ingot" SubtypeId="Magnesium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="NATO_25x184mm"/>
+            <BaseProductionTimeInSeconds>12</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0090_AutocannonClip</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_AutoCannonClip</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\AutoCanonShellBox.dds</Icon>
+            <Prerequisites>
+                <Item Amount="25" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="2" TypeId="Ingot" SubtypeId="Magnesium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="AutocannonClip"/>
+            <BaseProductionTimeInSeconds>6</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0110_MediumCalibreAmmo</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_MediumCalibreAmmo</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\MediumCalibreShell.dds</Icon>
+            <Prerequisites>
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="1.5" TypeId="Ingot" SubtypeId="Magnesium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="MediumCalibreAmmo"/>
+            <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0120_LargeCalibreAmmo</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_LargeCalibreAmmo</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\LargeCalibreShell.dds</Icon>
+            <Prerequisites>
+                <Item Amount="90" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="9" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Magnesium"/>
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Uranium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="LargeCalibreAmmo"/>
+            <BaseProductionTimeInSeconds>14</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0130_SmallRailgunAmmo</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_SmallRailgunAmmo</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\RailgunAmmo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="1.5" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="6" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="0.2" TypeId="Ingot" SubtypeId="Uranium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="SmallRailgunAmmo"/>
+            <BaseProductionTimeInSeconds>8</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0140_LargeRailgunAmmo</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_LargeRailgunAmmo</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\RailgunAmmoLarge.dds</Icon>
+            <Prerequisites>
+                <Item Amount="60" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="9" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="30" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="1" TypeId="Ingot" SubtypeId="Uranium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="LargeRailgunAmmo"/>
+            <BaseProductionTimeInSeconds>14</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0005_FlareGunMagazine</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_FlareClip</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\FlareGun_Ammo.dds</Icon>
+            <Prerequisites>
+                <Item Amount="0.20" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="0.05" TypeId="Ingot" SubtypeId="Nickel"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="FlareClip"/>
+            <BaseProductionTimeInSeconds>3</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0007_FireworksBoxBlue</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_FireworksBoxBlue</DisplayName>
+            <Icon>Textures\GUI\Icons\ammo\FireworksBox.dds</Icon>
+            <Prerequisites>
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="0.5" TypeId="Ingot" SubtypeId="Magnesium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="FireworksBoxBlue"/>
+            <BaseProductionTimeInSeconds>8</BaseProductionTimeInSeconds>
+        </Blueprint>
+    </Blueprints>
+</Definitions>

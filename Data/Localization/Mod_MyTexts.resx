@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string"/>
+							<xsd:attribute name="type" type="xsd:string"/>
+							<xsd:attribute name="mimetype" type="xsd:string"/>
+							<xsd:attribute ref="xml:space"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string"/>
+							<xsd:attribute name="name" type="xsd:string"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+							<xsd:attribute ref="xml:space"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required"/>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="DisplayName_Block_IndustrialWelder" xml:space="preserve">
+		<value>Industrial welder</value>
+	</data>
+	<data name="Description_IndustrialWelder" xml:space="preserve">
+		<value>The industrial welder has a large welding coverage area.
+    </value>
+	</data>
+	<data name="DisplayName_Item_Calculator" xml:space="preserve">
+		<value>Calculator</value>
+	</data>
+	<data name="DisplayName_Item_IngotsPackage" xml:space="preserve">
+		<value>Resurspak</value>
+	</data>
+	<data name="Description_IngotsPackage" xml:space="preserve">
+		<value>Resurspak - a tightly packed package of bullion.</value>
+	</data>
+	<data name="Description_InteriorTurret" xml:space="preserve">
+		<value>Autonomous anti-personnel turret. Must be manually loaded with MR-50A Rifle Magazines.
+
+Maximum range: 800 m
+Maximum range auto-aim: 600 m</value>
+	</data>
+	<data name="Description_MissileTurret" xml:space="preserve">
+		<value>Slow-shooting, explosive damage dealing, rocket launcher that can be loaded through conveyors. Uses Rockets.
+
+Maximum range: 1600 m</value>
+	</data>
+	<data name="Description_Small_MissileTurret" xml:space="preserve">
+		<value>Slow-shooting, explosive damage dealing, rocket launcher that can be loaded through conveyors. Uses Rockets.
+
+Maximum range: 1600 m
+Maximum range auto-aim: 1200 m</value>
+	</data>
+	<data name="Description_GatlingTurret" xml:space="preserve">
+		<value>Large-caliber turret that can be loaded using conveyors. Uses boxes of high-caliber Gatling ammunition.
+
+Maximum range: 2400 m
+Maximum range auto-aim: 1600 m</value>
+	</data>
+	<data name="Description_Small_GatlingTurret" xml:space="preserve">
+		<value>Fast-shooting turret that can be loaded through conveyors. Uses Gatling Ammo Boxes.
+
+Maximum range: 1400 m
+Maximum range auto-aim: 1200 m</value>
+	</data>
+	<data name="Description_LargeCalibreTurret" xml:space="preserve">
+		<value>A titanic turret perfectly suited for battles against heavily armored targets. Uses Artillery Shells.
+
+Maximum range: 4000 m
+Maximum range auto-aim: 1600 m</value>
+	</data>
+	<data name="Description_HeavyCalibreGun" xml:space="preserve">
+		<value>A titanic gun perfectly suited for battles against heavily armored targets. Uses Artillery Shells.
+
+Maximum range: 4000 m</value>
+	</data>
+	<data name="Description_MediumCalibreTurret" xml:space="preserve">
+		<value>Slower and bigger sibling of the Autocannon. Deals decent damage to armored targets. Uses Assault Cannon Shells.
+
+Maximum range: 2800 m
+Maximum range auto-aim: 1600 m</value>
+	</data>
+	<data name="Description_Small_MediumCalibreGun" xml:space="preserve">
+		<value>Slower and bigger sibling of the Autocannon. Deals decent damage to armored targets. Uses Assault Cannon Shells.
+
+Maximum range: 2800 m
+Maximum range auto-aim: 1200 m</value>
+	</data>
+	<data name="Description_MediumCalibreGun" xml:space="preserve">
+		<value>Slower and bigger sibling of the Autocannon. Deals decent damage to armored targets. Uses Assault Cannon Shells.
+
+Maximum range: 2800 m</value>
+	</data>
+	<data name="Description_AutoCannonTurret" xml:space="preserve">
+		<value>Medium rate of fire, with a good punch in a small turret. Uses Autocannon Magazines.
+
+Maximum range: 1800 m
+Maximum range auto-aim: 1200 m</value>
+	</data>
+	<data name="Description_Autocannon" xml:space="preserve">
+		<value>Medium rate of fire, with a good punch. Uses Autocannon Magazines.
+
+Maximum range: 1800 m</value>
+	</data>
+	<data name="Description_Railgun" xml:space="preserve">
+		<value>High range, maximum penetration, very low rate of fire. Needs to charge up before each shot. Uses Large Railgun Sabots.
+
+Maximum range: 4000 m</value>
+	</data>
+	<data name="Description_SmallRailgun" xml:space="preserve">
+		<value>High range, maximum penetration, very low rate of fire. Needs to charge up before each shot. Uses Small Railgun Sabots.
+
+Maximum range: 2800 m</value>
+	</data>
+	<data name="Description_GatlingGun" xml:space="preserve">
+		<value>Fast-shooting gun that can be loaded through conveyors. Uses Gatling Ammo Boxes.
+
+Maximum range: 1400 m</value>
+	</data>
+	<data name="Description_RocketLauncher" xml:space="preserve">
+		<value>Slow-shooting, explosive damage dealing, rocket launcher that must be loaded manually. Uses Rockets.
+
+Maximum range: 1600 m</value>
+	</data>
+	<data name="Description_LargeRocketLauncher" xml:space="preserve">
+		<value>A bigger version of the rocket launcher, capable of using the conveyor system to automatically reload. Uses Rockets.
+
+Maximum range: 1600 m</value>
+	</data>
+	<data name="Description_RocketLauncherReload" xml:space="preserve">
+		<value>An advanced version of the rocket launcher, capable of using the conveyor system to automatically reload. Uses Rockets.
+
+Maximum range: 1600 m</value>
+	</data>
+	<data name="Description_DefensiveCombatBlock" xml:space="preserve">
+		<value>Type: Combat
+
+This can detect and target lock enemy grids up to 4000m. Additionally, it can be set up to flee to a predetermined location when it has detected an enemy.
+
+When enemies are detected, this block takes priority over any active Task type blocks.</value>
+	</data>
+	<data name="Description_OffensiveCombatBlock" xml:space="preserve">
+		<value>Type: Combat
+
+This can detect, target lock, and engage enemy grids up to 4000m using customizable attack patterns.
+
+When enemies are detected, this block takes priority over any active Task type blocks.</value>
+	</data>
+	<data name="DisplayName_Item_NATO_50x184mm" xml:space="preserve">
+		<value>Gatling Ammo Box High Caliber</value>
+	</data>
+	<data name="DisplayName_MostlyHarmlessEnergy" xml:space="preserve">
+		<value>MA - flash</value>
+	</data>
+	<data name="DisplayName_Designator" xml:space="preserve">
+		<value>Targeting turret</value>
+	</data>
+	<data name="Description_Designator" xml:space="preserve">
+		<value>Designator.
+
+Maximum range: 7000 m</value>
+	</data>
+	<data name="Description_SmallDesignator" xml:space="preserve">
+		<value>Designator.
+
+Maximum range: 4000 m</value>
+	</data>
+	<data name="DisplayName_Block_SuperContainer" xml:space="preserve">
+		<value>Supercontainer</value>
+	</data>
+	<data name="Description_SmallCargoSuperContainer" xml:space="preserve">
+		<value>Large capacity container.</value>
+	</data>
+	<data name="DisplayName_Item_Artifact" xml:space="preserve">
+		<value>Artifact</value>
+	</data>
+	<data name="Palladium" xml:space="preserve">
+		<value>Palladium</value>
+	</data>
+	<data name="DisplayName_Item_PalladiumIngot" xml:space="preserve">
+		<value>Palladium ingot</value>
+	</data>
+	<data name="DisplayName_Item_PalladiumOre" xml:space="preserve">
+		<value>Palladium Ore</value>
+	</data>
+	<data name="DisplayName_Block_SuperProductivityModule" xml:space="preserve">
+		<value>Supermodule</value>
+	</data>
+	<data name="Description_SuperProductivityModule" xml:space="preserve">
+		<value>Module for ultra-productivity.</value>
+	</data>
+	<data name="DisplayName_Block_SuperSensor" xml:space="preserve">
+		<value>Supersensor</value>
+	</data>
+	<data name="Description_SuperSensor" xml:space="preserve">
+		<value>Extended Range Sensor.</value>
+	</data>
+	<data name="DisplayName_Block_ShieldGenerator" xml:space="preserve">
+		<value>Energy Shield</value>
+	</data>
+	<data name="Description_ShieldGenerator" xml:space="preserve">
+		<value>The energy shield absorbs some of the kinetic damage received from impacts or projectiles.
+
+Has high power consumption.</value>
+	</data>
+	<data name="DisplayName_Category_EnergyShield" xml:space="preserve">
+		<value>Energy Shields</value>
+	</data>
+	<data name="DisplayName_Block_StoneRecycler" xml:space="preserve">
+		<value>Stone Recycler</value>
+	</data>
+	<data name="Description_StoneRecycler" xml:space="preserve">
+		<value>Designed to destroy stone.</value>
+	</data>
+	<data name="DisplayName_Item_Missile200mm" xml:space="preserve">
+		<value>Missile</value>
+	</data>
+	<data name="DisplayName_Item_Missile_GS" xml:space="preserve">
+		<value>Precision missile PH-4</value>
+	</data>
+	<data name="DisplayName_Thrust_InhibitorThrust_Inhibitor" xml:space="preserve">
+		<value>Thrust Inhibitor</value>
+	</data>
+	<data name="DisplayName_Simple_Store" xml:space="preserve">
+		<value>Simple Store</value>
+	</data>
+	<data name="DisplayName_JumpInhibitor" xml:space="preserve">
+		<value>Jump inhibitor</value>
+	</data>
+	<data name="DisplayName_Block_SuperHydrogenTank" xml:space="preserve">
+		<value>Super hydrogen tank</value>
+	</data>
+	<data name="DisplayName_Block_SuperGenerator" xml:space="preserve">
+		<value>Super hydrogen generator</value>
+	</data>
+	<data name="DisplayName_Block_SuperAssembler" xml:space="preserve">
+		<value>High Capacity Assembler</value>
+	</data>
+</root>

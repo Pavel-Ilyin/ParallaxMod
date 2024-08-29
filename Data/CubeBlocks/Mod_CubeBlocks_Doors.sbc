@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>ArmorCenter</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorCenter</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCenter.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <CubeSize>Large</CubeSize>
+            <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\ArmorCenter.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="125" />
+                <Component Subtype="SteelPlate" Count="15" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.3" File="Models\Cubes\Large\ArmorCenterConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.6" File="Models\Cubes\Large\ArmorCenterConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\ArmorCenterConstruction_3.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Left" StartX="0.1" StartY="0.0" EndX="0.9" EndY="1.0" />
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="1.0" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+            </MountPoints>
+            <BlockPairName>ArmorCenter</BlockPairName>
+            <DeformationRatio>0.1</DeformationRatio>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>18</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>ArmorCorner</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorCorner</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCorner.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <GuiVisible>false</GuiVisible>
+            <CubeSize>Large</CubeSize>
+            <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\ArmorCorner.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="105" />
+                <Component Subtype="SteelPlate" Count="15" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.3" File="Models\Cubes\Large\ArmorCornerConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.6" File="Models\Cubes\Large\ArmorCornerConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\ArmorCornerConstruction_3.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Right" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.3" EndX="0.4" EndY="0.7" />
+                <MountPoint Side="Bottom" StartX="0.4" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Left" StartX="0.38" StartY="0.0" EndX="0.62" EndY="1.0" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.38" EndX="1.0" EndY="0.62" />
+            </MountPoints>
+            <BlockPairName>ArmorCorner</BlockPairName>
+            <MirroringY>X</MirroringY>
+            <MirroringX>Y</MirroringX>
+            <DeformationRatio>0.1</DeformationRatio>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>12</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>ArmorInvCorner</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorInvCorner</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\BlastDoorCornerInverted.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <GuiVisible>false</GuiVisible>
+            <CubeSize>Large</CubeSize>
+            <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\ArmorInvCorner.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="120" />
+                <Component Subtype="SteelPlate" Count="15" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.3" File="Models\Cubes\Large\ArmorInvCornerConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.6" File="Models\Cubes\Large\ArmorInvCornerConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\ArmorInvCornerConstruction_3.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Left" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Left" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.3" EndX="0.4" EndY="0.7" />
+                <MountPoint Side="Top" StartX="0.4" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="1.0" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+            </MountPoints>
+            <BlockPairName>ArmorInvCorner</BlockPairName>
+            <MirroringY>X</MirroringY>
+            <MirroringX>Y</MirroringX>
+            <DeformationRatio>0.1</DeformationRatio>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>16</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>ArmorSide</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorSide</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorSide.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <GuiVisible>false</GuiVisible>
+            <CubeSize>Large</CubeSize>
+            <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\ArmorSide.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="115" />
+                <Component Subtype="SteelPlate" Count="15" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.3" File="Models\Cubes\Large\ArmorSideConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.6" File="Models\Cubes\Large\ArmorSideConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Large\ArmorSideConstruction_3.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Right" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Left" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Left" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.38" EndX="1.0" EndY="0.62" />
+            </MountPoints>
+            <BlockPairName>ArmorSide</BlockPairName>
+            <MirroringY>X</MirroringY>
+            <DeformationRatio>0.1</DeformationRatio>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>14</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>SmallArmorCenter</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorCenter</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCenter.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <CubeSize>Small</CubeSize>
+            <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Small\ArmorCenter.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="3" />
+                <Component Subtype="SteelPlate" Count="2" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.5" File="Models\Cubes\Small\ArmorCenterConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\ArmorCenterConstruction_2.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Left" StartX="0.1" StartY="0.0" EndX="0.9" EndY="1.0" />
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="1.0" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+            </MountPoints>
+            <BlockPairName>ArmorCenter</BlockPairName>
+            <EdgeType>Light</EdgeType>
+            <DeformationRatio>0.2</DeformationRatio>
+            <BuildTimeSeconds>5</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>SmallArmorCorner</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorCorner</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCorner.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <CubeSize>Small</CubeSize>
+            <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Small\ArmorCorner.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="3" />
+                <Component Subtype="SteelPlate" Count="2" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.5" File="Models\Cubes\Small\ArmorCornerConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\ArmorCornerConstruction_2.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Right" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.3" EndX="0.4" EndY="0.7" />
+                <MountPoint Side="Bottom" StartX="0.4" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Left" StartX="0.38" StartY="0.0" EndX="0.62" EndY="1.0" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.38" EndX="1.0" EndY="0.62" />
+            </MountPoints>
+            <BlockPairName>ArmorCorner</BlockPairName>
+            <MirroringY>X</MirroringY>
+            <MirroringX>Y</MirroringX>
+            <EdgeType>Light</EdgeType>
+            <DeformationRatio>0.2</DeformationRatio>
+            <BuildTimeSeconds>2</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>SmallArmorInvCorner</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorInvCorner</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\BlastDoorCornerInverted.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <CubeSize>Small</CubeSize>
+            <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Small\ArmorInvCorner.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="3" />
+                <Component Subtype="SteelPlate" Count="2" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.5" File="Models\Cubes\Small\ArmorInvCornerConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\ArmorInvCornerConstruction_2.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Left" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Left" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.3" EndX="0.4" EndY="0.7" />
+                <MountPoint Side="Top" StartX="0.4" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="1.0" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+            </MountPoints>
+            <BlockPairName>ArmorInvCorner</BlockPairName>
+            <MirroringY>X</MirroringY>
+            <MirroringX>Y</MirroringX>
+            <EdgeType>Light</EdgeType>
+            <DeformationRatio>0.2</DeformationRatio>
+            <BuildTimeSeconds>4</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition>
+            <Id>
+                <TypeId>CubeBlock</TypeId>
+                <SubtypeId>SmallArmorSide</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ArmorSide</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorSide.dds</Icon>
+            <Description>Description_BlastDoor</Description>
+            <CubeSize>Small</CubeSize>
+            <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Small\ArmorSide.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="3" />
+                <Component Subtype="SteelPlate" Count="2" />
+            </Components>
+            <CriticalComponent Subtype="SteelPlate" Index="0" />
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.5" File="Models\Cubes\Small\ArmorSideConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="1.0" File="Models\Cubes\Small\ArmorSideConstruction_2.mwm" />
+            </BuildProgressModels>
+            <MountPoints>
+                <MountPoint Side="Right" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Right" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Left" StartX="0.1" StartY="0.0" EndX="0.9" EndY="0.6" />
+                <MountPoint Side="Left" StartX="0.3" StartY="0.6" EndX="0.7" EndY="1.0" />
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0.1" EndX="1.0" EndY="0.9" />
+                <MountPoint Side="Top" StartX="0.0" StartY="0.38" EndX="1.0" EndY="0.62" />
+            </MountPoints>
+            <BlockPairName>ArmorSide</BlockPairName>
+            <MirroringY>X</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <DeformationRatio>0.2</DeformationRatio>
+            <BuildTimeSeconds>3</BuildTimeSeconds>
+            <DisassembleRatio>3</DisassembleRatio>
+            <Public>true</Public>
+            <PCU>1</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <!-- Region Blast Doors End -->
+    </CubeBlocks>
+</Definitions>

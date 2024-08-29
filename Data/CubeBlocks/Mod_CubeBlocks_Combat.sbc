@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_DefensiveCombatBlockDefinition">
+            <Id>
+                <TypeId>DefensiveCombatBlock</TypeId>
+                <SubtypeId>LargeDefensiveCombat</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_DefensiveCombatBlock</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\DefensiveBlock_Combat.dds</Icon>
+            <Description>Description_DefensiveCombatBlock</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <Model>Models\Cubes\Large\DefensiveBlock.mwm</Model>
+            <ModelOffset x="0" y="0" z="0" />
+            <Components>
+                <Component Subtype="InteriorPlate" Count="20" />
+                <Component Subtype="Construction" Count="30" />
+                <Component Subtype="Detector" Count="20" />
+                <Component Subtype="Motor" Count="4" />
+                <Component Subtype="Computer" Count="20" />
+                <Component Subtype="SteelPlate" Count="20" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="0.3" EndY="1" Default="true" />
+                <MountPoint Side="Bottom" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Bottom" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="0.3" EndY="1" />
+                <MountPoint Side="Back" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="0.3" EndY="1" />
+                <MountPoint Side="Front" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Front" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="0.3" EndY="1" />
+                <MountPoint Side="Top" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Top" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\DroneFeatureBlockConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\DroneFeatureBlockConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\DroneFeatureBlockConstruction_3.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>DefensiveCombatBlock</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <PCU>25</PCU>
+            <ResourceSinkGroup>AIBlock</ResourceSinkGroup>
+            <RequiredPowerInput>0.01</RequiredPowerInput>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+            <WaypointReachedZoneSizeMin>0</WaypointReachedZoneSizeMin>
+            <WaypointReachedZoneSizeMax>500</WaypointReachedZoneSizeMax>
+            <UpdateTargetIntervalDefault>5</UpdateTargetIntervalDefault>
+            <FleeDistanceMin>1</FleeDistanceMin>
+            <FleeDistanceMax>50000</FleeDistanceMax>
+            <EvasiveManeuverAngleMin>0</EvasiveManeuverAngleMin>
+            <EvasiveManeuverAngleMax>90</EvasiveManeuverAngleMax>
+            <EvasiveManeuverIntervalRangeMin>1</EvasiveManeuverIntervalRangeMin>
+            <EvasiveManeuverIntervalRangeMax>30</EvasiveManeuverIntervalRangeMax>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_DefensiveCombatBlockDefinition">
+            <Id>
+                <TypeId>DefensiveCombatBlock</TypeId>
+                <SubtypeId>SmallDefensiveCombat</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_DefensiveCombatBlock</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\DefensiveBlock_Combat.dds</Icon>
+            <Description>Description_DefensiveCombatBlock</Description>
+            <CubeSize>Small</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <Model>Models\Cubes\Small\DefensiveBlock.mwm</Model>
+            <ModelOffset x="0" y="0" z="0" />
+            <Components>
+                <Component Subtype="InteriorPlate" Count="2" />
+                <Component Subtype="Construction" Count="5" />
+                <Component Subtype="Detector" Count="4" />
+                <Component Subtype="Motor" Count="2" />
+                <Component Subtype="Computer" Count="10" />
+                <Component Subtype="SteelPlate" Count="2" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" Default="true" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\DroneFeatureBlockConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\DroneFeatureBlockConstruction_2.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>DefensiveCombatBlock</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>10</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <PCU>25</PCU>
+            <ResourceSinkGroup>AIBlock</ResourceSinkGroup>
+            <RequiredPowerInput>0.01</RequiredPowerInput>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+            <WaypointReachedZoneSizeMin>0</WaypointReachedZoneSizeMin>
+            <WaypointReachedZoneSizeMax>500</WaypointReachedZoneSizeMax>
+            <UpdateTargetIntervalDefault>5</UpdateTargetIntervalDefault>
+            <FleeDistanceMin>1</FleeDistanceMin>
+            <FleeDistanceMax>50000</FleeDistanceMax>
+            <EvasiveManeuverAngleMin>0</EvasiveManeuverAngleMin>
+            <EvasiveManeuverAngleMax>90</EvasiveManeuverAngleMax>
+            <EvasiveManeuverIntervalRangeMin>1</EvasiveManeuverIntervalRangeMin>
+            <EvasiveManeuverIntervalRangeMax>30</EvasiveManeuverIntervalRangeMax>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_OffensiveCombatBlockDefinition">
+            <Id>
+                <TypeId>OffensiveCombatBlock</TypeId>
+                <SubtypeId>LargeOffensiveCombat</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_OffensiveCombatBlock</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\AggressiveBlock_Combat.dds</Icon>
+            <Description>Description_OffensiveCombatBlock</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <Model>Models\Cubes\Large\AggressiveBlock.mwm</Model>
+            <ModelOffset x="0" y="0" z="0" />
+            <Components>
+                <Component Subtype="InteriorPlate" Count="20" />
+                <Component Subtype="Construction" Count="30" />
+                <Component Subtype="Detector" Count="20" />
+                <Component Subtype="Motor" Count="4" />
+                <Component Subtype="Calculator" Count="8" />
+                <Component Subtype="Computer" Count="20" />
+                <Component Subtype="SteelPlate" Count="20" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="0.3" EndY="1" Default="true" />
+                <MountPoint Side="Bottom" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Bottom" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="0.3" EndY="1" />
+                <MountPoint Side="Back" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="0.3" EndY="1" />
+                <MountPoint Side="Front" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Front" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="0.3" EndY="1" />
+                <MountPoint Side="Top" StartX="0.7" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Top" StartX="0.3" StartY="0.15" EndX="0.7" EndY="0.85" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\DroneFeatureBlockConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\DroneFeatureBlockConstruction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\DroneFeatureBlockConstruction_3.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>OffensiveCombatBlock</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <ResourceSinkGroup>AIBlock</ResourceSinkGroup>
+            <RequiredPowerInput>0.01</RequiredPowerInput>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <PCU>4200</PCU>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_OffensiveCombatBlockDefinition">
+            <Id>
+                <TypeId>OffensiveCombatBlock</TypeId>
+                <SubtypeId>SmallOffensiveCombat</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_OffensiveCombatBlock</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\AggressiveBlock_Combat.dds</Icon>
+            <Description>Description_OffensiveCombatBlock</Description>
+            <CubeSize>Small</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <Model>Models\Cubes\Small\AggressiveBlock.mwm</Model>
+            <ModelOffset x="0" y="0" z="0" />
+            <Components>
+                <Component Subtype="InteriorPlate" Count="2" />
+                <Component Subtype="Construction" Count="5" />
+                <Component Subtype="Detector" Count="4" />
+                <Component Subtype="Motor" Count="2" />
+                <Component Subtype="Calculator" Count="2"/>
+                <Component Subtype="Computer" Count="10" />
+                <Component Subtype="SteelPlate" Count="2" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" Default="true" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1" />
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\DroneFeatureBlockConstruction_1.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\DroneFeatureBlockConstruction_2.mwm" />
+            </BuildProgressModels>
+            <BlockPairName>OffensiveCombatBlock</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <ResourceSinkGroup>AIBlock</ResourceSinkGroup>
+            <RequiredPowerInput>0.01</RequiredPowerInput>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>10</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <PCU>1800</PCU>
+            <EmissiveColorPreset>Extended</EmissiveColorPreset>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+    </CubeBlocks>
+</Definitions>

@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VoxelMaterials>
+    
+	<!-- MoonRock_grey -->	
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonRock_grey_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>2</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+	  
+      <ColorMetalXZnY>Textures\Dump\Voxels\MoonRock_grey_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\MarsRocks_01_ForAxisXZ_ng.dds</NormalGlossXZnY>
+  	  <ExtXZnY>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <!--Grass-->
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Models\Environment\Grass\Stalagtite_cm.dds</Color>
+      </FoliageColorTextureArray>
+      
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+
+      <FoliageDensity>0.02</FoliageDensity>
+      <FoliageScale>
+        <X>0.5</X>
+        <Y>1.5</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1</FoliageRandomRescaleMult>
+	  
+	  
+      <ColorKey Hex="#A4B94D"/>
+    </VoxelMaterial>
+	
+	<!-- MoonRock_grey2 -->	
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonRock_grey2_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>2</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+      
+      <ColorMetalXZnY>Textures\Dump\Voxels\MoonRock_grey2_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\MarsRocks_01_ForAxisXZ_ng.dds</NormalGlossXZnY>
+  	  <ExtXZnY>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <!--Grass-->
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Models\Environment\Grass\Stalagtite_cm.dds</Color>
+      </FoliageColorTextureArray>
+      
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+
+      <FoliageDensity>0.03</FoliageDensity>
+      <FoliageScale>
+        <X>0.5</X>
+        <Y>1.5</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1</FoliageRandomRescaleMult>
+	  
+      <ColorKey Hex="#A4B94D"/>
+    </VoxelMaterial>
+	
+	<!-- MoonRock_black2 -->
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonRock_black2_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>2</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+      
+      <ColorMetalXZnY>Textures\Dump\Voxels\MoonRock_black2_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\MarsRocks_01_ForAxisXZ_ng.dds</NormalGlossXZnY>
+  	  <ExtXZnY>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Voxels\moonsoil_grey2_cm.dds</Color>
+      </FoliageColorTextureArray>
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+      <FoliageDensity>1</FoliageDensity>
+      <FoliageScale>
+        <X>1.5</X>
+        <Y>6</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1</FoliageRandomRescaleMult>
+      <FoliageType>1</FoliageType>
+	  
+      <ColorKey Hex="#A4B94D"/>
+    </VoxelMaterial>
+		
+    <!-- MoonSoil_grey -->
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonSoil_grey_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>1</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+      
+      <ColorMetalXZnY>Textures\Dump\Voxels\moonsoil_grey_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\Pertam\DustyRocks_v03_ng.dds</NormalGlossXZnY>
+  	  <ExtXZnY>Textures\Voxels\Pertam\DustyRocks_v03_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Voxels\moonsoil_grey2_cm.dds</Color>
+      </FoliageColorTextureArray>
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+      <FoliageDensity>1</FoliageDensity>
+      <FoliageScale>
+        <X>1.5</X>
+        <Y>10</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1.1</FoliageRandomRescaleMult>
+      <FoliageType>1</FoliageType>
+
+      <ColorKey Hex="#A4B94D"/>
+      
+    </VoxelMaterial>	
+		
+    <!-- MoonSoil_grey2 -->	
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonSoil_grey2_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>1</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+      
+      <ColorMetalXZnY>Textures\Dump\Voxels\moonsoil_grey2_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\AlienSand_ng.dds</NormalGlossXZnY>
+	  <ExtXZnY>Textures\Voxels\Dummy_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Voxels\moonsoil_red2_cm.dds</Color>
+      </FoliageColorTextureArray>
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+      <FoliageDensity>3</FoliageDensity>
+      <FoliageScale>
+        <X>1</X>
+        <Y>4</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1</FoliageRandomRescaleMult>
+      <FoliageType>1</FoliageType>
+
+      <ColorKey Hex="#A4B94D"/>
+      
+    </VoxelMaterial>
+	
+    <!-- MoonSoil_red2 -->
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonSoil_red2_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>1</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+      
+      <ColorMetalXZnY>Textures\Dump\Voxels\moonsoil_red2_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\Pertam\DustyRocks_v03_ng.dds</NormalGlossXZnY>
+  	  <ExtXZnY>Textures\Voxels\Pertam\DustyRocks_v03_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Voxels\moonsoil_black2_cm.dds</Color>
+      </FoliageColorTextureArray>
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+      <FoliageDensity>0.7</FoliageDensity>
+      <FoliageScale>
+        <X>1</X>
+        <Y>2</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1</FoliageRandomRescaleMult>
+      <FoliageType>1</FoliageType>
+
+      <ColorKey Hex="#A4B94D"/>
+      
+    </VoxelMaterial>
+
+    <!-- MoonSoil_black2 -->
+    <VoxelMaterial xsi:type="MyObjectBuilder_Dx11VoxelMaterialDefinition">
+      <Id>
+        <TypeId>VoxelMaterialDefinition</TypeId>
+        <SubtypeId>MoonSoil_black2_qun</SubtypeId>
+      </Id>
+      <MaterialTypeName>MoonSoil</MaterialTypeName>
+      <MinedOre>Stone</MinedOre>
+      <MinedOreRatio>1</MinedOreRatio>
+      <SpawnsInAsteroids>false</SpawnsInAsteroids>
+      <SpawnsFromMeteorites>false</SpawnsFromMeteorites>
+      
+      <VoxelHandPreview>Textures\Voxels\MoonRocks_01_Thumbnail.dds</VoxelHandPreview>
+      
+      <ColorMetalXZnY>Textures\Dump\Voxels\moonsoil_black2_cm.dds</ColorMetalXZnY>
+      <NormalGlossXZnY>Textures\Voxels\Pertam\DustyRocks_v03_ng.dds</NormalGlossXZnY>
+  	  <ExtXZnY>Textures\Voxels\Pertam\DustyRocks_v03_add.dds</ExtXZnY>
+
+      <InitialScale>4</InitialScale>
+      <ScaleMultiplier>4</ScaleMultiplier>
+      <InitialDistance>80</InitialDistance>
+      <DistanceMultiplier>1</DistanceMultiplier>
+      <TilingScale>20</TilingScale>
+      <Scale>2</Scale>
+      <Far1Distance>80</Far1Distance>
+      <Far2Distance>180</Far2Distance>
+      <Far1Scale>100</Far1Scale>
+      <Far2Scale>400</Far2Scale>
+
+      <FoliageColorTextureArray>
+        <Color>Textures\Dump\Voxels\moonsoil_grey2_cm.dds</Color>
+      </FoliageColorTextureArray>
+      <FoliageNormalTextureArray>
+        <Normal>Textures\Voxels\MarsRocks_01_ForAxisXZ_add.dds</Normal>
+      </FoliageNormalTextureArray>
+      <FoliageDensity>0.7</FoliageDensity>
+      <FoliageScale>
+        <X>2</X>
+        <Y>12</Y>
+      </FoliageScale>
+      <FoliageRandomRescaleMult>1</FoliageRandomRescaleMult>
+      <FoliageType>1</FoliageType>
+
+      <ColorKey Hex="#A4B94D"/>
+      
+    </VoxelMaterial>	
+  </VoxelMaterials>
+</Definitions>

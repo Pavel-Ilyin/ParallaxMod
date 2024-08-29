@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_ShipWelderDefinition">
+            <Id>
+                <TypeId>ShipWelder</TypeId>
+                <SubtypeId>LargeIndustrialWelder</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_IndustrialWelder</DisplayName>
+            <Icon>Textures\Icons\IndustrialWelder.png</Icon>
+            <Description>Description_IndustrialWelder</Description>
+            <CubeSize>Large</CubeSize>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="2"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Center x="0" y="0" z="1"/>
+            <Model>Models\Cubes\Large\Welder.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <UsesDeformation>false</UsesDeformation>
+            <Components>
+                <Component Subtype="SteelPlate" Count="15"/>
+                <Component Subtype="Calculator" Count="64"/>
+                <Component Subtype="Construction" Count="25"/>
+                <Component Subtype="LargeTube" Count="1"/>
+                <Component Subtype="Motor" Count="2"/>
+                <Component Subtype="Computer" Count="2"/>
+                <Component Subtype="Construction" Count="5"/>
+                <Component Subtype="SteelPlate" Count="5"/>
+            </Components>
+            <CriticalComponent Subtype="Motor" Index="0"/>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\WelderConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\WelderConstruction_2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\WelderConstruction_3.mwm"/>
+            </BuildProgressModels>
+            <VoxelPlacement>
+                <StaticMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0</MinAllowed>
+                </StaticMode>
+                <DynamicMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0.01</MinAllowed>
+                </DynamicMode>
+            </VoxelPlacement>
+            <MountPoints>
+                <MountPoint Side="Left" StartX="1.18" StartY="0.20" EndX="1.92" EndY="0.80"/>
+                <MountPoint Side="Right" StartX="0.08" StartY="0.20" EndX="0.82" EndY="0.80"/>
+                <MountPoint Side="Top" StartX="0.30" StartY="0.30" EndX="0.70" EndY="0.70"/>
+                <MountPoint Side="Bottom" StartX="0.30" StartY="1.30" EndX="0.70" EndY="1.70"/>
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1" Default="true"/>
+            </MountPoints>
+            <BlockPairName>ShipIndustrialWelder</BlockPairName>
+            <MirroringZ>X</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <Public>true</Public>
+            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <Flare>ShipWelderLarge</Flare>
+            <EmissiveColorPreset>Welder</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <SensorRadius>15</SensorRadius>
+            <SensorOffset>6</SensorOffset>
+            <PCU>32000</PCU>
+        </Definition>
+    </CubeBlocks>
+</Definitions>

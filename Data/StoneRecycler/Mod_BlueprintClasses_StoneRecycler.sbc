@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClassEntries>
+		<Entry Class="SmallBlocks" BlueprintSubtypeId="Refinery/SmallStoneRecycler" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="Refinery/LargeStoneRecycler" />
+    </BlueprintClassEntries>
+  <BlueprintClasses>
+	<Class>
+		<Id>
+			<TypeId>BlueprintClassDefinition</TypeId>
+			<SubtypeId>Stone_Destroyer</SubtypeId>
+		</Id>
+		<DisplayName>DisplayName_BlueprintClass_Ingots</DisplayName>
+		<Icon>Textures\GUI\Icons\ingot\ingot_class.dds</Icon>		
+		<HighlightIcon>Textures\GUI\Icons\buttons\large_block.dds</HighlightIcon>
+		<InputConstraintIcon>Textures\GUI\Icons\filter_ore.dds</InputConstraintIcon>
+		<OutputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</OutputConstraintIcon>
+	</Class>
+  </BlueprintClasses>
+  <BlueprintClassEntries>
+  	<Entry Class="Stone_Destroyer" BlueprintSubtypeId="StoneToNil" />
+  </BlueprintClassEntries>
+</Definitions>

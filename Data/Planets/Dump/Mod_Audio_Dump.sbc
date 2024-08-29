@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sounds>
+    <Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>AmbQun</SubtypeId>
+      </Id>
+      <Category>Amb</Category>
+      <MaxDistance>100</MaxDistance>
+      <Volume>0.6</Volume>
+      <Loopable>true</Loopable>
+      <!--<ModifiableByHelmetFilters>false</ModifiableByHelmetFilters>-->
+      <Waves>
+        <Wave Type="D2">
+          <Loop>Audio\Dump\AmbQunLoop.wav</Loop>
+        </Wave>
+      </Waves>
+    </Sound>
+  </Sounds>
+</Definitions>

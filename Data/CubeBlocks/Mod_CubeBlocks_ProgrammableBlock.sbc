@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_ProgrammableBlockDefinition">
+            <Id>
+                <TypeId>MyProgrammableBlock</TypeId>
+                <SubtypeId>LargeProgrammableBlock</SubtypeId>
+            </Id>
+            <Public>true</Public>
+            <DisplayName>DisplayName_Programmable_Block</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammingBlock.dds</Icon>
+            <Description>Description_ProgrammableBlock</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Large\ProgrammingBlock.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="11"/>
+                <Component Subtype="Construction" Count="4"/>
+                <Component Subtype="LargeTube" Count="2"/>
+                <Component Subtype="Motor" Count="1"/>
+                <Component Subtype="Display" Count="1"/>
+                <Component Subtype="Computer" Count="2"/>
+                <Component Subtype="Calculator" Count="512">
+                    <DeconstructId>
+                        <TypeId>Ore</TypeId>
+                        <SubtypeId>Scrap</SubtypeId>
+                    </DeconstructId>
+                </Component>
+                <Component Subtype="SteelPlate" Count="10"/>
+            </Components>
+            <CriticalComponent Subtype="Calculator" Index="0"/>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\ProgrammingBlockConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\ProgrammingBlockConstruction_2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\ProgrammingBlockConstruction_3.mwm"/>
+            </BuildProgressModels>
+            <ScreenAreas>
+                <ScreenArea Name="CockpitScreen_02" DisplayName="DisplayName_Screen_Large" TextureResolution="512" ScreenWidth="16" ScreenHeight="10"/>
+                <ScreenArea Name="CockpitScreen_01" DisplayName="DisplayName_Screen_Keyboard" TextureResolution="256" ScreenWidth="5" ScreenHeight="2"/>
+            </ScreenAreas>
+            <BlockPairName>ProgrammableBlock</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>20</BuildTimeSeconds>
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0" EndX="1.0" EndY="1.0"/>
+            </MountPoints>
+            <ResourceSinkGroup>Utility</ResourceSinkGroup>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>32000</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ProgrammableBlockDefinition">
+            <Id>
+                <TypeId>MyProgrammableBlock</TypeId>
+                <SubtypeId>SmallProgrammableBlock</SubtypeId>
+            </Id>
+            <Public>true</Public>
+            <DisplayName>DisplayName_Programmable_Block</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammingBlock.dds</Icon>
+            <Description>Description_ProgrammableBlock</Description>
+            <CubeSize>Small</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Small\ProgrammingBlock.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="1"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="LargeTube" Count="2"/>
+                <Component Subtype="Motor" Count="1"/>
+                <Component Subtype="Display" Count="1"/>
+                <Component Subtype="Computer" Count="2"/>
+                <Component Subtype="Calculator" Count="512">
+                    <DeconstructId>
+                        <TypeId>Ore</TypeId>
+                        <SubtypeId>Scrap</SubtypeId>
+                    </DeconstructId>
+                </Component>
+                <Component Subtype="SteelPlate" Count="1"/>
+            </Components>
+            <CriticalComponent Subtype="Calculator" Index="0"/>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\ProgrammingBlockConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\ProgrammingBlockConstruction_2.mwm"/>
+            </BuildProgressModels>
+            <BlockPairName>ProgrammableBlock</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>8</BuildTimeSeconds>
+            <MountPoints>
+                <MountPoint Side="Front" ExclusionMask="3" PropertiesMask="3" StartX="0" StartY="0" EndX="1" EndY="1"/>
+            </MountPoints>
+            <ScreenAreas>
+                <ScreenArea Name="CockpitScreen_01" DisplayName="DisplayName_Screen_Large" TextureResolution="256" ScreenWidth="1" ScreenHeight="1"/>
+                <ScreenArea Name="CockpitScreen_02" DisplayName="DisplayName_Screen_Keyboard" TextureResolution="128" ScreenWidth="11" ScreenHeight="4"/>
+            </ScreenAreas>
+            <ResourceSinkGroup>Utility</ResourceSinkGroup>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Tiny</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>16000</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ProgrammableBlockDefinition">
+            <Id>
+                <TypeId>MyProgrammableBlock</TypeId>
+                <SubtypeId>LargeProgrammableBlockReskin</SubtypeId>
+            </Id>
+            <Public>true</Public>
+            <DisplayName>DisplayName_Programmable_BlockReskin</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammableBlock.dds</Icon>
+            <Description>Description_ProgrammableBlock</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Large\ProgrammableBlock.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="11"/>
+                <Component Subtype="Construction" Count="4"/>
+                <Component Subtype="LargeTube" Count="2"/>
+                <Component Subtype="Motor" Count="1"/>
+                <Component Subtype="Display" Count="1"/>
+                <Component Subtype="Computer" Count="2"/>
+                <Component Subtype="Calculator" Count="512">
+                    <DeconstructId>
+                        <TypeId>Ore</TypeId>
+                        <SubtypeId>Scrap</SubtypeId>
+                    </DeconstructId>
+                </Component>
+                <Component Subtype="SteelPlate" Count="10"/>
+            </Components>
+            <CriticalComponent Subtype="Calculator" Index="0"/>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\ProgrammableBlockConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\ProgrammableBlockConstruction_2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\ProgrammableBlockConstruction_3.mwm"/>
+            </BuildProgressModels>
+            <ScreenAreas>
+                <ScreenArea Name="CockpitScreen_01" DisplayName="DisplayName_Screen_Large" TextureResolution="512" ScreenWidth="4" ScreenHeight="5"/>
+                <ScreenArea Name="CockpitScreen_02" DisplayName="DisplayName_Screen_Keyboard" TextureResolution="256" ScreenWidth="5" ScreenHeight="3"/>
+            </ScreenAreas>
+            <BlockPairName>ProgrammableBlockReskin</BlockPairName>
+            <MirroringX>MinusHalfY</MirroringX>
+            <MirroringY>ZHalfY</MirroringY>
+            <MirroringZ>HalfY</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>20</BuildTimeSeconds>
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0.0" StartY="0" EndX="1.0" EndY="0.2" Default="true"/>
+                <MountPoint Side="Bottom" StartX="0.8" StartY="0.2" EndX="1.0" EndY="1"/>
+                <MountPoint Side="Left" StartX="0.0" StartY="0" EndX="0.2" EndY="1.0"/>
+                <MountPoint Side="Back" StartX="0.8" StartY="0" EndX="1.0" EndY="1.0"/>
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1.0" EndY="1.0"/>
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1.0" EndY="1.0"/>
+                <MountPoint Side="Top" StartX="0.8" StartY="0" EndX="1.0" EndY="1"/>
+                <MountPoint Side="Top" StartX="0.0" StartY="0.8" EndX="0.8" EndY="1"/>
+            </MountPoints>
+            <ResourceSinkGroup>Utility</ResourceSinkGroup>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>32000</PCU>
+            <DLC>Automatons</DLC>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ProgrammableBlockDefinition">
+            <Id>
+                <TypeId>MyProgrammableBlock</TypeId>
+                <SubtypeId>SmallProgrammableBlockReskin</SubtypeId>
+            </Id>
+            <Public>true</Public>
+            <DisplayName>DisplayName_Programmable_BlockReskin</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammableBlockReskin.dds</Icon>
+            <Description>Description_ProgrammableBlock</Description>
+            <CubeSize>Small</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Small\ProgrammableBlockReskin.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="1"/>
+                <Component Subtype="Construction" Count="2"/>
+                <Component Subtype="LargeTube" Count="2"/>
+                <Component Subtype="Motor" Count="1"/>
+                <Component Subtype="Display" Count="1"/>
+                <Component Subtype="Computer" Count="2"/>
+                <Component Subtype="Calculator" Count="512">
+                    <DeconstructId>
+                        <TypeId>Ore</TypeId>
+                        <SubtypeId>Scrap</SubtypeId>
+                    </DeconstructId>
+                </Component>
+                <Component Subtype="SteelPlate" Count="1"/>
+            </Components>
+            <CriticalComponent Subtype="Calculator" Index="0"/>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\ProgrammableBlockReskinConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\ProgrammableBlockReskinConstruction_2.mwm"/>
+            </BuildProgressModels>
+            <BlockPairName>ProgrammableBlockReskin</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>8</BuildTimeSeconds>
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9" Default="true"/>
+                <MountPoint Side="Left" StartX="0.1" StartY="0" EndX="0.7" EndY="0.9"/>
+                <MountPoint Side="Front" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+                <MountPoint Side="Back" StartX="0.2" StartY="0" EndX="0.8" EndY="0.1"/>
+                <MountPoint Side="Right" StartX="0.3" StartY="0" EndX="0.9" EndY="0.9"/>
+                <MountPoint Side="Top" StartX="0.1" StartY="0.3" EndX="0.9" EndY="1"/>
+            </MountPoints>
+            <ScreenAreas>
+                <ScreenArea Name="CockpitScreen_01" DisplayName="DisplayName_Screen_Large" TextureResolution="256" ScreenWidth="10" ScreenHeight="7"/>
+                <ScreenArea Name="CockpitScreen_02" DisplayName="DisplayName_Screen_Keyboard" TextureResolution="128" ScreenWidth="11" ScreenHeight="4"/>
+            </ScreenAreas>
+            <ResourceSinkGroup>Utility</ResourceSinkGroup>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Tiny</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>16000</PCU>
+            <IsAirTight>false</IsAirTight>
+            <DLC>Automatons</DLC>
+        </Definition>
+    </CubeBlocks>
+</Definitions>

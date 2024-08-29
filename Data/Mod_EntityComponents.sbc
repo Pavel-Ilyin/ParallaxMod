@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<EntityComponents>
+		<EntityComponent xsi:type="MyObjectBuilder_TimerComponentDefinition">
+			<!-- this value can be overridden by settings of the world -->
+			<TimeToRemoveMin>15</TimeToRemoveMin>
+		</EntityComponent>
+		<Id>
+			<TypeId>TimerComponent</TypeId>
+			<SubtypeId>AstronautBackpack</SubtypeId>
+		</Id>
+		<EntityComponent xsi:type="MyObjectBuilder_TargetFocusComponentDefinition">
+			<Id>
+				<TypeId>TargetFocusComponent</TypeId>
+				<SubtypeId>Character</SubtypeId>
+			</Id>
+			<FocusSearchMaxDistance>7000</FocusSearchMaxDistance>
+			<AngularToleranceFromCrosshair>25</AngularToleranceFromCrosshair>
+		</EntityComponent>
+		<EntityComponent xsi:type="MyObjectBuilder_TargetLockingComponentDefinition">
+			<Id>
+				<TypeId>TargetLockingComponent</TypeId>
+				<SubtypeId>Character</SubtypeId>
+			</Id>
+			<LockingModifierSmallGrid>2</LockingModifierSmallGrid>
+			<LockingModifierLargeGrid>1</LockingModifierLargeGrid>
+			<LockingTimeMin>1</LockingTimeMin>
+			<LockingTimeMax>3</LockingTimeMax>
+			<LockingModifierDistance>10</LockingModifierDistance>
+			<LockingModifierCharacter>2</LockingModifierCharacter>
+			<LockingTimeMinCharacter>1</LockingTimeMinCharacter>
+			<LockingTimeMaxCharacter>10</LockingTimeMaxCharacter>
+			<LockingModifierDistanceCharacter>10</LockingModifierDistanceCharacter>
+		</EntityComponent>
+		<EntityComponent xsi:type="MyObjectBuilder_EntityCapacitorComponentDefinition">
+			<Id>
+				<TypeId>EntityCapacitorComponent</TypeId>
+				<SubtypeId>SmallRailgun</SubtypeId>
+			</Id>
+			<Capacity>0.016</Capacity>
+			<RechargeDraw>3.6</RechargeDraw>
+		</EntityComponent>
+		<EntityComponent xsi:type="MyObjectBuilder_EntityCapacitorComponentDefinition">
+			<Id>
+				<TypeId>EntityCapacitorComponent</TypeId>
+				<SubtypeId>LargeRailgun</SubtypeId>
+			</Id>
+			<Capacity>0.6</Capacity>
+			<RechargeDraw>64</RechargeDraw>
+		</EntityComponent>
+		<EntityComponent xsi:type="MyObjectBuilder_EventDistanceToLockedTargetDefinition">
+			<Id>
+				<TypeId>EventDistanceToLockedTarget</TypeId>
+				<Subtypeid>EventControllerBlockComponent</Subtypeid>
+			</Id>
+			<UniqueSelectionId>22</UniqueSelectionId>
+			<MaxDistance>4000</MaxDistance>
+			<DefaultDistance>4000</DefaultDistance>
+		</EntityComponent>
+		<EntityComponent xsi:type="MyObjectBuilder_SearchEnemyComponentDefinition">
+			<Id>
+				<TypeId>SearchEnemyComponent</TypeId>
+				<SubtypeId>DefaultEnemySearch</SubtypeId>
+			</Id>
+			<SearchRadius>4000</SearchRadius>
+		</EntityComponent>
+	</EntityComponents>
+</Definitions>

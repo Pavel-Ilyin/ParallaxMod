@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SoundCategories>
+    <SoundCategory>
+      <Id>
+        <TypeId>SoundCategoryDefinition</TypeId>
+        <SubtypeId>MusicCategory</SubtypeId>
+      </Id>
+      <Sounds>
+	  
+		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
+        <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />
+        <SoundDesc Id= "Rock_02" SoundName= "Depeche Mode - Personal Jesus" />
+		<SoundDesc Id= "Rock_03" SoundName= "Limp Bizkit - Behind Blue Eyes" />
+		<SoundDesc Id= "Rock_04" SoundName= "Linkin Park - Public Service Announcement" />
+		<SoundDesc Id= "Rock_05" SoundName= "Nirvana - Smells Like Teen Spirit" />
+		<SoundDesc Id= "Rock_06" SoundName= "Queen - The Show Must Go On" />
+		<SoundDesc Id= "Rock_07" SoundName= "Queen - We Will Rock You" />
+		<SoundDesc Id= "Rock_08" SoundName= "Scorpions - Still Loving You" />
+		<SoundDesc Id= "Rock_09" SoundName= "Scorpions - Wind Of Change" />
+		<SoundDesc Id= "Rock_10" SoundName= "VNV Nation - Illusion" />
+
+        <SoundDesc Id= "" SoundName= "Green_ya--------------------------------" />
+        <SoundDesc Id= "Green_ya_001" SoundName= "Хранитель" />
+        <SoundDesc Id= "Green_ya_002" SoundName= "Космические пираты" />
+		<SoundDesc Id= "Green_ya_003" SoundName= "Космический рудник" />
+		<SoundDesc Id= "Green_ya_004" SoundName= "Космические олухи" />
+
+		<SoundDesc Id= "" SoundName= "Parallax--------------------------------" />
+        <SoundDesc Id= "PARALLAX_001" SoundName= "Aljosha Konstanty - Ghost on Your Lips" />
+        <SoundDesc Id= "PARALLAX_002" SoundName= "Ambyion,Galaxytones - Ascension" />
+		<SoundDesc Id= "PARALLAX_003" SoundName= "Bensley - Cold Storage" />
+		<SoundDesc Id= "PARALLAX_004" SoundName= "Blank and Jones - The Beach" />
+		<SoundDesc Id= "PARALLAX_005" SoundName= "Bryan El - Supernova" />
+		<SoundDesc Id= "PARALLAX_006" SoundName= "Gysnoize - Are You Dreaming" />
+		<SoundDesc Id= "PARALLAX_007" SoundName= "Kasbo - Hemma" />
+		<SoundDesc Id= "PARALLAX_008" SoundName= "Modulation Sounds - Falling" />
+		<SoundDesc Id= "PARALLAX_009" SoundName= "Nephed - Die Alone (Original Mix)" />
+		<SoundDesc Id= "PARALLAX_010" SoundName= "Thomas Lizzara - Lucerne" />
+        <SoundDesc Id= "PARALLAX_011" SoundName= "Alex Freel - Fiend" />
+        <SoundDesc Id= "PARALLAX_012" SoundName= "ATB - Future Memories" />
+		<SoundDesc Id= "PARALLAX_013" SoundName= "Bert H,High N Sick - Deep Inside" />
+		<SoundDesc Id= "PARALLAX_014" SoundName= "Trails - Costello Ave" />
+		<SoundDesc Id= "PARALLAX_015" SoundName= "Galaxytones - Synesthesia" />
+		<SoundDesc Id= "PARALLAX_016" SoundName= "Joris Delacroix - Courage" />
+		<SoundDesc Id= "PARALLAX_017" SoundName= "Notize - Float" />
+		<SoundDesc Id= "PARALLAX_018" SoundName= "psyagesh - Takki" />
+		<SoundDesc Id= "PARALLAX_019" SoundName= "Sans Souci - Nanika" />
+		<SoundDesc Id= "PARALLAX_020" SoundName= "VEL94EV - Our Feelings" />
+        <SoundDesc Id= "PARALLAX_021" SoundName= "AiYo - Leaving Gravity" />
+        <SoundDesc Id= "PARALLAX_022" SoundName= "Bryan El - Universal Ascension" />
+		<SoundDesc Id= "PARALLAX_023" SoundName= "Dylan Sitts - Yeehaw Slap" />
+		<SoundDesc Id= "PARALLAX_024" SoundName= "Broosnica - To The Ground" />
+		<SoundDesc Id= "PARALLAX_025" SoundName= "Fakear - Chakra" />
+		<SoundDesc Id= "PARALLAX_026" SoundName= "Keeno - Innocence" />
+		<SoundDesc Id= "PARALLAX_027" SoundName= "VSZXMANE - MOVEMENT" />
+		<SoundDesc Id= "PARALLAX_028" SoundName= "CyberMafia - Cyber Combat" />
+		<SoundDesc Id= "PARALLAX_029" SoundName= "MOICRY - Decay" />
+		<SoundDesc Id= "PARALLAX_030" SoundName= "Galaxytones - Resistance" />
+		<SoundDesc Id= "PARALLAX_031" SoundName= "Muffler - Start Line" />
+		<SoundDesc Id= "PARALLAX_032" SoundName= "nervous_testpilot - Triumph" />
+		<SoundDesc Id= "PARALLAX_033" SoundName= "Ugress - Your Apathy Is Important To Us" />
+		<SoundDesc Id= "PARALLAX_034" SoundName= "The xx - Intro" />
+		<SoundDesc Id= "PARALLAX_035" SoundName= "Gennadiy Adamenko - Never Cry" />
+		<SoundDesc Id= "PARALLAX_036" SoundName= "Green Sun - Simplicity" />
+		<SoundDesc Id= "PARALLAX_037" SoundName= "GVN - Ethereal" />
+		<SoundDesc Id= "PARALLAX_038" SoundName= "Gysnoize - I Need You" />
+		<SoundDesc Id= "PARALLAX_039" SoundName= "March 13 - Take Your Time" />
+		<SoundDesc Id= "PARALLAX_040" SoundName= "Modulation Sounds - Breath" />
+		
+		<SoundDesc Id= "" SoundName= "Pirate wave-----------------------------" />
+		<SoundDesc Id= "PirateWAVE_001" SoundName= "Adam Liria - Experiment" />
+		<SoundDesc Id= "PirateWAVE_002" SoundName= "Airsand,TuraniQa - Take You Home" />
+		<SoundDesc Id= "PirateWAVE_003" SoundName= "Artbat - Prometheus" />
+		<SoundDesc Id= "PirateWAVE_004" SoundName= "Beautiful Lies Vip - B-Complex" />
+		<SoundDesc Id= "PirateWAVE_005" SoundName= "Black Sun Empire - Elusive" />
+		<SoundDesc Id= "PirateWAVE_006" SoundName= "Black Sun Empire - Immersion" />
+		<SoundDesc Id= "PirateWAVE_007" SoundName= "Black Sun Empire - Killing the Light" />
+		<SoundDesc Id= "PirateWAVE_008" SoundName= "Colombo - Deja Vu" />
+		<SoundDesc Id= "PirateWAVE_009" SoundName= "Colombo - Gods" />
+		<SoundDesc Id= "PirateWAVE_010" SoundName= "Far Distance - Ibai" />
+		<SoundDesc Id= "PirateWAVE_011" SoundName= "Fatboy Slim - Right Here Right Now" />
+		<SoundDesc Id= "PirateWAVE_012" SoundName= "Gysnoize - Dance Motion" />
+		<SoundDesc Id= "PirateWAVE_013" SoundName= "Hyper - Spoiler" />
+		<SoundDesc Id= "PirateWAVE_014" SoundName= "L19U1D - BREAK YOUR NECK" />
+		<SoundDesc Id= "PirateWAVE_015" SoundName= "Max Brhon - The Future" />
+		<SoundDesc Id= "PirateWAVE_016" SoundName= "Muffler - Northern Lights" />
+		<SoundDesc Id= "PirateWAVE_017" SoundName= "Nephed - Die Alone" />
+		<SoundDesc Id= "PirateWAVE_018" SoundName= "Night Talk Nuemp - Binary Division" />
+		<SoundDesc Id= "PirateWAVE_019" SoundName= "Noisestorm - Barracuda" />
+		<SoundDesc Id= "PirateWAVE_020" SoundName= "Pablo Moriego - Indifference" />
+		<SoundDesc Id= "PirateWAVE_021" SoundName= "seimoro - Ikigai (Intro)" />
+		<SoundDesc Id= "PirateWAVE_022" SoundName= "SVVVSH - DAISIES" />
+		<SoundDesc Id= "PirateWAVE_023" SoundName= "The Chemical Brothers - Hey Boy Hey Girl" />
+		<SoundDesc Id= "PirateWAVE_024" SoundName= "The Crystal Method - Busy Child" />
+		<SoundDesc Id= "PirateWAVE_025" SoundName= "The Prodigy - Breathe" />
+		<SoundDesc Id= "PirateWAVE_026" SoundName= "The Prodigy - Take Me To The Hospital" />
+		<SoundDesc Id= "PirateWAVE_027" SoundName= "Under This - Here We Go Again" />
+		<SoundDesc Id= "PirateWAVE_028" SoundName= "VEL94EV - Man Is a Machine" />
+		<SoundDesc Id= "PirateWAVE_029" SoundName= "VINIVILLA - XXX" />
+		<SoundDesc Id= "PirateWAVE_030" SoundName= "Zero Cult - Moonlight Run" />
+
+		<SoundDesc Id= "" SoundName= "Calm------------------------------------" />
+        <SoundDesc Id= "MusCalm_01" SoundName= "SoundBlock_SoundName_MusCalm_01" />
+		<SoundDesc Id= "MusCalm_02" SoundName= "SoundBlock_SoundName_MusCalm_02" />
+		<SoundDesc Id= "MusCalm_03" SoundName= "SoundBlock_SoundName_MusCalm_03" />
+		<SoundDesc Id= "MusCalm_04" SoundName= "SoundBlock_SoundName_MusCalm_04" />
+		<SoundDesc Id= "MusCalm_05" SoundName= "SoundBlock_SoundName_MusCalm_05" />
+		<SoundDesc Id= "MusCalm_06" SoundName= "SoundBlock_SoundName_MusCalm_06" />
+		<SoundDesc Id= "MusCalm_07" SoundName= "SoundBlock_SoundName_MusCalm_07" />
+		<SoundDesc Id= "MusCalm_08" SoundName= "SoundBlock_SoundName_MusCalm_08" />
+		<SoundDesc Id= "MusCalm_09" SoundName= "SoundBlock_SoundName_MusCalm_09" />
+		<SoundDesc Id= "MusCalm_10" SoundName= "SoundBlock_SoundName_MusCalm_10" />
+		<SoundDesc Id= "MusCalm_11" SoundName= "SoundBlock_SoundName_MusCalm_11" />
+		<SoundDesc Id= "MusCalm_12" SoundName= "SoundBlock_SoundName_MusCalm_12" />
+		<SoundDesc Id= "MusCalm_13" SoundName= "SoundBlock_SoundName_MusCalm_13" />
+
+		<SoundDesc Id= "" SoundName= "Mystery---------------------------------" />
+		<SoundDesc Id= "MusMystery_01" SoundName= "SoundBlock_SoundName_MusMystery_01" />
+		<SoundDesc Id= "MusMystery_02" SoundName= "SoundBlock_SoundName_MusMystery_02" />
+		<SoundDesc Id= "MusMystery_03" SoundName= "SoundBlock_SoundName_MusMystery_03" />
+		<SoundDesc Id= "MusMystery_04" SoundName= "SoundBlock_SoundName_MusMystery_04" />
+		<SoundDesc Id= "MusMystery_05" SoundName= "SoundBlock_SoundName_MusMystery_05" />
+		<SoundDesc Id= "MusMystery_06" SoundName= "SoundBlock_SoundName_MusMystery_06" />
+		<SoundDesc Id= "MusMystery_07" SoundName= "SoundBlock_SoundName_MusMystery_07" />
+		<SoundDesc Id= "MusMystery_08" SoundName= "SoundBlock_SoundName_MusMystery_08" />
+
+		<SoundDesc Id= "" SoundName= "Build-----------------------------------" />
+		<SoundDesc Id= "MusBuild_01" SoundName= "SoundBlock_SoundName_MusBuild_01" />
+		<SoundDesc Id= "MusBuild_02" SoundName= "SoundBlock_SoundName_MusBuild_02" />
+		<SoundDesc Id= "MusBuild_03" SoundName= "SoundBlock_SoundName_MusBuild_03" />
+		<SoundDesc Id= "MusBuild_04" SoundName= "SoundBlock_SoundName_MusBuild_04" />
+		<SoundDesc Id= "MusBuild_05" SoundName= "SoundBlock_SoundName_MusBuild_05" />
+		<SoundDesc Id= "MusBuild_06" SoundName= "SoundBlock_SoundName_MusBuild_06" />
+		<SoundDesc Id= "MusBuild_07" SoundName= "SoundBlock_SoundName_MusBuild_07" />
+		<SoundDesc Id= "MusSpace_01" SoundName= "SoundBlock_SoundName_MusSpace_01" />
+		<SoundDesc Id= "MusSpace_02" SoundName= "SoundBlock_SoundName_MusSpace_02" />
+		<SoundDesc Id= "MusSpace_03" SoundName= "SoundBlock_SoundName_MusSpace_03" />
+		<SoundDesc Id= "MusSpace_04" SoundName= "SoundBlock_SoundName_MusSpace_04" />
+		<SoundDesc Id= "MusSpace_05" SoundName= "SoundBlock_SoundName_MusSpace_05" />
+		<SoundDesc Id= "MusSpace_06" SoundName= "SoundBlock_SoundName_MusSpace_06" />
+		<SoundDesc Id= "MusSpace_07" SoundName= "SoundBlock_SoundName_MusSpace_07" />
+		<SoundDesc Id= "MusSpace_08" SoundName= "SoundBlock_SoundName_MusSpace_08" />
+		<SoundDesc Id= "MusSpace_09" SoundName= "SoundBlock_SoundName_MusSpace_09" />
+		<SoundDesc Id= "MusSpace_10" SoundName= "SoundBlock_SoundName_MusSpace_10" />
+		<SoundDesc Id= "MusSpace_11" SoundName= "SoundBlock_SoundName_MusSpace_11" />
+		<SoundDesc Id= "MusSpace_12" SoundName= "SoundBlock_SoundName_MusSpace_12" />
+
+		<SoundDesc Id= "" SoundName= "Light Fight-----------------------------" />
+		<SoundDesc Id= "MusLightFight_01" SoundName= "SoundBlock_SoundName_MusLightFight_01" />
+		<SoundDesc Id= "MusLightFight_02" SoundName= "SoundBlock_SoundName_MusLightFight_02" />
+		<SoundDesc Id= "MusLightFight_03" SoundName= "SoundBlock_SoundName_MusLightFight_03" />
+		<SoundDesc Id= "MusLightFight_04" SoundName= "SoundBlock_SoundName_MusLightFight_04" />
+		<SoundDesc Id= "MusLightFight_05" SoundName= "SoundBlock_SoundName_MusLightFight_05" />
+		<SoundDesc Id= "MusLightFight_06" SoundName= "SoundBlock_SoundName_MusLightFight_06" />
+		<SoundDesc Id= "MusLightFight_07" SoundName= "SoundBlock_SoundName_MusLightFight_07" />
+		<SoundDesc Id= "MusLightFight_08" SoundName= "SoundBlock_SoundName_MusLightFight_08" />
+		<SoundDesc Id= "MusLightFight_09" SoundName= "SoundBlock_SoundName_MusLightFight_09" />
+		<SoundDesc Id= "MusLightFight_10" SoundName= "SoundBlock_SoundName_MusLightFight_10" />
+		<SoundDesc Id= "MusLightFight_11" SoundName= "SoundBlock_SoundName_MusLightFight_11" />
+		<SoundDesc Id= "MusLightFight_12" SoundName= "SoundBlock_SoundName_MusLightFight_12" />
+		<SoundDesc Id= "MusLightFight_13" SoundName= "SoundBlock_SoundName_MusLightFight_13" />
+		<SoundDesc Id= "MusLightFight_14" SoundName= "SoundBlock_SoundName_MusLightFight_14" />
+		<SoundDesc Id= "MusHeavyFight_01" SoundName= "SoundBlock_SoundName_MusHeavyFight_01" />
+		<SoundDesc Id= "MusHeavyFight_02" SoundName= "SoundBlock_SoundName_MusHeavyFight_02" />
+		<SoundDesc Id= "MusHeavyFight_03" SoundName= "SoundBlock_SoundName_MusHeavyFight_03" />
+		<SoundDesc Id= "MusHeavyFight_04" SoundName= "SoundBlock_SoundName_MusHeavyFight_04" />
+		<SoundDesc Id= "MusHeavyFight_05" SoundName= "SoundBlock_SoundName_MusHeavyFight_05" />
+		<SoundDesc Id= "MusHeavyFight_06" SoundName= "SoundBlock_SoundName_MusHeavyFight_06" />
+		<SoundDesc Id= "MusHeavyFight_07" SoundName= "SoundBlock_SoundName_MusHeavyFight_07" />
+		<SoundDesc Id= "MusHeavyFight_08" SoundName= "SoundBlock_SoundName_MusHeavyFight_08" />
+		<SoundDesc Id= "MusHeavyFight_09" SoundName= "SoundBlock_SoundName_MusHeavyFight_09" />
+		<SoundDesc Id= "MusHeavyFight_10" SoundName= "SoundBlock_SoundName_MusHeavyFight_10" />
+		<SoundDesc Id= "MusHeavyFight_11" SoundName= "SoundBlock_SoundName_MusHeavyFight_11" />
+		<SoundDesc Id= "MusHeavyFight_12" SoundName= "SoundBlock_SoundName_MusHeavyFight_12" />
+		<SoundDesc Id= "MusHeavyFight_13" SoundName= "SoundBlock_SoundName_MusHeavyFight_13" />
+		<SoundDesc Id= "MusHeavyFight_14" SoundName= "SoundBlock_SoundName_MusHeavyFight_14" />
+
+		<SoundDesc Id= "" SoundName= "Danger----------------------------------" />
+		<SoundDesc Id= "MusDanger_01" SoundName= "SoundBlock_SoundName_MusDanger_01" />
+		<SoundDesc Id= "MusDanger_02" SoundName= "SoundBlock_SoundName_MusDanger_02" />
+		<SoundDesc Id= "MusDanger_03" SoundName= "SoundBlock_SoundName_MusDanger_03" />
+		<SoundDesc Id= "MusDanger_04" SoundName= "SoundBlock_SoundName_MusDanger_04" />
+		<SoundDesc Id= "MusDanger_05" SoundName= "SoundBlock_SoundName_MusDanger_05" />
+		<SoundDesc Id= "MusDanger_06" SoundName= "SoundBlock_SoundName_MusDanger_06" />
+
+		<SoundDesc Id= "" SoundName= "Earthlike-------------------------------" />
+		<SoundDesc Id= "MusEarthlike_01" SoundName= "SoundBlock_SoundName_MusEarthlike_01" />
+		<SoundDesc Id= "MusEarthlike_02" SoundName= "SoundBlock_SoundName_MusEarthlike_02" />
+		<SoundDesc Id= "MusEarthlike_03" SoundName= "SoundBlock_SoundName_MusEarthlike_03" />
+		<SoundDesc Id= "MusEarthlike_04" SoundName= "SoundBlock_SoundName_MusEarthlike_04" />
+		<SoundDesc Id= "MusEarthlike_05" SoundName= "SoundBlock_SoundName_MusEarthlike_05" />
+		<SoundDesc Id= "MusEarthlike_06" SoundName= "SoundBlock_SoundName_MusEarthlike_06" />
+
+		<SoundDesc Id= "" SoundName= "Planet----------------------------------" />
+		<SoundDesc Id= "MusPlanet_01" SoundName= "SoundBlock_SoundName_MusPlanet_01" />
+		<SoundDesc Id= "MusPlanet_02" SoundName= "SoundBlock_SoundName_MusPlanet_02" />
+		<SoundDesc Id= "MusPlanet_03" SoundName= "SoundBlock_SoundName_MusPlanet_03" />
+		<SoundDesc Id= "MusPlanet_04" SoundName= "SoundBlock_SoundName_MusPlanet_04" />
+		<SoundDesc Id= "MusPlanet_05" SoundName= "SoundBlock_SoundName_MusPlanet_05" />
+		<SoundDesc Id= "MusPlanet_06" SoundName= "SoundBlock_SoundName_MusPlanet_06" />
+
+		<SoundDesc Id= "" SoundName= "Alien-----------------------------------" />
+		<SoundDesc Id= "MusAlien_01" SoundName= "SoundBlock_SoundName_MusAlien_01" />
+		<SoundDesc Id= "MusAlien_02" SoundName= "SoundBlock_SoundName_MusAlien_02" />
+		<SoundDesc Id= "MusAlien_03" SoundName= "SoundBlock_SoundName_MusAlien_03" />
+		<SoundDesc Id= "MusAlien_04" SoundName= "SoundBlock_SoundName_MusAlien_04" />
+		<SoundDesc Id= "MusAlien_05" SoundName= "SoundBlock_SoundName_MusAlien_05" />
+		
+		<SoundDesc Id= "" SoundName= "Music-----------------------------------" />
+		<SoundDesc Id= "MusFun" SoundName= "SoundBlock_SoundName_MusFun" />
+		<SoundDesc Id= "MusScrapRace1" SoundName= "Colossus On Fire" />
+		<SoundDesc Id= "MusScrapRace2" SoundName= "Designing The Fleet" />
+
+		<SoundDesc Id= "" SoundName= "Competition-----------------------------" />
+		<SoundDesc Id= "MusComp_01" SoundName= "SoundBlock_SoundName_MusCompetition_01" />
+		<SoundDesc Id= "MusComp_02" SoundName= "SoundBlock_SoundName_MusCompetition_02" />
+		<SoundDesc Id= "MusComp_03" SoundName= "SoundBlock_SoundName_MusCompetition_03" />
+		<SoundDesc Id= "MusComp_04" SoundName= "SoundBlock_SoundName_MusCompetition_04" />
+		<SoundDesc Id= "MusComp_05" SoundName= "SoundBlock_SoundName_MusCompetition_05" />
+		<SoundDesc Id= "MusComp_06" SoundName= "SoundBlock_SoundName_MusCompetition_06" />
+		<SoundDesc Id= "MusComp_07" SoundName= "SoundBlock_SoundName_MusCompetition_07" />
+		<SoundDesc Id= "MusComp_08" SoundName= "SoundBlock_SoundName_MusCompetition_08" />
+		<SoundDesc Id= "MusComp_09" SoundName= "SoundBlock_SoundName_MusCompetition_09" />
+		<SoundDesc Id= "MusComp_10" SoundName= "SoundBlock_SoundName_MusCompetition_10" />
+		<SoundDesc Id= "MusComp_11" SoundName= "SoundBlock_SoundName_MusCompetition_11" />
+		<SoundDesc Id= "MusComp_12" SoundName= "SoundBlock_SoundName_MusCompetition_12" />
+		<SoundDesc Id= "MusComp_13" SoundName= "SoundBlock_SoundName_MusCompetition_13" />
+		<SoundDesc Id= "MusComp_14" SoundName= "SoundBlock_SoundName_MusCompetition_14" />
+		<SoundDesc Id= "MusComp_15" SoundName= "SoundBlock_SoundName_MusCompetition_15" />
+		<SoundDesc Id= "MusComp_16" SoundName= "SoundBlock_SoundName_MusCompetition_16" />
+
+		<SoundDesc Id= "" SoundName= "Competition_2---------------------------" />
+		<SoundDesc Id= "MusComp2_01" SoundName= "SoundBlock_SoundName_MusCompetition2_01" />
+		<SoundDesc Id= "MusComp2_02" SoundName= "SoundBlock_SoundName_MusCompetition2_02" />
+		<SoundDesc Id= "MusComp2_03" SoundName= "SoundBlock_SoundName_MusCompetition2_03" />
+		<SoundDesc Id= "MusComp2_04" SoundName= "SoundBlock_SoundName_MusCompetition2_04" />
+		<SoundDesc Id= "MusComp2_05" SoundName= "SoundBlock_SoundName_MusCompetition2_05" />
+		<SoundDesc Id= "MusComp2_06" SoundName= "SoundBlock_SoundName_MusCompetition2_06" />
+		<SoundDesc Id= "MusComp2_07" SoundName= "SoundBlock_SoundName_MusCompetition2_07" />
+		<SoundDesc Id= "MusComp2_08" SoundName= "SoundBlock_SoundName_MusCompetition2_08" />
+		<SoundDesc Id= "MusComp2_09" SoundName= "SoundBlock_SoundName_MusCompetition2_09" />
+		<SoundDesc Id= "MusComp2_10" SoundName= "SoundBlock_SoundName_MusCompetition2_10" />
+		<SoundDesc Id= "MusComp2_11" SoundName= "SoundBlock_SoundName_MusCompetition2_11" />
+		<SoundDesc Id= "MusComp2_12" SoundName= "SoundBlock_SoundName_MusCompetition2_12" />
+		<SoundDesc Id= "MusComp2_13" SoundName= "SoundBlock_SoundName_MusCompetition2_13" />
+		<SoundDesc Id= "MusComp2_14" SoundName= "SoundBlock_SoundName_MusCompetition2_14" />
+		<SoundDesc Id= "MusComp2_15" SoundName= "SoundBlock_SoundName_MusCompetition2_15" />
+		<SoundDesc Id= "MusComp2_16" SoundName= "SoundBlock_SoundName_MusCompetition2_16" />
+
+		<SoundDesc Id= "" SoundName= "Concert---------------------------------" />
+		<SoundDesc Id= "MusConcert_2" SoundName= "SoundBlock_SoundName_MusicConcert1" />
+		<SoundDesc Id= "MusConcert_3" SoundName= "SoundBlock_SoundName_MusicConcert2" />
+		<SoundDesc Id= "MusConcert_4" SoundName= "SoundBlock_SoundName_MusicConcert3" />
+		<SoundDesc Id= "MusConcert_5" SoundName= "SoundBlock_SoundName_MusicConcert4" />
+		<SoundDesc Id= "MusConcert_6" SoundName= "SoundBlock_SoundName_MusicConcert5" />
+		<SoundDesc Id= "MusConcert_7" SoundName= "SoundBlock_SoundName_MusicConcert6" />
+		<SoundDesc Id= "MusConcert_8" SoundName= "SoundBlock_SoundName_MusicConcert7" />
+		<SoundDesc Id= "MusConcert_9" SoundName= "SoundBlock_SoundName_MusicConcert8" />
+		<SoundDesc Id= "MusConcert_10" SoundName= "SoundBlock_SoundName_MusicConcert9" />
+		
+      </Sounds>
+    </SoundCategory>
+  </SoundCategories>
+</Definitions>

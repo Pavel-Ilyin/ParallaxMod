@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+            <Id>
+                <TypeId>LargeMissileTurret</TypeId>
+                <SubtypeId>MA_Designator</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Designator</DisplayName>
+            <Icon>Textures\Icons\MA_Designator.dds</Icon>
+            <Description>Description_Designator</Description>
+            <CubeSize>Large</CubeSize>
+            <PlaceDecals>false</PlaceDecals>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\MA_Designator\MA_Designator.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="Construction" Count="1"/>
+                <Component Subtype="Calculator" Count="16"/>
+                <Component Subtype="SteelPlate" Count="2"/>
+                <Component Subtype="Motor" Count="2"/>
+                <Component Subtype="Computer" Count="5"/>
+                <Component Subtype="BulletproofGlass" Count="1"/>
+                <Component Subtype="SteelPlate" Count="5"/>
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0"/>
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0.25" StartY="0.25" EndX="0.75" EndY="0.75"/>
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\MA_Designator\MA_Designator_BS1.mwm"/>
+                <Model BuildPercentUpperBound="0.67" File="Models\MA_Designator\MA_Designator_BS2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\MA_Designator\MA_Designator_BS3.mwm"/>
+            </BuildProgressModels>
+            <VoxelPlacement>
+                <StaticMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0</MinAllowed>
+                </StaticMode>
+                <DynamicMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0.01</MinAllowed>
+                </DynamicMode>
+            </VoxelPlacement>
+            <BlockPairName>MA_Designator</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
+            <OverlayTexture>Textures\GUI\Screens\turret_overlay.dds</OverlayTexture>
+            <WeaponDefinitionId Subtype="MA_Designator_Laser"/>
+            <InventoryMaxVolume>0.5</InventoryMaxVolume>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <ResourceSinkGroup>Defense</ResourceSinkGroup>
+            <MinElevationDegrees>-26</MinElevationDegrees>
+            <MaxElevationDegrees>90</MaxElevationDegrees>
+            <MinAzimuthDegrees>-180</MinAzimuthDegrees>
+            <MaxAzimuthDegrees>180</MaxAzimuthDegrees>
+            <IdleRotation>true</IdleRotation>
+            <!--IdleRotation>false</IdleRotation-->
+            <MaxRangeMeters>7000</MaxRangeMeters>
+            <RotationSpeed>0.005</RotationSpeed>
+            <ElevationSpeed>0.007 </ElevationSpeed>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <MinFov>0.05</MinFov>
+            <MaxFov>1.04719755</MaxFov>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>16000</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_LargeTurretBaseDefinition">
+            <Id>
+                <TypeId>LargeMissileTurret</TypeId>
+                <SubtypeId>MA_Designator_sm</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Designator</DisplayName>
+            <Icon>Textures\Icons\MA_Designator.dds</Icon>
+            <Description>Description_SmallDesignator</Description>
+            <CubeSize>Small</CubeSize>
+            <PlaceDecals>false</PlaceDecals>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\MA_Designator\MA_Designator_sm.mwm</Model>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="Construction" Count="1"/>
+                <Component Subtype="Calculator" Count="4"/>
+                <Component Subtype="SteelPlate" Count="2"/>
+                <Component Subtype="Motor" Count="2"/>
+                <Component Subtype="Computer" Count="5"/>
+                <Component Subtype="BulletproofGlass" Count="1"/>
+                <Component Subtype="SteelPlate" Count="5"/>
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0"/>
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0.04" StartY="0.04" EndX="0.96" EndY="0.96"/>
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\MA_Designator\MA_Designator_sm_BS1.mwm"/>
+                <Model BuildPercentUpperBound="0.67" File="Models\MA_Designator\MA_Designator_sm_BS2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\MA_Designator\MA_Designator_sm_BS3.mwm"/>
+            </BuildProgressModels>
+            <VoxelPlacement>
+                <StaticMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0</MinAllowed>
+                </StaticMode>
+                <DynamicMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0.01</MinAllowed>
+                </DynamicMode>
+            </VoxelPlacement>
+            <BlockPairName>MA_Designator</BlockPairName>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>40</BuildTimeSeconds>
+            <OverlayTexture>Textures\GUI\Screens\turret_overlay.dds</OverlayTexture>
+            <WeaponDefinitionId Subtype="MA_Designator_Laser"/>
+            <InventoryMaxVolume>0.5</InventoryMaxVolume>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <ResourceSinkGroup>Defense</ResourceSinkGroup>
+            <MinElevationDegrees>-26</MinElevationDegrees>
+            <MaxElevationDegrees>90</MaxElevationDegrees>
+            <MinAzimuthDegrees>-180</MinAzimuthDegrees>
+            <MaxAzimuthDegrees>180</MaxAzimuthDegrees>
+            <IdleRotation>true</IdleRotation>
+            <!--IdleRotation>false</IdleRotation-->
+            <MaxRangeMeters>4000</MaxRangeMeters>
+            <RotationSpeed>0.01</RotationSpeed>
+            <ElevationSpeed>0.007 </ElevationSpeed>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <MinFov>0.05</MinFov>
+            <MaxFov>1.04719755</MaxFov>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>2000</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+    </CubeBlocks>
+    <BlockPositions/>
+</Definitions>

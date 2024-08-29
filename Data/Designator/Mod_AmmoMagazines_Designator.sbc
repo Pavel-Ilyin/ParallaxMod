@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <AmmoMagazines>
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>MostlyHarmlessEnergy</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_MostlyHarmlessEnergy</DisplayName>
+            <Icon>Textures\Icons\laser_turret_ammo.png</Icon>
+            <Size>
+                <X>0.01</X>
+                <Y>0.01</Y>
+                <Z>0.01</Z>
+            </Size>
+            <Mass>10</Mass>
+            <Volume>2</Volume>
+            <Model>Models\Designator\Camera_Lens.mwm</Model>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+            <Capacity>1000</Capacity>
+            <AmmoDefinitionId Subtype="MostlyHarmlessEnergyAmmo"/>
+            <!--MinimumOfferAmount>50</MinimumOfferAmount>
+            <MaximumOfferAmount>500</MaximumOfferAmount>
+            <MinimumOrderAmount>100</MinimumOrderAmount>
+            <MaximumOrderAmount>2000</MaximumOrderAmount-->
+            <CanPlayerOrder>false</CanPlayerOrder>
+        </AmmoMagazine>
+    </AmmoMagazines>
+</Definitions>

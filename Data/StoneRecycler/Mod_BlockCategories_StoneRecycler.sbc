@@ -1,0 +1,28 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CategoryClasses>
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DisplayName_Category_Production</DisplayName>
+            <Name>Production</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>Refinery/LargeRefinery</string>
+                <string>Refinery/LargeRefineryIndustrial</string>
+                <string>Refinery/Blast Furnace</string>
+				<string>Refinery/SmallStoneRecycler</string>
+				<string>Refinery/LargeStoneRecycler</string>
+                <string>Assembler/BasicAssembler</string>
+                <string>Assembler/LargeAssembler</string>
+                <string>Assembler/LargeAssemblerIndustrial</string>
+                <string>Projector/LargeProjector</string>
+                <string>OxygenGenerator/(null)</string>
+                <string>SurvivalKit/SurvivalKit</string>
+                <string>SurvivalKit/SurvivalKitLarge</string>
+            </ItemIds>
+        </Category>
+    </CategoryClasses>
+</Definitions>

@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+		<xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="metadata">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" use="required" type="xsd:string"/>
+							<xsd:attribute name="type" type="xsd:string"/>
+							<xsd:attribute name="mimetype" type="xsd:string"/>
+							<xsd:attribute ref="xml:space"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="assembly">
+						<xsd:complexType>
+							<xsd:attribute name="alias" type="xsd:string"/>
+							<xsd:attribute name="name" type="xsd:string"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+							<xsd:attribute ref="xml:space"/>
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required"/>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>2.0</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="DisplayName_Block_IndustrialWelder" xml:space="preserve">
+		<value>Промышленный сварщик</value>
+	</data>
+	<data name="Description_IndustrialWelder" xml:space="preserve">
+		<value>Промышленный сварщик имеет большое поле охвата сварки.
+    </value>
+	</data>
+	<data name="DisplayName_Item_Calculator" xml:space="preserve">
+		<value>Вычислитель</value>
+	</data>
+	<data name="DisplayName_Item_IngotsPackage" xml:space="preserve">
+		<value>Ресурспак</value>
+	</data>
+	<data name="Description_IngotsPackage" xml:space="preserve">
+		<value>Ресурспак - плотно упакованный пакет слитков.</value>
+	</data>
+	<data name="Description_InteriorTurret" xml:space="preserve">
+		<value>Автономная автоматическая турель против живой силы. Необходимо вручную вставлять магазины MR-50A. 
+
+Максимальная дистанция: 800 м
+Дальность автоприцеливания: 600 м</value>
+	</data>
+	<data name="Description_MissileTurret" xml:space="preserve">
+		<value>Ракетная пусковая установка с медленной скоростью стрельбы и взрывным уроном. Использует ракеты и может заряжаться с помощью конвейеров.
+
+Максимальная дистанция: 1600 м</value>
+	</data>
+	<data name="Description_Small_MissileTurret" xml:space="preserve">
+		<value>Ракетная пусковая установка с медленной скоростью стрельбы и взрывным уроном. Использует ракеты и может заряжаться с помощью конвейеров.
+
+Максимальная дистанция: 1600 м
+Дальность автоприцеливания: 1200 м</value>
+	</data>
+	<data name="Description_GatlingTurret" xml:space="preserve">
+		<value>Крупнокалиберная турель Гатлинга, которая будет автоматически наводиться на все враждебные объекты в радиусе действия.
+
+Может управляться вручную из кокпита. 
+
+Максимальная дистанция: 2400 м
+Дальность автоприцеливания: 1600 м</value>
+	</data>
+	<data name="Description_Small_GatlingTurret" xml:space="preserve">
+		<value>Скорострельная турель Гатлинга, которая будет автоматически наводиться на все враждебные объекты в радиусе действия.
+
+Может управляться вручную из кокпита. 
+
+Максимальная дистанция: 1400 м
+Дальность автоприцеливания: 1200 м</value>
+	</data>
+	<data name="Description_LargeCalibreTurret" xml:space="preserve">
+		<value>Огромная турель, идеально подходящая для сражений с тяжелобронированными целями. Использует артиллерийские снаряды.
+
+Максимальная дистанция: 4000 м
+Дальность автоприцеливания: 1600 м</value>
+	</data>
+	<data name="Description_HeavyCalibreGun" xml:space="preserve">
+		<value>Огромное орудие, идеально подходящее для сражений с тяжелобронированными целями. Использует артиллерийские снаряды.
+
+Максимальная дистанция: 4000 м</value>
+	</data>
+	<data name="Description_MediumCalibreTurret" xml:space="preserve">
+		<value>Старший брат автопушки, более крупный и медленный. Наносит серьёзный урон бронированным целям. Использует снаряды штурмовой пушки.
+
+Максимальная дистанция: 2800 м
+Дальность автоприцеливания: 1600 м</value>
+	</data>
+	<data name="Description_Small_MediumCalibreGun" xml:space="preserve">
+		<value>Старший брат автопушки, более крупный и медленный. Наносит серьёзный урон бронированным целям. Использует снаряды штурмовой пушки.
+
+Максимальная дистанция: 2800 м
+Дальность автоприцеливания: 1200 м</value>
+	</data>
+	<data name="Description_MediumCalibreGun" xml:space="preserve">
+		<value>Старший брат автопушки, более крупный и медленный. Наносит серьёзный урон бронированным целям. Использует снаряды штурмовой пушки.
+
+Максимальная дистанция: 2800 м</value>
+	</data>
+	<data name="Description_AutoCannonTurret" xml:space="preserve">
+		<value>Маленькая турель со средней скорострельностью и приличной огневой мощью. Заряжается магазинами автопушки.
+
+Максимальная дистанция: 1800 м
+Дальность автоприцеливания: 1200 м</value>
+	</data>
+	<data name="Description_Autocannon" xml:space="preserve">
+		<value>Средняя скорострельность и приличная огневая мощь. Заряжается магазинами автопушки.
+
+Максимальная дистанция: 1800 м</value>
+	</data>
+	<data name="Description_Railgun" xml:space="preserve">
+		<value>Большая дальность стрельбы, максимальное бронепробитие и очень низкая скорострельность. Для каждого выстрела требуется зарядка. Использует крупные снаряды рельсотрона.
+
+Максимальная дистанция: 4000 м</value>
+	</data>
+	<data name="Description_SmallRailgun" xml:space="preserve">
+		<value>Большая дальность стрельбы, максимальное бронепробитие и очень низкая скорострельность. Для каждого выстрела требуется зарядка. Использует малые снаряды рельсотрона.
+
+Максимальная дистанция: 2800 м</value>
+	</data>
+	<data name="Description_GatlingGun" xml:space="preserve">
+		<value>Скорострельный пулемет Гатлинга.
+
+Добавьте оружие на панель инструментов корабля для управления стрельбой. Используйте камеру для прицеливания на больших расстояниях.
+Максимальная дистанция: 1400 м</value>
+	</data>
+	<data name="Description_RocketLauncher" xml:space="preserve">
+		<value>Ракетная пусковая установка с медленной скоростью стрельбы и взрывным уроном. Использует ракеты и заряжается вручную.
+
+Максимальная дистанция: 1600 м</value>
+	</data>
+	<data name="Description_LargeRocketLauncher" xml:space="preserve">
+		<value>Более крупная ракетная пусковая установка, которая может быть соединена конвейерами для автоматической перезарядки. Использует ракеты.
+
+Максимальная дистанция: 1600 м</value>
+	</data>
+	<data name="Description_RocketLauncherReload" xml:space="preserve">
+		<value>Продвинутая версия ракетной пусковой установки, способная автоматически перезаряжаться с помощью конвейерной системы. Использует ракеты.
+
+Максимальная дистанция: 1600 м</value>
+	</data>
+	<data name="Description_DefensiveCombatBlock" xml:space="preserve">
+		<value>Тип: бой
+
+Может обнаруживать и наводиться на вражеские структуры на расстоянии до 4000 м. Кроме того, возможна настройка для бегства в заранее заданное место в случае обнаружения врага.
+
+При обнаружении врага этот блок имеет приоритет над активными блоками типа «Задание».</value>
+	</data>
+	<data name="Description_OffensiveCombatBlock" xml:space="preserve">
+		<value>Тип: бой
+
+Может обнаруживать цели, захватывать ее и атаковать на расстоянии до 4000 м, используя настраиваемые схемы атаки.
+
+При обнаружении врага этот блок имеет приоритет над активными блоками типа «Задание».</value>
+	</data>
+	<data name="DisplayName_Item_NATO_50x184mm" xml:space="preserve">
+		<value>Боеприпасы 50x184 мм</value>
+	</data>
+	<data name="DisplayName_MostlyHarmlessEnergy" xml:space="preserve">
+		<value>MA - вспышка</value>
+	</data>
+	<data name="DisplayName_Designator" xml:space="preserve">
+		<value>Лазерный целеуказатель</value>
+	</data>
+	<data name="Description_Designator" xml:space="preserve">
+		<value>Лазерный целеуказатель, используйте для одновременной работы со скриптами.
+
+Максимальная дистанция: 7000 м</value>
+	</data>
+	<data name="Description_SmallDesignator" xml:space="preserve">
+		<value>Лазерный целеуказатель, используйте для одновременной работы со скриптами.
+
+Максимальная дистанция: 4000 м</value>
+	</data>
+	<data name="DisplayName_Item_NickelOre" xml:space="preserve">
+		<value>Никелевая руда</value>
+	</data>
+	<data name="DisplayName_Block_SuperContainer" xml:space="preserve">
+		<value>Суперконтейнер</value>
+	</data>
+	<data name="Description_SmallCargoSuperContainer" xml:space="preserve">
+		<value>Контейнер увеличеной ёмкости.</value>
+	</data>
+	<data name="DisplayName_Item_Artifact" xml:space="preserve">
+		<value>Артефакт</value>
+	</data>
+	<data name="Palladium" xml:space="preserve">
+		<value>Палладий</value>
+	</data>
+	<data name="DisplayName_Item_PalladiumIngot" xml:space="preserve">
+		<value>Палладиевый слиток</value>
+	</data>
+	<data name="DisplayName_Item_PalladiumOre" xml:space="preserve">
+		<value>Палладиевая руда</value>
+	</data>
+	<data name="DisplayName_Block_SuperProductivityModule" xml:space="preserve">
+		<value>Супермодуль</value>
+	</data>
+	<data name="Description_SuperProductivityModule" xml:space="preserve">
+		<value>Модуль суперпроизводительности.</value>
+	</data>
+	<data name="DisplayName_Block_SuperSensor" xml:space="preserve">
+		<value>Суперсенсор</value>
+	</data>
+	<data name="Description_SuperSensor" xml:space="preserve">
+		<value>Сенсор увеличеной дальности действия.</value>
+	</data>
+	<data name="DisplayName_Block_ShieldGenerator" xml:space="preserve">
+		<value>Энергетический щит</value>
+	</data>
+	<data name="Description_ShieldGenerator" xml:space="preserve">
+		<value>Энергетический щит поглащает часть кинетического урона полученного при ударениях или воздействии снарядов. 
+        
+Имеет высокое энергопотребление.</value>
+	</data>
+	<data name="DisplayName_Category_EnergyShield" xml:space="preserve">
+		<value>Энергетические щиты</value>
+	</data>
+	<data name="DisplayName_Block_StoneRecycler" xml:space="preserve">
+		<value>Утилизатор камня</value>
+	</data>
+	<data name="Description_StoneRecycler" xml:space="preserve">
+		<value>Предназначен для уничтожения камня.</value>
+	</data>
+	<data name="DisplayName_Item_Missile200mm" xml:space="preserve">
+		<value>Ракета</value>
+	</data>
+	<data name="DisplayName_Item_Missile_GS" xml:space="preserve">
+		<value>Высокоточная ракета ВС-4</value>
+	</data>
+	<data name="DisplayName_Thrust_Inhibitor" xml:space="preserve">
+		<value>Ингибитор ускорителей</value>
+	</data>
+	<data name="DisplayName_Simple_Store" xml:space="preserve">
+		<value>Простой магазин</value>
+	</data>
+	<data name="DisplayName_JumpInhibitor" xml:space="preserve">
+		<value>Ингибитор ПД</value>
+	</data>
+	<data name="DisplayName_Block_SuperHydrogenTank" xml:space="preserve">
+		<value>Супер водородный бак</value>
+	</data>
+	<data name="DisplayName_Block_SuperGenerator" xml:space="preserve">
+		<value>Супер герератор водорода</value>
+	</data>
+	<data name="DisplayName_Block_SuperAssembler" xml:space="preserve">
+		<value>Сборщик повышеной ёмкости</value>
+	</data>
+</root>

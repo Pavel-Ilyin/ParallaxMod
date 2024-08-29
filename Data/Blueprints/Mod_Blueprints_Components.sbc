@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClassEntries>
+        <Entry Class="Components" BlueprintSubtypeId="IngotsPackage"/>
+    </BlueprintClassEntries>
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Calculator</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_Calculator</DisplayName>
+            <Icon>Textures\Icons\Calculator.png</Icon>
+            <Prerequisites>
+                <Item Amount="0.7" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="0.4" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="0.1" TypeId="Ingot" SubtypeId="Platinum"/>
+                <Item Amount="0.3" TypeId="Ingot" SubtypeId="Palladium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="Calculator" />
+            <BaseProductionTimeInSeconds>180</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>IngotsPackage</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_IngotsPackage</DisplayName>
+            <Icon>Textures\GUI\Icons\Items\ContractPackage.dds</Icon>
+            <Prerequisites>
+                <Item Amount="8400" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="900" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="54" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="84" TypeId="Ingot" SubtypeId="Cobalt"/>
+                <Item Amount="36" TypeId="Ingot" SubtypeId="Silver"/>
+                <Item Amount="48" TypeId="Ingot" SubtypeId="Gold"/>
+                <Item Amount="6" TypeId="Ingot" SubtypeId="Platinum"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="IngotsPackage"/>
+            <BaseProductionTimeInSeconds>210</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>SteelPlate</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_SteelPlate</DisplayName>
+            <Icon>Textures\GUI\Icons\component\steel_plate_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="21" TypeId="Ingot" SubtypeId="Iron"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="SteelPlate"/>
+            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Superconductor</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_Superconductor</DisplayName>
+            <Icon>Textures\GUI\Icons\component\superconductor_conducts_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="40" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="8" TypeId="Ingot" SubtypeId="Gold"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="Superconductor"/>
+            <BaseProductionTimeInSeconds>8</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>ThrustComponent</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_ThrustComponents</DisplayName>
+            <Icon>Textures\GUI\Icons\component\thrust_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Cobalt"/>
+                <Item Amount="0.3" TypeId="Ingot" SubtypeId="Gold"/>
+                <Item Amount="0.14" TypeId="Ingot" SubtypeId="Platinum"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="Thrust"/>
+            <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>ReactorComponent</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_ReactorComponents</DisplayName>
+            <Icon>Textures\GUI\Icons\component\reactor_components_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="45" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="60" TypeId="Ingot" SubtypeId="Stone"/>
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Silver"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="Reactor"/>
+            <BaseProductionTimeInSeconds>8</BaseProductionTimeInSeconds>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>MetalGrid</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_MetalGrid</DisplayName>
+            <Icon>Textures\GUI\Icons\component\metal_grid_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="48" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="20" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Cobalt"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="MetalGrid"/>
+            <BaseProductionTimeInSeconds>2</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PowerCell</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PowerCell</DisplayName>
+            <Icon>Textures\GUI\Icons\component\BatteryComponent.dds</Icon>
+            <Prerequisites>
+                <Item Amount="25" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="4" TypeId="Ingot" SubtypeId="Nickel"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PowerCell"/>
+            <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+    </Blueprints>
+</Definitions>

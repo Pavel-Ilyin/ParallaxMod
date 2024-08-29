@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_ParachuteDefinition">
+            <Id>
+                <TypeId>Parachute</TypeId>
+                <SubtypeId>LgParachute</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ParachuteHatch</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ParachuteHatch.dds</Icon>
+            <Description>Description_ParachuteHatch</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Large\ParachuteHatch_Large.mwm</Model>
+            <PlaceDecals>false</PlaceDecals>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="5" />
+                <Component Subtype="Construction" Count="25" />
+                <Component Subtype="SmallTube" Count="5" />
+                <Component Subtype="Motor" Count="3" />
+                <Component Subtype="Computer" Count="2" />
+                <Component Subtype="SteelPlate" Count="4" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <BlockPairName>Parachute Hatch</BlockPairName>
+            <MirroringX>None</MirroringX>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>22</BuildTimeSeconds>
+            <DisassembleRatio>1.5</DisassembleRatio>
+            <Public>true</Public>
+            <ResourceSinkGroup>Conveyors</ResourceSinkGroup>
+            <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
+            <PowerConsumptionMoving>0.001</PowerConsumptionMoving>
+            <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
+            <DamagedSound>ParticleHeavyMech</DamagedSound>
+            <ParachuteSubpartName>Parachute</ParachuteSubpartName>
+            <DragCoefficient>1.2</DragCoefficient>
+            <MaterialDeployCost>5</MaterialDeployCost>
+            <MaterialSubtype>Canvas</MaterialSubtype>
+            <ReefAtmosphereLevel>0.6</ReefAtmosphereLevel>
+            <MinimumAtmosphereLevel>0.2</MinimumAtmosphereLevel>
+            <RadiusMultiplier>8.0</RadiusMultiplier>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\ConveyorConstruction_1.mwm" />
+            </BuildProgressModels>
+            <Subparts>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Large_Door1</Name>
+                </SubpartDefinition>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Large_Door2</Name>
+                </SubpartDefinition>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Large_Door3</Name>
+                </SubpartDefinition>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Large_Door4</Name>
+                </SubpartDefinition>
+            </Subparts>
+            <OpeningSequence>
+                <Opening>
+                    <IDs>0</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>-90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="0.58714" y="1.19644" z="0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>0</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.58714" y="1.19644" z="0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>0</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.58714" y="1.19644" z="0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>1</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="-0.58714" y="1.19644" z="0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>1</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.58714" y="1.19644" z="0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>1</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.58714" y="1.19644" z="0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>2</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="-0.58714" y="1.19644" z="-0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>2</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.58714" y="1.19644" z="-0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>2</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.58714" y="1.19644" z="-0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>3</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>-90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="0.58714" y="1.19644" z="-0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>3</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.58714" y="1.19644" z="-0.58714" />
+                </Opening>
+                <Opening>
+                    <IDs>3</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.58714" y="1.19644" z="-0.58714" />
+                </Opening>
+            </OpeningSequence>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>50</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+        <Definition xsi:type="MyObjectBuilder_ParachuteDefinition">
+            <Id>
+                <TypeId>Parachute</TypeId>
+                <SubtypeId>SmParachute</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ParachuteHatch</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\ParachuteHatch.dds</Icon>
+            <Description>Description_ParachuteHatch</Description>
+            <CubeSize>Small</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <ModelOffset x="0" y="0" z="0" />
+            <Model>Models\Cubes\Small\ParachuteHatch_Small.mwm</Model>
+            <PlaceDecals>false</PlaceDecals>
+            <UseModelIntersection>true</UseModelIntersection>
+            <Components>
+                <Component Subtype="SteelPlate" Count="1" />
+                <Component Subtype="Construction" Count="2" />
+                <Component Subtype="SmallTube" Count="1" />
+                <Component Subtype="Motor" Count="1" />
+                <Component Subtype="Computer" Count="1" />
+                <Component Subtype="SteelPlate" Count="1" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <BlockPairName>Parachute Hatch</BlockPairName>
+            <MirroringX>None</MirroringX>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>10</BuildTimeSeconds>
+            <DisassembleRatio>1.5</DisassembleRatio>
+            <Public>true</Public>
+            <ResourceSinkGroup>Conveyors</ResourceSinkGroup>
+            <PowerConsumptionIdle>0.00001</PowerConsumptionIdle>
+            <PowerConsumptionMoving>0.001</PowerConsumptionMoving>
+            <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
+            <DamagedSound>ParticleHeavyMech</DamagedSound>
+            <ParachuteSubpartName>Parachute</ParachuteSubpartName>
+            <DragCoefficient>1.3</DragCoefficient>
+            <MaterialDeployCost>1</MaterialDeployCost>
+            <MaterialSubtype>Canvas</MaterialSubtype>
+            <ReefAtmosphereLevel>0.6</ReefAtmosphereLevel>
+            <MinimumAtmosphereLevel>0.2</MinimumAtmosphereLevel>
+            <RadiusMultiplier>8.0</RadiusMultiplier>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\ConveyorConstruction_1.mwm" />
+            </BuildProgressModels>
+            <Subparts>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Small_Door1</Name>
+                </SubpartDefinition>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Small_Door2</Name>
+                </SubpartDefinition>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Small_Door3</Name>
+                </SubpartDefinition>
+                <SubpartDefinition>
+                    <Name>ParachuteHatch_Small_Door4</Name>
+                </SubpartDefinition>
+            </Subparts>
+            <OpeningSequence>
+                <Opening>
+                    <IDs>0</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>-90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="0.11671" y="0.23928" z="0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>0</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.11671" y="0.23928" z="0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>0</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.11671" y="0.23928" z="0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>1</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="-0.11671" y="0.23928" z="0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>1</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.11671" y="0.23928" z="0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>1</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.11671" y="0.23928" z="0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>2</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="-0.11671" y="0.23928" z="-0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>2</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.11671" y="0.23928" z="-0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>2</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="-0.11671" y="0.23928" z="-0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>3</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Z</RotationAxis>
+                    <MaxOpen>-90</MaxOpen>
+                    <Speed>140</Speed>
+                    <PivotPosition x="0.11671" y="0.23928" z="-0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>3</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>X</RotationAxis>
+                    <MaxOpen>-45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.11671" y="0.23928" z="-0.11671" />
+                </Opening>
+                <Opening>
+                    <IDs>3</IDs>
+                    <Move>Rotate</Move>
+                    <RotationAxis>Y</RotationAxis>
+                    <MaxOpen>45</MaxOpen>
+                    <Speed>70</Speed>
+                    <PivotPosition x="0.11671" y="0.23928" z="-0.11671" />
+                </Opening>
+            </OpeningSequence>
+            <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>50</PCU>
+            <IsAirTight>true</IsAirTight>
+        </Definition>
+    </CubeBlocks>
+</Definitions>

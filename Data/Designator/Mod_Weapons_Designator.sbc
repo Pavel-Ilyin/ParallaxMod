@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Weapons>
+        <Weapon>
+            <Id>
+                <TypeId>WeaponDefinition</TypeId>
+                <SubtypeId>MA_Designator_Laser</SubtypeId>
+            </Id>
+            <ProjectileAmmoData RateOfFire="1000" ShootSoundName=""/>
+            <NoAmmoSoundName>WepPlayRifleNoAmmo</NoAmmoSoundName>
+            <DeviateShotAngle>0</DeviateShotAngle>
+            <ReleaseTimeAfterFire>0</ReleaseTimeAfterFire>
+            <MuzzleFlashLifeSpan>0</MuzzleFlashLifeSpan>
+            <UseDefaultMuzzleFlash>false</UseDefaultMuzzleFlash>
+            <RangeMultiplier>0</RangeMultiplier>
+            <UseRandomizedRange>false</UseRandomizedRange>
+            <AmmoMagazines>
+                <AmmoMagazine Subtype="MostlyHarmlessEnergy"/>
+            </AmmoMagazines>
+        </Weapon>
+        <Weapon>
+            <Id>
+                <TypeId>WeaponDefinition</TypeId>
+                <SubtypeId>MA_Designator_Laser_sm</SubtypeId>
+            </Id>
+            <ProjectileAmmoData RateOfFire="1000" ShootSoundName=""/>
+            <NoAmmoSoundName>WepPlayRifleNoAmmo</NoAmmoSoundName>
+            <DeviateShotAngle>0</DeviateShotAngle>
+            <ReleaseTimeAfterFire>0</ReleaseTimeAfterFire>
+            <MuzzleFlashLifeSpan>0</MuzzleFlashLifeSpan>
+            <UseDefaultMuzzleFlash>false</UseDefaultMuzzleFlash>
+            <RangeMultiplier>0</RangeMultiplier>
+            <UseRandomizedRange>false</UseRandomizedRange>
+            <AmmoMagazines>
+                <AmmoMagazine Subtype="MostlyHarmlessEnergy"/>
+            </AmmoMagazines>
+        </Weapon>
+    </Weapons>
+</Definitions>

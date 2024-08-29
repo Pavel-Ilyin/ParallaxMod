@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Position0105_Missile_GS</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_Missile_GS</DisplayName>
+            <Icon>Textures\Icons\Small_Rocket_GS.png</Icon>
+            <Prerequisites>
+                <Item Amount="34" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="6" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="0.9" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="0.9" TypeId="Ingot" SubtypeId="Uranium"/>
+                <Item Amount="0.03" TypeId="Ingot" SubtypeId="Palladium" />
+                <Item Amount="2.7" TypeId="Ingot" SubtypeId="Magnesium"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="Missile_GS200mm"/>
+            <BaseProductionTimeInSeconds>180</BaseProductionTimeInSeconds>
+        </Blueprint>
+    </Blueprints>
+</Definitions>

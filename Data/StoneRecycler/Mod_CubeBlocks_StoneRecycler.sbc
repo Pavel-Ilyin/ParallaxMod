@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
+            <Id>
+                <TypeId>Refinery</TypeId>
+                <SubtypeId>LargeStoneRecycler</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_StoneRecycler</DisplayName>
+            <Icon>Textures\Icons\StoneRecycler.png</Icon>
+            <Description>Description_StoneRecycler</Description>
+            <CubeSize>Large</CubeSize>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Large\BasicAssembler.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="100"/>
+                <Component Subtype="Construction" Count="20"/>
+                <Component Subtype="Motor" Count="10"/>
+                <Component Subtype="Computer" Count="10"/>
+                <Component Subtype="SteelPlate" Count="20"/>
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0"/>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <MountPoints>
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="1"/>
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="1"/>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" Default="true"/>
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1"/>
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1"/>
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1"/>
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\BasicAssembler_Construction1.mwm"/>
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\BasicAssembler_Construction2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\BasicAssembler_Construction3.mwm"/>
+            </BuildProgressModels>
+            <BlockPairName>StoneRecycler</BlockPairName>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>60</BuildTimeSeconds>
+            <ResourceSinkGroup>Factory</ResourceSinkGroup>
+            <InventoryMaxVolume>16</InventoryMaxVolume>
+            <InventorySize>
+                <X>2.5</X>
+                <Y>2.5</Y>
+                <Z>2.5</Z>
+            </InventorySize>
+            <InventoryFillFactorMin>0.3</InventoryFillFactorMin>
+            <InventoryFillFactorMax>0.6</InventoryFillFactorMax>
+            <StandbyPowerConsumption>0.001</StandbyPowerConsumption>
+            <OperationalPowerConsumption>0.33</OperationalPowerConsumption>
+            <BlueprintClasses>
+                <Class>Stone_Destroyer</Class>
+            </BlueprintClasses>
+            <RefineSpeed>60</RefineSpeed>
+            <MaterialEfficiency>0</MaterialEfficiency>
+            <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
+            <DamagedSound>ParticleHeavyMech</DamagedSound>
+            <PrimarySound>BlockRafinery</PrimarySound>
+            <ActionSound>BlockRafineryProcess</ActionSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <OreAmountPerPullRequest>40000</OreAmountPerPullRequest>
+            <PCU>75</PCU>
+			<IsAirTight>true</IsAirTight>
+            <TieredUpdateTimes>
+                <unsignedInt>60</unsignedInt>
+                <unsignedInt>120</unsignedInt>
+                <unsignedInt>240</unsignedInt>
+            </TieredUpdateTimes>
+        </Definition>
+		
+        <Definition xsi:type="MyObjectBuilder_RefineryDefinition">
+            <Id>
+                <TypeId>Refinery</TypeId>
+                <SubtypeId>SmallStoneRecycler</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_StoneRecycler</DisplayName>
+            <Icon>Textures\Icons\StoneRecycler.png</Icon>
+            <Description>Description_StoneRecycler</Description>
+            <CubeSize>Small</CubeSize>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="3" y="3" z="2"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Small\OxygenGenerator.mwm</Model>
+            <Components>
+                <Component Subtype="SteelPlate" Count="20"/>
+                <Component Subtype="Construction" Count="4"/>
+                <Component Subtype="Motor" Count="2"/>
+                <Component Subtype="Computer" Count="2"/>
+                <Component Subtype="SteelPlate" Count="4"/>
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0"/>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <MountPoints>
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="3" EndY="3"/>
+                <MountPoint Side="Right" StartX="1" StartY="0" EndX="2" EndY="3"/>
+                <MountPoint Side="Right" StartX="0" StartY="1" EndX="1" EndY="2"/>
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="3"/>
+                <MountPoint Side="Left" StartX="1" StartY="1" EndX="2" EndY="2"/>
+                <MountPoint Side="Top" StartX="0" StartY="1" EndX="3" EndY="2"/>
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1"/>
+                <MountPoint Side="Top" StartX="2" StartY="0" EndX="3" EndY="1"/>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="3" EndY="1"/>
+                <MountPoint Side="Bottom" StartX="0" StartY="1" EndX="1" EndY="2"/>
+                <MountPoint Side="Bottom" StartX="2" StartY="1" EndX="3" EndY="2"/>
+                <MountPoint Side="Back" StartX="0" StartY="1" EndX="3" EndY="2"/>
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\OxygenGeneratorConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\OxygenGeneratorConstruction_2.mwm"/>
+            </BuildProgressModels>
+            <Center x="1" y="1" z="0"/>
+            <BlockPairName>StoneRecycler</BlockPairName>
+            <EdgeType>Light</EdgeType>
+            <BuildTimeSeconds>10</BuildTimeSeconds>
+            <ResourceSinkGroup>Factory</ResourceSinkGroup>
+            <InventoryMaxVolume>2</InventoryMaxVolume>
+            <InventorySize>
+				<X>2</X>
+				<Y>2</Y>
+				<Z>2</Z>
+            </InventorySize>
+            <InventoryFillFactorMin>0.3</InventoryFillFactorMin>
+            <InventoryFillFactorMax>0.6</InventoryFillFactorMax>
+            <StandbyPowerConsumption>0.001</StandbyPowerConsumption>
+            <OperationalPowerConsumption>0.1</OperationalPowerConsumption>
+            <BlueprintClasses>
+                <Class>Stone_Destroyer</Class>
+            </BlueprintClasses>
+            <RefineSpeed>6</RefineSpeed>
+            <MaterialEfficiency>0</MaterialEfficiency>
+            <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
+            <DamagedSound>ParticleHeavyMech</DamagedSound>
+            <PrimarySound>BlockRafinery</PrimarySound>
+            <ActionSound>BlockRafineryProcess</ActionSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <OreAmountPerPullRequest>4000</OreAmountPerPullRequest>
+            <PCU>75</PCU>
+            <MirroringX>Z</MirroringX>
+            <MirroringY>Z</MirroringY>
+            <MirroringZ>Y</MirroringZ>
+            <TieredUpdateTimes>
+                <unsignedInt>60</unsignedInt>
+                <unsignedInt>120</unsignedInt>
+                <unsignedInt>240</unsignedInt>
+            </TieredUpdateTimes>
+        </Definition>
+    </CubeBlocks>
+</Definitions>

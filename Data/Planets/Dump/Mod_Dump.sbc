@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Definition xsi:type="PlanetGeneratorDefinition">
+		<Id>
+		  <TypeId>PlanetGeneratorDefinition</TypeId>
+		  <SubtypeId>Dump</SubtypeId>
+		</Id>
+		<PlanetMaps Material="true" Ores="true" Biome="true" Occlusion="false"/>
+
+		<Difficulty>Very Hard</Difficulty>
+		<SurfaceGravity>0.4</SurfaceGravity>
+		<DefaultSurfaceMaterial Material="MoonSoil_grey_qun" MaxDepth="5"/>
+		<DefaultSubSurfaceMaterial Material="MoonRock_grey_qun"/>
+
+		<MaterialsMaxDepth Min="4000" Max="4000"/>
+		<MaterialsMinDepth Min="20" Max="20"/>
+		<MinimumSurfaceLayerDepth>1</MinimumSurfaceLayerDepth>
+
+		<HillParams Min = "-0.25" Max ="0.25"/>
+
+		<HasAtmosphere>false</HasAtmosphere>		
+		
+		<SurfaceDetail>		<!--everywhere, but far stronger in cracks-->
+		  <Texture>Data/PlanetDataFiles/Extra/material_detail_4</Texture>
+		  <Size>440</Size>
+		  <Scale>3</Scale>
+		  <Slope Min="0" Max="120" />	<!--120, so surface detail appears all the way to 90 deg despite transition-->
+		  <Transition>30</Transition>
+		</SurfaceDetail>
+
+		<ComplexMaterials>
+		  <MaterialGroup Name="Base1" Value="0">
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonSoil_grey_qun" Depth="5"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="0" Max="20"/>
+			</Rule>
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonRock_grey_qun" Depth="10"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="20" Max="90"/>
+			</Rule>
+		  </MaterialGroup>
+		  <MaterialGroup Name="Base2" Value="50">	<!--same-->
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonSoil_grey_qun" Depth="5"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="0" Max="20"/>
+			</Rule>
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonRock_grey_qun" Depth="10"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="20" Max="90"/>
+			</Rule>
+		  </MaterialGroup>
+		  <MaterialGroup Name="Red_Plat" Value="100">
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonSoil_red2_qun" Depth="5"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="0" Max="90"/>
+			</Rule>
+		  </MaterialGroup>
+		  <MaterialGroup Name="Crater" Value="150">
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonSoil_black2_qun" Depth="10"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="0" Max="10"/>
+			</Rule>
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonRock_black2_qun" Depth="10"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="10" Max="90"/>
+			</Rule>
+		  </MaterialGroup>
+		  <MaterialGroup Name="Crater_Rim" Value="200">
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonSoil_grey_qun" Depth="5"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="0" Max="2"/>
+			</Rule>
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonSoil_grey2_qun" Depth="5"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="2" Max="10"/>
+			</Rule>
+			<Rule>
+			  <Layers>
+				<Layer Material="MoonRock_grey2_qun" Depth="10"/>
+			  </Layers>
+			  <Height Min="-0.1" Max="1.0"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="10" Max="90"/>
+			</Rule>
+		  </MaterialGroup>
+		</ComplexMaterials>
+
+		<EnvironmentItems>	<!--just some rocks, rest is foliage in voxelmats-->
+		<Item>
+			<Biomes>
+			  <Biome>0</Biome>
+			</Biomes>
+			<Materials>
+			  <Material>MoonSoil_grey_qun</Material>
+			  <Material>MoonSoil_grey2_qun</Material>
+			  <Material>MoonSoil_black2_qun</Material>
+			  <Material>MoonSoil_red2_qun</Material>
+			</Materials>
+			<Items>
+				<Item TypeId="MyObjectBuilder_DestroyableItems" SubtypeId="Rocks_Qun" Density="0.25"/>
+			</Items>
+			<Rule>
+			  <Height Min="0" Max="1"/>
+			  <Latitude Min="0" Max="90"/>
+			  <Slope Min="0" Max="90"/>
+			</Rule>
+		  </Item>
+		</EnvironmentItems>
+		
+		<OreMappings>	<!--3 Fe, 1 Ni, 1 Si, 1 Mg, 2 Co, 2 Ag, 2 Au, 4 Pt, 4 Ice-->
+		  <Ore Value="10" Type="Iron_02" Start="7" Depth="6"/>
+		  <Ore Value="20" Type="Iron_02" Start="9" Depth="5"/>
+		  <Ore Value="30" Type="Nickel_01" Start="12" Depth="6"/>
+		  <Ore Value="40" Type="Silicon_01" Start="16" Depth="7" />
+		  <Ore Value="50" Type="Magnesium_01" Start="22" Depth="6" />
+		  <Ore Value="60" Type="Cobalt_01" Start="6" Depth="8" />
+		  <Ore Value="70" Type="Cobalt_01" Start="12" Depth="5" />
+		  <Ore Value="80" Type="Silver_01" Start="23" Depth="7" />
+		  <Ore Value="90" Type="Silver_01" Start="9" Depth="9" />
+		  <Ore Value="100" Type="Gold_01" Start="16" Depth="5" />
+		  <Ore Value="110" Type="Gold_01" Start="26" Depth="6" />
+		  <Ore Value="120" Type="Platinum_01" Start="12" Depth="7" />
+		  <Ore Value="130" Type="Platinum_01" Start="28" Depth="5" />
+		  <Ore Value="140" Type="Platinum_01" Start="17" Depth="6" />
+		  <Ore Value="150" Type="Platinum_01" Start="13" Depth="7" />
+		  <Ore Value="160" Type="Platinum_01" Start="34" Depth="6" />
+		  <Ore Value="170" Type="Stone_05" Start="48" Depth="3" />
+		  <Ore Value="180" Type="Stone_05" Start="21" Depth="1" />
+		  <Ore Value="190" Type="Stone_05" Start="70" Depth="4" />
+		  <Ore Value="200" Type="Stone_05" Start="32" Depth="2" />
+		</OreMappings>
+		
+		<SoundRules>
+		  <SoundRule>
+			<Height Min="0" Max="1"/>
+			<Latitude Min="0" Max="90"/>
+			<SunAngleFromZenith Min="0" Max="180"/>
+			<EnvironmentSound>AmbQun</EnvironmentSound>
+		  </SoundRule>
+		</SoundRules>
+
+		<MusicCategories>
+		  <MusicCategory Category="Planet" Frequency="0.4" />
+		  <MusicCategory Category="Mystery" Frequency="0.1" />
+		  <MusicCategory Category="Danger" Frequency="0.05" />
+		  <MusicCategory Category="Calm" Frequency="0.25" />
+		  <MusicCategory Category="Space" Frequency="0.2" />
+		</MusicCategories>
+		
+		<WeatherFrequencyMin>10</WeatherFrequencyMin>	<!--updates like all the time to make sure theres always weather-->
+		<WeatherFrequencyMax>20</WeatherFrequencyMax>
+		<GlobalWeather>false</GlobalWeather>	<!--broken???-->
+		<WeatherGenerators>
+			<WeatherGenerator>
+		        <Voxel>MoonSoil</Voxel>	<!--everything-->
+				<Weathers>
+					<Weather>
+						<Name>QunWeather</Name>
+						<Weight>1</Weight>
+						<MinLength>3000</MinLength>
+						<MaxLength>3000</MaxLength>
+					    <SpawnOffset>-2000</SpawnOffset>
+					</Weather>
+				</Weathers>
+			</WeatherGenerator>
+		</WeatherGenerators>
+		
+		<DistortionTable>	<!--useless???-->
+		  <Distortion Type="Perlin" Value ="92" Frequency="10" Height="4" LayerCount="6"/>
+		</DistortionTable>
+		<MesherPostprocessing xsi:type="MyObjectBuilder_VoxelMesherComponentDefinition">	<!--useless???-->
+		  <PostprocessingSteps>
+			<Step xsi:type="MyObjectBuilder_VoxelPostprocessingDecimate" ForPhysics="true">
+			  <LodSettings>
+				<Settings FromLod="0">
+				  <FeatureAngle>15</FeatureAngle>
+				  <EdgeThreshold>.04</EdgeThreshold>
+				  <PlaneThreshold>.02</PlaneThreshold>
+				</Settings>
+				<Settings FromLod="1">
+				  <FeatureAngle>15</FeatureAngle>
+				  <EdgeThreshold>.04</EdgeThreshold>
+				  <PlaneThreshold>.04</PlaneThreshold>
+				</Settings>
+				<Settings FromLod="2">
+				  <FeatureAngle>15</FeatureAngle>
+				  <EdgeThreshold>.06</EdgeThreshold>
+				  <PlaneThreshold>.06</PlaneThreshold>
+				</Settings>
+			  </LodSettings>
+			</Step>
+		  </PostprocessingSteps>
+		</MesherPostprocessing>
+  </Definition>
+</Definitions>
