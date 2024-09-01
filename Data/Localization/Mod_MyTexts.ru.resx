@@ -284,4 +284,10 @@
 	<data name="DisplayName_Block_SuperAssembler" xml:space="preserve">
 		<value>Сборщик повышеной ёмкости</value>
 	</data>
+	<data name="DisplayName_TeleportGateway" xml:space="preserve">
+		<value>Телепорт</value>
+	</data>
+	<data name="Description_TeleportGateway" xml:space="preserve">
+		<value>Блок телепортации.</value>
+	</data>
 </root>
