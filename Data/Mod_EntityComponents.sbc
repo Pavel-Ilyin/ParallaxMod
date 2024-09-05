@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 	<EntityComponents>
+    
 		<EntityComponent xsi:type="MyObjectBuilder_TimerComponentDefinition">
 			<!-- this value can be overridden by settings of the world -->
 			<TimeToRemoveMin>15</TimeToRemoveMin>
@@ -17,6 +18,7 @@
 			<FocusSearchMaxDistance>7000</FocusSearchMaxDistance>
 			<AngularToleranceFromCrosshair>25</AngularToleranceFromCrosshair>
 		</EntityComponent>
+        
 		<EntityComponent xsi:type="MyObjectBuilder_TargetLockingComponentDefinition">
 			<Id>
 				<TypeId>TargetLockingComponent</TypeId>
@@ -32,6 +34,7 @@
 			<LockingTimeMaxCharacter>10</LockingTimeMaxCharacter>
 			<LockingModifierDistanceCharacter>10</LockingModifierDistanceCharacter>
 		</EntityComponent>
+        
 		<EntityComponent xsi:type="MyObjectBuilder_EntityCapacitorComponentDefinition">
 			<Id>
 				<TypeId>EntityCapacitorComponent</TypeId>
@@ -40,6 +43,7 @@
 			<Capacity>0.016</Capacity>
 			<RechargeDraw>3.6</RechargeDraw>
 		</EntityComponent>
+        
 		<EntityComponent xsi:type="MyObjectBuilder_EntityCapacitorComponentDefinition">
 			<Id>
 				<TypeId>EntityCapacitorComponent</TypeId>
@@ -48,6 +52,7 @@
 			<Capacity>0.6</Capacity>
 			<RechargeDraw>64</RechargeDraw>
 		</EntityComponent>
+        
 		<EntityComponent xsi:type="MyObjectBuilder_EventDistanceToLockedTargetDefinition">
 			<Id>
 				<TypeId>EventDistanceToLockedTarget</TypeId>
@@ -57,6 +62,7 @@
 			<MaxDistance>4000</MaxDistance>
 			<DefaultDistance>4000</DefaultDistance>
 		</EntityComponent>
+        
 		<EntityComponent xsi:type="MyObjectBuilder_SearchEnemyComponentDefinition">
 			<Id>
 				<TypeId>SearchEnemyComponent</TypeId>
@@ -64,5 +70,6 @@
 			</Id>
 			<SearchRadius>4000</SearchRadius>
 		</EntityComponent>
+        
 	</EntityComponents>
 </Definitions>

@@ -99,6 +99,40 @@
 		<SoundDesc Id= "PirateWAVE_028" SoundName= "VEL94EV - Man Is a Machine" />
 		<SoundDesc Id= "PirateWAVE_029" SoundName= "VINIVILLA - XXX" />
 		<SoundDesc Id= "PirateWAVE_030" SoundName= "Zero Cult - Moonlight Run" />
+        
+		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
+        <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />
+        <SoundDesc Id= "LEGACY_02" SoundName= "Древний Египет – Анубис" />
+		<SoundDesc Id= "LEGACY_03" SoundName= "Древний Египет – Пустыня" />
+		<SoundDesc Id= "LEGACY_04" SoundName= "Древний Египет – Солнце пустыни" />
+		<SoundDesc Id= "LEGACY_05" SoundName= "Древний Египет – Солнце Египта" />
+		<SoundDesc Id= "LEGACY_06" SoundName= "Древний Египет – Долина Царей" />
+		<SoundDesc Id= "LEGACY_07" SoundName= "Древний Египет – Прелюдия" />
+		<SoundDesc Id= "LEGACY_08" SoundName= "Древний Египет – Сон Фараона" />
+		<SoundDesc Id= "LEGACY_09" SoundName= "Древний Египет – Арабская мелодия" />
+		<SoundDesc Id= "LEGACY_10" SoundName= "Древний Египет – Полет Сокола" />
+        
+		<SoundDesc Id= "" SoundName= "ABODON----------------------------------" />
+        <SoundDesc Id= "ABODON_001" SoundName= "Johnny Klimek  - Cloud Atlas" />
+        <SoundDesc Id= "ABODON_002" SoundName= "Angelo Badalamenti - Twin Peaks Theme" />
+		<SoundDesc Id= "ABODON_003" SoundName= "James Last - Einsamer Hirte" />
+		<SoundDesc Id= "ABODON_004" SoundName= "Polo and Pan - Gengis" />
+		<SoundDesc Id= "ABODON_005" SoundName= "Nino Rota - Love Theme from the Godfather" />
+		<SoundDesc Id= "ABODON_006" SoundName= "BONDDISCO, Niki Four - Sadeness" />
+		<SoundDesc Id= "ABODON_007" SoundName= "Besso - Old Accordion" />
+		<SoundDesc Id= "ABODON_008" SoundName= "Ennio Morricone - Le Professionel" />
+		<SoundDesc Id= "ABODON_009" SoundName= "Secret Garden - Song From A Secret Garden" />
+		<SoundDesc Id= "ABODON_010" SoundName= "Edward Simoni - Einsamer Hirte" />
+        <SoundDesc Id= "ABODON_011" SoundName= "Orquesta de Angello Conti - Corrupcion en Miami" />
+        <SoundDesc Id= "ABODON_012" SoundName= "Kinobe - Heartstring" />
+		<SoundDesc Id= "ABODON_013" SoundName= "Hans Zimmer - Homeland - Here I Am" />
+		<SoundDesc Id= "ABODON_014" SoundName= "Leo Rojas - Farewell" />
+		<SoundDesc Id= "ABODON_015" SoundName= "Ennio Morricone - Chi Mai" />
+		<SoundDesc Id= "ABODON_016" SoundName= "Nora En Pure - Enchantment" />
+		<SoundDesc Id= "ABODON_017" SoundName= "Jean Michel Jarre - Equinoxe" />
+		<SoundDesc Id= "ABODON_018" SoundName= "Ugress - Your Apathy Is Important To Us" />
+		<SoundDesc Id= "ABODON_019" SoundName= "Traditional Art Troupe - Song of the Eagle" />
+		<SoundDesc Id= "ABODON_020" SoundName= "Rolf Lislevand Ensemble - Passacaglia andaluz II" />
 
 		<SoundDesc Id= "" SoundName= "Calm------------------------------------" />
         <SoundDesc Id= "MusCalm_01" SoundName= "SoundBlock_SoundName_MusCalm_01" />
