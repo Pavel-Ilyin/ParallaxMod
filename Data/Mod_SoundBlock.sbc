@@ -7,6 +7,11 @@
         <SubtypeId>MusicCategory</SubtypeId>
       </Id>
       <Sounds>
+      
+		<SoundDesc Id= "" SoundName= "Music community----------------------" />
+        <SoundDesc Id= "Music_community_001" SoundName= "David Bowie - Space Oddity" />
+        <SoundDesc Id= "Music_community_002" SoundName= "OST Atomic Heart - Трава у дома" />
+        <SoundDesc Id= "Music_community_003" SoundName= "Каламбур – Крутое Пике" />
 	  
 		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
         <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />

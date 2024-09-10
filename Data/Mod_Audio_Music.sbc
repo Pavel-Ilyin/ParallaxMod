@@ -1831,5 +1831,54 @@
             <StreamSound>true</StreamSound>
         </Sound>
         
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Music_community_001</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Music_community\Music_community_001.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Music_community</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Music_community_002</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Music_community\Music_community_002.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Music_community</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Music_community_003</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Music_community\Music_community_003.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Music_community</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        
     </Sounds>
 </Definitions>

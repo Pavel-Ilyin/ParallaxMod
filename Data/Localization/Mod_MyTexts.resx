@@ -273,9 +273,6 @@ Has high power consumption.</value>
 	<data name="DisplayName_Block_SuperGenerator" xml:space="preserve">
 		<value>Super hydrogen generator</value>
 	</data>
-	<data name="DisplayName_Block_SuperAssembler" xml:space="preserve">
-		<value>High Capacity Assembler</value>
-	</data>
 	<data name="DisplayName_TeleportGateway" xml:space="preserve">
 		<value>Teleport</value>
 	</data>
