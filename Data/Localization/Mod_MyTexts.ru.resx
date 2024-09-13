@@ -287,4 +287,10 @@
 	<data name="Description_TeleportGateway" xml:space="preserve">
 		<value>Блок телепортации.</value>
 	</data>
+	<data name="DisplayName_Block_QuantumStorage" xml:space="preserve">
+		<value>Квантовое хранилище</value>
+	</data>
+	<data name="Description_QuantumStorage" xml:space="preserve">
+		<value>Контейнер высокой плотности хранения.</value>
+	</data>
 </root>

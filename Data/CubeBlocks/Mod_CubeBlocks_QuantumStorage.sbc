@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CubeBlocks>
+		<Definition xsi:type="MyObjectBuilder_CargoContainerDefinition">
+			<Id>
+				<TypeId>CargoContainer</TypeId>
+				<SubtypeId>QuantumStorage</SubtypeId>
+			</Id>
+			<DisplayName>DisplayName_Block_QuantumStorage</DisplayName>
+			<Description>Description_QuantumStorage</Description>
+			<Icon>Textures\Icons\Cubes\QuantumStorage.png</Icon>
+            <!--Public>false</Public-->
+			<CubeSize>Large</CubeSize>
+            <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
+            <DeformationRatio>0.9</DeformationRatio>
+			<BlockTopology>TriangleMesh</BlockTopology>
+			<Size x="1" y="3" z="3"/>
+			<ModelOffset x="0" y="0" z="0"/>
+			<Model>Models\QuantumStorage\QuantumStorage.mwm</Model>
+			<Components>
+                <Component Subtype="SteelPlate" Count="960" />
+                <Component Subtype="Calculator" Count="32"/>
+				<Component Subtype="Construction" Count="180" />
+                <Component Subtype="GravityGenerator" Count="430" />
+				<Component Subtype="MetalGrid" Count="160" />
+                <Component Subtype="Superconductor" Count="3200" />
+				<Component Subtype="Computer" Count="640" />
+				<Component Subtype="Construction" Count="60" />
+                <Component Subtype="SteelPlate" Count="190" />
+			</Components>
+			<CriticalComponent Subtype="Computer" Index="0" />
+			<MountPoints>
+				<MountPoint Side="Front" StartX="0.00" StartY="0.00" EndX="1.00" EndY="3.00"/>
+				<MountPoint Side="Back" StartX="0.00" StartY="0.00" EndX="1.00" EndY="3.00"/>
+				<MountPoint Side="Left" StartX="0.00" StartY="0.00" EndX="3.00" EndY="3.00"/>
+				<MountPoint Side="Right" StartX="0.00" StartY="0.00" EndX="3.00" EndY="3.00"/>
+				<MountPoint Side="Top" StartX="0.00" StartY="0.00" EndX="1.00" EndY="3.00"/>
+				<MountPoint Side="Bottom" StartX="0.00" StartY="0.00" EndX="1.00" EndY="3.00"/>
+			</MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\QuantumStorage\QuantumStorage_BS1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\QuantumStorage\QuantumStorage_BS2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\QuantumStorage\QuantumStorage_BS3.mwm" />
+            </BuildProgressModels>
+			<BlockPairName>QuantumStorage</BlockPairName>
+			<MirroringY>Z</MirroringY>
+			<MirroringZ>Y</MirroringZ>
+			<EdgeType>Light</EdgeType>
+			<BuildTimeSeconds>360</BuildTimeSeconds>
+			<DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
+			<DamagedSound>ParticleHeavyMech</DamagedSound>
+			<DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+			<DestroySound>WepSmallWarheadExpl</DestroySound>
+			<PCU>32000</PCU>	
+            <IsAirTight>false</IsAirTight>            
+		</Definition>
+	</CubeBlocks>
+</Definitions>

@@ -22,5 +22,19 @@
                 <string>ShipWelder/SmallShipWelder</string>
             </ItemIds>
         </Category>
+        
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DisplayName_Category_LargeBlocks</DisplayName>
+            <Name>LargeBlocks</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>CargoContainer/QuantumStorage</string>
+            </ItemIds>
+        </Category>
+        
     </CategoryClasses>
 </Definitions>

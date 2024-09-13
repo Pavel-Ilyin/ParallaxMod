@@ -2,10 +2,13 @@
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <BlueprintClassEntries>
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="ShipWelder/LargeIndustrialWelder" />
+        <Entry Class="LargeBlocks" BlueprintSubtypeId="CargoContainer/QuantumStorage" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="Refinery/SmallStoneRecycler" />
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="Refinery/LargeStoneRecycler" />
 		<Entry Class="SmallBlocks" BlueprintSubtypeId="LargeMissileTurret/MA_Designator_sm" />
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="LargeMissileTurret/MA_Designator" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="Refinery/SmallShipMicroShieldGeneratorBase" />
+		<Entry Class="LargeBlocks" BlueprintSubtypeId="Refinery/LargeShipSmallShieldGeneratorBase" />
 		<!-- Assembler -->
         <Entry Class="Components" BlueprintSubtypeId="ConstructionComponent" />
         <Entry Class="Components" BlueprintSubtypeId="GirderComponent" />

@@ -279,4 +279,10 @@ Has high power consumption.</value>
 	<data name="Description_TeleportGateway" xml:space="preserve">
 		<value>Teleportation block.</value>
 	</data>
+	<data name="DisplayName_Block_QuantumStorage" xml:space="preserve">
+		<value>Quantum storage</value>
+	</data>
+	<data name="Description_QuantumStorage" xml:space="preserve">
+		<value>High Density Storage Container.</value>
+	</data>
 </root>

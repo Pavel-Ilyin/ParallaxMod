@@ -168,5 +168,26 @@
             <!--MinimalPricePerUnit>620000</MinimalPricePerUnit-->
             <CanPlayerOrder>true</CanPlayerOrder>
         </Component>
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>GravityGenerator</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_GravityGeneratorComponents</DisplayName>
+            <Icon>Textures\GUI\Icons\component\gravity_generator_components_component.dds</Icon>
+            <Size>
+                <X>1</X>
+                <Y>0.7</Y>
+                <Z>0.4</Z>
+            </Size>
+            <Mass>800</Mass>
+            <Volume>200</Volume>
+            <Model>Models\Components\gravity_generator_components_component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>90</MaxIntegrity>
+            <DropProbability>0.2</DropProbability>
+            <Health>12</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
     </Components>
 </Definitions>

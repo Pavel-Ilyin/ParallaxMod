@@ -80,7 +80,7 @@
                 <SubtypeId>SmallStoneRecycler</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_StoneRecycler</DisplayName>
-            <Icon>Textures\Icons\StoneRecycler.png</Icon>
+            <Icon>Textures\Icons\SmallStoneRecycler.png</Icon>
             <Description>Description_StoneRecycler</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
