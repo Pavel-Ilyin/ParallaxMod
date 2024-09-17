@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Ammos>
+    
         <Ammo xsi:type="MyObjectBuilder_ProjectileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -24,6 +25,7 @@
                 <ProjectileHeadShotDamage>300</ProjectileHeadShotDamage>
             </ProjectileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_ProjectileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -46,6 +48,7 @@
                 <HeadShot>true</HeadShot>
             </ProjectileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_ProjectileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -68,6 +71,7 @@
                 <HeadShot>true</HeadShot>
             </ProjectileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_ProjectileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -90,6 +94,7 @@
                 <HeadShot>true</HeadShot>
             </ProjectileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -123,6 +128,7 @@
                 <MissileRicochetDamage>900</MissileRicochetDamage>
             </MissileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -156,6 +162,7 @@
                 <MissileRicochetDamage>300</MissileRicochetDamage>
             </MissileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -184,6 +191,7 @@
                 <MissileGravityEnabled>true</MissileGravityEnabled>
             </MissileProperties>
         </Ammo>
+        
         <Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
             <Id>
                 <TypeId>AmmoDefinition</TypeId>
@@ -212,5 +220,6 @@
                 <MissileGravityEnabled>true</MissileGravityEnabled>
             </MissileProperties>
         </Ammo>
+        
     </Ammos>
 </Definitions>

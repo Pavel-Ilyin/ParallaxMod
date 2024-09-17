@@ -30,6 +30,7 @@
         <SoundDesc Id= "Green_ya_002" SoundName= "Космические пираты" />
 		<SoundDesc Id= "Green_ya_003" SoundName= "Космический рудник" />
 		<SoundDesc Id= "Green_ya_004" SoundName= "Космические олухи" />
+        <SoundDesc Id= "Green_ya_005" SoundName= "Пустота" />
 
 		<SoundDesc Id= "" SoundName= "Parallax--------------------------------" />
         <SoundDesc Id= "PARALLAX_001" SoundName= "Aljosha Konstanty - Ghost on Your Lips" />
@@ -40,7 +41,7 @@
 		<SoundDesc Id= "PARALLAX_006" SoundName= "Gysnoize - Are You Dreaming" />
 		<SoundDesc Id= "PARALLAX_007" SoundName= "Kasbo - Hemma" />
 		<SoundDesc Id= "PARALLAX_008" SoundName= "Modulation Sounds - Falling" />
-		<SoundDesc Id= "PARALLAX_009" SoundName= "Nephed - Die Alone (Original Mix)" />
+		<SoundDesc Id= "PARALLAX_009" SoundName= "Galaxytones - Feel It Now" />
 		<SoundDesc Id= "PARALLAX_010" SoundName= "Thomas Lizzara - Lucerne" />
         <SoundDesc Id= "PARALLAX_011" SoundName= "Alex Freel - Fiend" />
         <SoundDesc Id= "PARALLAX_012" SoundName= "ATB - Future Memories" />
@@ -72,6 +73,9 @@
 		<SoundDesc Id= "PARALLAX_038" SoundName= "Gysnoize - I Need You" />
 		<SoundDesc Id= "PARALLAX_039" SoundName= "March 13 - Take Your Time" />
 		<SoundDesc Id= "PARALLAX_040" SoundName= "Modulation Sounds - Breath" />
+        <SoundDesc Id= "PARALLAX_041" SoundName= "Power-Haus - Balder (Shyloom Remix)" />
+        <SoundDesc Id= "PARALLAX_042" SoundName= "Monocherry - On the Nature of Daylight" />
+        <SoundDesc Id= "PARALLAX_043" SoundName= "MAILKY - Flawless" />
 		
 		<SoundDesc Id= "" SoundName= "Pirate wave-----------------------------" />
 		<SoundDesc Id= "PirateWAVE_001" SoundName= "Adam Liria - Experiment" />
@@ -104,6 +108,8 @@
 		<SoundDesc Id= "PirateWAVE_028" SoundName= "VEL94EV - Man Is a Machine" />
 		<SoundDesc Id= "PirateWAVE_029" SoundName= "VINIVILLA - XXX" />
 		<SoundDesc Id= "PirateWAVE_030" SoundName= "Zero Cult - Moonlight Run" />
+        <SoundDesc Id= "PirateWAVE_031" SoundName= "Matstubs - Alice" />
+        <SoundDesc Id= "PirateWAVE_032" SoundName= "Nephed - Ocean" />
         
 		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
         <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />

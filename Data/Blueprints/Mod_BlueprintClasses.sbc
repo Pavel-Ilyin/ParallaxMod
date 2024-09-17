@@ -9,6 +9,7 @@
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="LargeMissileTurret/MA_Designator" />
         <Entry Class="SmallBlocks" BlueprintSubtypeId="Refinery/SmallShipMicroShieldGeneratorBase" />
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="Refinery/LargeShipSmallShieldGeneratorBase" />
+        <Entry Class="SmallBlocks" BlueprintSubtypeId="SmallMissileLauncher/SmallBlockLargeCalibreGun" />
 		<!-- Assembler -->
         <Entry Class="Components" BlueprintSubtypeId="ConstructionComponent" />
         <Entry Class="Components" BlueprintSubtypeId="GirderComponent" />

@@ -36,5 +36,34 @@
             </ItemIds>
         </Category>
         
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DisplayName_Category_SmallBlocks</DisplayName>
+            <Name>SmallBlocks</Name>
+            <StrictSearch>true</StrictSearch>
+            <ItemIds>
+                <string>SmallMissileLauncher/SmallBlockLargeCalibreGun</string>	
+            </ItemIds>
+        </Category>
+        
+        <Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition">
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId/>
+            </Id>
+            <DisplayName>DisplayName_Category_ShipWeapons</DisplayName>
+            <Name>ShipWeapons</Name>
+            <SearchBlocks>false</SearchBlocks>
+            <IsShipCategory>true</IsShipCategory>
+            <IsBlockCategory>false</IsBlockCategory>
+            <IsToolCategory>true</IsToolCategory>
+            <ItemIds>
+                <string>SmallMissileLauncher/SmallBlockLargeCalibreGun</string>
+            </ItemIds>
+        </Category>
+        
     </CategoryClasses>
 </Definitions>

@@ -1,49 +1,6 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <Weapons>
-        <!--Weapon>
-            <Id>
-                <TypeId>WeaponDefinition</TypeId>
-                <SubtypeId>SmallMissileLauncher</SubtypeId>
-            </Id>
-            <MissileAmmoData RateOfFire="60" ShootSoundName="WepShipSmallMissileShot" FlightSoundName="MissileFlightSound" ShotsInBurst="0"/>
-            <DeviateShotAngle>0.01</DeviateShotAngle>
-            <DeviateShotAngleAiming>0.01</DeviateShotAngleAiming>
-            <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
-            <AmmoMagazines>
-                <AmmoMagazine Subtype="Missile200mm"/>
-            </AmmoMagazines>
-            <SupportReloading>false</SupportReloading>
-        </Weapon-->
-        <!--Weapon>
-            <Id>
-                <TypeId>WeaponDefinition</TypeId>
-                <SubtypeId>LargeMissileLauncher</SubtypeId>
-            </Id>
-            <MissileAmmoData RateOfFire="120" ShootSoundName="WepShipSmallMissileShot" FlightSoundName="MissileFlightSound" ShotsInBurst="19"/>
-            <DeviateShotAngle>0.01</DeviateShotAngle>
-            <DeviateShotAngleAiming>0.01</DeviateShotAngleAiming>
-            <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
-            <AmmoMagazines>
-                <AmmoMagazine Subtype="Missile200mm"/>
-				<AmmoMagazine Subtype="Missile_ST200mm"/>
-            </AmmoMagazines>
-            <ReloadTime>4000</ReloadTime>
-        </Weapon-->
-        <!--Weapon>
-            <Id>
-                <TypeId>WeaponDefinition</TypeId>
-                <SubtypeId>LargeMissileTurret</SubtypeId>
-            </Id>
-            <MissileAmmoData RateOfFire="90" ShootSoundName="WepTurretMissileShot" FlightSoundName="MissileFlightSound" ShotsInBurst="6"/>
-            <DeviateShotAngle>0.5</DeviateShotAngle>
-            <DeviateShotAngleAiming>0.5</DeviateShotAngleAiming>
-            <NoAmmoSoundName>WepPlayRifleNoAmmo</NoAmmoSoundName>
-            <AmmoMagazines>
-                <AmmoMagazine Subtype="Missile200mm"/>
-            </AmmoMagazines>
-            <ReloadTime>4000</ReloadTime>
-        </Weapon-->
         <Weapon>
             <Id>
                 <TypeId>WeaponDefinition</TypeId>
@@ -70,14 +27,30 @@
                 <SubtypeId>LargeCalibreGun</SubtypeId>
             </Id>
             <MissileAmmoData RateOfFire="80" ShootSoundName="WepLargeCalibreShot" FlightSoundName="HeavyShellFlightSound" RicochetSoundName="ImpMetalMetalCat3" ShotsInBurst="1"/>
-            <DeviateShotAngle>0.05</DeviateShotAngle>
-            <DeviateShotAngleAiming>0.05</DeviateShotAngleAiming>
+            <DeviateShotAngle>0.15</DeviateShotAngle>
+            <DeviateShotAngleAiming>0.15</DeviateShotAngleAiming>
             <AmmoMagazines>
                 <AmmoMagazine Subtype="LargeCalibreAmmo"/>
             </AmmoMagazines>
             <ReloadTime>12000</ReloadTime>
             <Effects>
                 <Effect Action="Shoot" Dummy="muzzle_missile_001" Particle="Muzzle_Flash_LargeCalibre" Loop="false" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-3.5"/>
+            </Effects>
+        </Weapon>
+        <Weapon>
+            <Id>
+                <TypeId>WeaponDefinition</TypeId>
+                <SubtypeId>SmallLargeCalibreGun</SubtypeId>
+            </Id>
+            <MissileAmmoData RateOfFire="80" ShootSoundName="WepLargeCalibreShot" FlightSoundName="HeavyShellFlightSound" RicochetSoundName="ImpMetalMetalCat3" ShotsInBurst="1"/>
+            <DeviateShotAngle>0.05</DeviateShotAngle>
+            <DeviateShotAngleAiming>0.05</DeviateShotAngleAiming>
+            <AmmoMagazines>
+                <AmmoMagazine Subtype="LargeCalibreAmmo"/>
+            </AmmoMagazines>
+            <ReloadTime>20000</ReloadTime>
+            <Effects>
+                <Effect Action="Shoot" Dummy="muzzle_missile_1" Particle="Muzzle_Flash_LargeCalibre" Loop="false" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-7.75"/>
             </Effects>
         </Weapon>
         <Weapon>
@@ -136,20 +109,6 @@
                 <Effect Action="Shoot" Dummy="Muzzle_Missile" Particle="Muzzle_Flash_MediumCalibre" Loop="false" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-2"/>
             </Effects>
         </Weapon>
-        <!--Weapon>
-            <Id>
-                <TypeId>WeaponDefinition</TypeId>
-                <SubtypeId>SmallMissileTurret</SubtypeId>
-            </Id>
-            <MissileAmmoData RateOfFire="90" ShootSoundName="WepTurretMissileShot" FlightSoundName="MissileFlightSound" ShotsInBurst="2"/>
-            <DeviateShotAngle>0.5</DeviateShotAngle>
-            <DeviateShotAngleAiming>0.5</DeviateShotAngleAiming>
-            <NoAmmoSoundName>WepPlayRifleNoAmmo</NoAmmoSoundName>
-            <AmmoMagazines>
-                <AmmoMagazine Subtype="Missile200mm"/>
-            </AmmoMagazines>
-            <ReloadTime>6000</ReloadTime>
-        </Weapon-->
         <Weapon>
             <Id>
                 <TypeId>WeaponDefinition</TypeId>

@@ -802,6 +802,54 @@
             <MusicCategory>PARALLAX</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PARALLAX_041</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PARALLAX\PARALLAX_041.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PARALLAX</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PARALLAX_042</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PARALLAX\PARALLAX_042.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PARALLAX</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PARALLAX_043</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PARALLAX\PARALLAX_043.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PARALLAX</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
 
         <Sound>
             <Id>
@@ -1283,6 +1331,38 @@
             <MusicCategory>PirateWAVE</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_031</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_031.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_032</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_032.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
         
         <Sound>
             <Id>
@@ -1343,6 +1423,22 @@
             <Waves>
                 <Wave Type="D2">
                     <Start>Audio\MUS\Green_ya\Green_ya_004.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Green_ya</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Green_ya_005</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Green_ya\Green_ya_005.xwm</Start>
                 </Wave>
             </Waves>
             <MusicCategory>Green_ya</MusicCategory>
