@@ -7,7 +7,7 @@
                 <SubtypeId>TimerBlockLarge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_TimerBlock</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\TimerBlock.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\TimerBlock.dds</Icon>
             <Description>Description_Timer</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -51,7 +51,7 @@
                 <SubtypeId>TimerBlockSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_TimerBlock</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\TimerBlock.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\TimerBlock.dds</Icon>
             <Description>Description_Timer</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -103,7 +103,7 @@
                 <SubtypeId>TimerBlockReskinLarge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_TimerBlockReskin</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\TimerBlockReskinLarge.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\TimerBlockReskinLarge.dds</Icon>
             <Description>Description_Timer</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -149,7 +149,7 @@
                 <SubtypeId>TimerBlockReskinSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_TimerBlockReskin</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\TimerBlockReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\TimerBlockReskin.dds</Icon>
             <Description>Description_Timer</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>

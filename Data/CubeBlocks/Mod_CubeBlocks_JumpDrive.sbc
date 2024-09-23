@@ -7,7 +7,7 @@
                 <SubtypeId>LargeJumpDrive</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_JumpDrive</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\JumpDrive.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\JumpDrive.dds</Icon>
             <Description>Description_JumpDrive</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

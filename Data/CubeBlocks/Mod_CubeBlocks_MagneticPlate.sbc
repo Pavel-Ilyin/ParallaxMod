@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockMagneticPlate</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MagneticPlateLarge</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\MagneticPlateLarge.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\MagneticPlateLarge.dds</Icon>
             <Description>Description_LandingGear</Description>
             <CubeSize>Large</CubeSize>
             <DeformationRatio>0.3</DeformationRatio>
@@ -58,7 +58,7 @@
                 <SubtypeId>SmallBlockMagneticPlate</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MagneticPlateLarge</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\MagneticPlate.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\MagneticPlate.dds</Icon>
             <Description>Description_LandingGear</Description>
             <CubeSize>Small</CubeSize>
             <DeformationRatio>0.5</DeformationRatio>

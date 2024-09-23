@@ -7,7 +7,7 @@
 				<SubtypeId>Stone</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_StoneOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_rock.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_rock.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -27,7 +27,7 @@
 				<SubtypeId>Iron</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_IronOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Fe_iron.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Fe_iron.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -49,7 +49,7 @@
 				<SubtypeId>Nickel</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_NickelOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Ni_nickel.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Ni_nickel.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -71,7 +71,7 @@
 				<SubtypeId>Cobalt</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_CobaltOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Co_cobalt.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Co_cobalt.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -93,7 +93,7 @@
 				<SubtypeId>Magnesium</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_MagnesiumOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Mg_magnesium.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Mg_magnesium.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -115,7 +115,7 @@
 				<SubtypeId>Silicon</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_SiliconOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Si_silicon.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Si_silicon.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -137,7 +137,7 @@
 				<SubtypeId>Silver</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_SilverOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Ag_silver.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Ag_silver.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -159,7 +159,7 @@
 				<SubtypeId>Gold</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_GoldOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Au_gold.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Au_gold.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -181,7 +181,7 @@
 				<SubtypeId>Platinum</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_PlatinumOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_Pt_platinum.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_Pt_platinum.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -203,7 +203,7 @@
 				<SubtypeId>Uranium</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_UraniumOre</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_UO2_uranite.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_UO2_uranite.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -225,7 +225,7 @@
 				<SubtypeId>Stone</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Gravel</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\gravel_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\gravel_ingot.dds</Icon>
 			<Size>
 				<X>0.072</X>
 				<Y>0.072</Y>
@@ -244,7 +244,7 @@
 				<SubtypeId>Iron</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_IronIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\iron_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\iron_ingot.dds</Icon>
 			<Size>
 				<X>0.05</X>
 				<Y>0.05</Y>
@@ -265,7 +265,7 @@
 				<SubtypeId>Nickel</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_NickelIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\nickel_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\nickel_ingot.dds</Icon>
 			<Size>
 				<X>0.048</X>
 				<Y>0.048</Y>
@@ -290,7 +290,7 @@
 				<SubtypeId>Cobalt</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_CobaltIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\cobalt_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\cobalt_ingot.dds</Icon>
 			<Size>
 				<X>0.048</X>
 				<Y>0.048</Y>
@@ -315,7 +315,7 @@
 				<SubtypeId>Magnesium</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_MagnesiumPowder</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\magnesium_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\magnesium_ingot.dds</Icon>
 			<Size>
 				<X>0.083</X>
 				<Y>0.083</Y>
@@ -340,7 +340,7 @@
 				<SubtypeId>Silicon</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_SiliconWafer</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\silicon_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\silicon_ingot.dds</Icon>
 			<Size>
 				<X>0.075</X>
 				<Y>0.075</Y>
@@ -365,7 +365,7 @@
 				<SubtypeId>Silver</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_SilverIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\silver_ingot.dds</Icon>
 			<Size>
 				<X>0.046</X>
 				<Y>0.046</Y>
@@ -390,7 +390,7 @@
 				<SubtypeId>Gold</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_GoldIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\gold_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\gold_ingot.dds</Icon>
 			<Size>
 				<X>0.037</X>
 				<Y>0.037</Y>
@@ -415,7 +415,7 @@
 				<SubtypeId>Platinum</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_PlatinumIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\platinum_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\platinum_ingot.dds</Icon>
 			<Size>
 				<X>0.036</X>
 				<Y>0.036</Y>
@@ -440,7 +440,7 @@
 				<SubtypeId>Uranium</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_UraniumIngot</DisplayName>
-			<Icon>Textures\GUI\Icons\ingot\uranium_ingot.dds</Icon>
+			<Icon>Textures\ColorFull\Ingot\uranium_ingot.dds</Icon>
 			<Size>
 				<X>0.037</X>
 				<Y>0.037</Y>
@@ -465,7 +465,7 @@
 				<SubtypeId>SemiAutoPistolItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_SemiAutoPistol</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponPistol_Warfare.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponPistol_Warfare.dds</Icon>
 			<Description>Description_SemiAutoPistol</Description>
 			<Size>
 				<X>0.27</X>
@@ -490,7 +490,7 @@
 				<SubtypeId>FullAutoPistolItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_FullAutoPistol</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponPistol_FullAuto_Warfare.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponPistol_FullAuto_Warfare.dds</Icon>
 			<Description>Description_FullAutoPistol</Description>
 			<Size>
 				<X>0.27</X>
@@ -515,7 +515,7 @@
 				<SubtypeId>ElitePistolItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_ElitePistol</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponPistol_Elite_Warfare.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponPistol_Elite_Warfare.dds</Icon>
 			<Description>Description_ElitePistol</Description>
 			<Size>
 				<X>0.27</X>
@@ -565,7 +565,7 @@
 				<SubtypeId>AutomaticRifleItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_AutomaticRifle</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponAutomaticRifle.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponAutomaticRifle.dds</Icon>
 			<Description>Description_Rifle</Description>
 			<Size>
 				<X>0.8</X>
@@ -590,7 +590,7 @@
 				<SubtypeId>PreciseAutomaticRifleItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_PreciseAutomaticRifle</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponAutomaticRifle_Precise.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponAutomaticRifle_Precise.dds</Icon>
 			<Description>Description_PreciseAutomaticRifle</Description>
 			<Size>
 				<X>0.8</X>
@@ -615,7 +615,7 @@
 				<SubtypeId>RapidFireAutomaticRifleItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_RapidFireAutomaticRifle</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponAutomaticRifle_RapidFire.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponAutomaticRifle_RapidFire.dds</Icon>
 			<Description>Description_RapidFireAutomaticRifle</Description>
 			<Size>
 				<X>0.8</X>
@@ -640,7 +640,7 @@
 				<SubtypeId>UltimateAutomaticRifleItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_EliteAutomaticRifle</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponAutomaticRifle_Elite.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponAutomaticRifle_Elite.dds</Icon>
 			<Description>Description_EliteAutomaticRifle</Description>
 			<Size>
 				<X>0.8</X>
@@ -665,7 +665,7 @@
 				<SubtypeId>BasicHandHeldLauncherItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_BasicHandHeldLauncher</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponRocketLauncher_Regular.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponRocketLauncher_Regular.dds</Icon>
 			<Description>Description_BasicHandHeldLauncher</Description>
 			<Size>
 				<X>0.8</X>
@@ -690,7 +690,7 @@
 				<SubtypeId>AdvancedHandHeldLauncherItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_AdvancedHandHeldLauncher</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponRocketLauncher_Precise.dds</Icon>
+			<Icon>Textures\ColorFull\Weapon\WeaponRocketLauncher_Precise.dds</Icon>
 			<Description>Description_AdvancedHandHeldLauncher</Description>
 			<Size>
 				<X>0.8</X>
@@ -715,7 +715,7 @@
 				<SubtypeId>OxygenBottle</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_OxygenBottle</DisplayName>
-			<Icon>Textures\GUI\Icons\component\OxygenBottleComponent.dds</Icon>
+			<Icon>Textures\ColorFull\Component\OxygenBottleComponent.dds</Icon>
 			<Size>
 				<X>0.8</X>
 				<Y>0.24</Y>
@@ -744,7 +744,7 @@
 				<SubtypeId>HydrogenBottle</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_HydrogenBottle</DisplayName>
-			<Icon>Textures\GUI\Icons\component\HydrogenBottle_Component.dds</Icon>
+			<Icon>Textures\ColorFull\Component\HydrogenBottle_Component.dds</Icon>
 			<Size>
 				<X>0.8</X>
 				<Y>0.24</Y>
@@ -773,7 +773,7 @@
 				<SubtypeId>WelderItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Welder</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponWelder.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponWelder.dds</Icon>
 			<Description>Description_Welder</Description>
 			<Size>
 				<X>0.4</X>
@@ -796,7 +796,7 @@
 				<SubtypeId>Welder2Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Welder2</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponWelder_1.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponWelder_1.dds</Icon>
 			<Description>Description_Welder</Description>
 			<Size>
 				<X>0.4</X>
@@ -820,7 +820,7 @@
 				<SubtypeId>Welder3Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Welder3</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponWelder_2.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponWelder_2.dds</Icon>
 			<Description>Description_Welder</Description>
 			<Size>
 				<X>0.4</X>
@@ -844,7 +844,7 @@
 				<SubtypeId>Welder4Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Welder4</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponWelder_3.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponWelder_3.dds</Icon>
 			<Description>Description_Welder</Description>
 			<Size>
 				<X>0.4</X>
@@ -868,7 +868,7 @@
 				<SubtypeId>AngleGrinderItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_AngleGrinder</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponGrinder.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponGrinder.dds</Icon>
 			<Description>Description_AngleGrinder</Description>
 			<Size>
 				<X>0.5</X>
@@ -891,7 +891,7 @@
 				<SubtypeId>AngleGrinder2Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_AngleGrinder2</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponGrinder_1.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponGrinder_1.dds</Icon>
 			<Description>Description_AngleGrinder</Description>
 			<Size>
 				<X>0.5</X>
@@ -915,7 +915,7 @@
 				<SubtypeId>AngleGrinder3Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_AngleGrinder3</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponGrinder_2.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponGrinder_2.dds</Icon>
 			<Description>Description_AngleGrinder</Description>
 			<Size>
 				<X>0.5</X>
@@ -939,7 +939,7 @@
 				<SubtypeId>AngleGrinder4Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_AngleGrinder4</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponGrinder_3.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponGrinder_3.dds</Icon>
 			<Description>Description_AngleGrinder</Description>
 			<Size>
 				<X>0.5</X>
@@ -963,7 +963,7 @@
 				<SubtypeId>HandDrillItem</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_HandDrill</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponDrill.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponDrill.dds</Icon>
 			<Description>Description_HandDrill</Description>
 			<Size>
 				<X>1.2</X>
@@ -986,7 +986,7 @@
 				<SubtypeId>HandDrill2Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_HandDrill2</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponDrill_1.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponDrill_1.dds</Icon>
 			<Description>Description_HandDrill</Description>
 			<Size>
 				<X>1.2</X>
@@ -1010,7 +1010,7 @@
 				<SubtypeId>HandDrill3Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_HandDrill3</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponDrill_2.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponDrill_2.dds</Icon>
 			<Description>Description_HandDrill</Description>
 			<Size>
 				<X>1.2</X>
@@ -1034,7 +1034,7 @@
 				<SubtypeId>HandDrill4Item</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_HandDrill4</DisplayName>
-			<Icon>Textures\GUI\Icons\WeaponDrill_3.dds</Icon>
+			<Icon>Textures\ColorFull\Tools\WeaponDrill_3.dds</Icon>
 			<Description>Description_HandDrill</Description>
 			<Size>
 				<X>1.2</X>
@@ -1073,7 +1073,7 @@
 				<SubtypeId>Scrap</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Scrap</DisplayName>
-			<Icon>Textures\GUI\Icons\component\ScrapMetalComponent.dds</Icon>
+			<Icon>Textures\ColorFull\Component\ScrapMetalComponent.dds</Icon>
 			<Size>
 				<X>0.2</X>
 				<Y>0.2</Y>
@@ -1091,7 +1091,7 @@
 			</Id>
 			<DisplayName>DisplayName_Item_ScrapIngot</DisplayName>
 			<!-- Old definition for backwards compatibility -->
-			<Icon>Textures\GUI\Icons\component\ScrapMetalComponent.dds</Icon>
+			<Icon>Textures\ColorFull\Component\ScrapMetalComponent.dds</Icon>
 			<Size>
 				<X>0.2</X>
 				<Y>0.2</Y>
@@ -1108,7 +1108,7 @@
 				<SubtypeId>Ice</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_Ice</DisplayName>
-			<Icon>Textures\GUI\Icons\ore_H2O_ice.dds</Icon>
+			<Icon>Textures\ColorFull\Ore\ore_H2O_ice.dds</Icon>
 			<Size>
 				<X>0.07</X>
 				<Y>0.07</Y>
@@ -1439,7 +1439,7 @@
 			</Id>
 			<DisplayName>DisplayName_Item_ClangCola</DisplayName>
 			<Description>Description_ClangKola</Description>
-			<Icon>Textures\GUI\Icons\Items\ClangCola.dds</Icon>
+			<Icon>Textures\ColorFull\Items\ClangCola.dds</Icon>
 			<Size>
 				<X>0.14</X>
 				<Y>0.43</Y>
@@ -1464,7 +1464,7 @@
 			</Id>
 			<DisplayName>DisplayName_Item_CosmicCoffee</DisplayName>
 			<Description>Description_CosmicCoffee</Description>
-			<Icon>Textures\GUI\Icons\Items\CosmicCoffee.dds</Icon>
+			<Icon>Textures\ColorFull\Items\CosmicCoffee.dds</Icon>
 			<Size>
 				<X>0.14</X>
 				<Y>0.43</Y>

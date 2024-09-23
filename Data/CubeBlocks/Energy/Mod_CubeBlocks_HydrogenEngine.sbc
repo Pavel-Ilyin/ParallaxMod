@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>DisplayName_Block_Hydrogen_Engine</DisplayName>
             <Description>Description_PowerGenerator</Description>
-            <Icon>Textures\GUI\Icons\Cubes\HydrogenEngineLarge.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HydrogenEngineLarge.dds</Icon>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -97,7 +97,7 @@
             </Id>
             <DisplayName>DisplayName_Block_Hydrogen_Engine</DisplayName>
             <Description>Description_PowerGenerator</Description>
-            <Icon>Textures\GUI\Icons\Cubes\HydrogenEngineSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HydrogenEngineSmall.dds</Icon>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>

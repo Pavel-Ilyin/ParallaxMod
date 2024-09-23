@@ -51,7 +51,7 @@
 			<DamagedSound>ParticleHeavyMech</DamagedSound>
 			<DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
 			<DestroySound>WepSmallWarheadExpl</DestroySound>
-			<PCU>32000</PCU>	
+			<PCU>3200</PCU>	
             <IsAirTight>false</IsAirTight>            
 		</Definition>
 	</CubeBlocks>

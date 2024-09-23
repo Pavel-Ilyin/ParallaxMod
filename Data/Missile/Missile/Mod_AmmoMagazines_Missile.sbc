@@ -7,7 +7,7 @@
                 <SubtypeId>Missile200mm</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_Missile200mm</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\Small_Rocket.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\Small_Rocket.dds</Icon>
             <Size>
                 <X>1.2</X>
                 <Y>0.2</Y>

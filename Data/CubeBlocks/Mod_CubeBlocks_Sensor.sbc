@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockSensor</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Sensor</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Sensor.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\Sensor.dds</Icon>
             <Description>Description_Sensor</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -73,7 +73,7 @@
                 <SubtypeId>SmallBlockSensor</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Sensor</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Sensor.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\Sensor.dds</Icon>
             <Description>Description_Sensor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -134,7 +134,7 @@
                 <SubtypeId>LargeBlockSensorReskin</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SensorReskin</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SensorReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SensorReskin.dds</Icon>
             <Description>Description_Sensor</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -201,7 +201,7 @@
                 <SubtypeId>SmallBlockSensorReskin</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SensorReskin</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SensorReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SensorReskin.dds</Icon>
             <Description>Description_Sensor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>

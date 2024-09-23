@@ -27,7 +27,7 @@
                 <SubtypeId>AutocannonClip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_AutoCannonClip</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\AutoCanonShellBox.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\AutoCanonShellBox.dds</Icon>
             <Size>
                 <X>0.25</X>
                 <Y>0.2</Y>
@@ -47,7 +47,7 @@
                 <SubtypeId>NATO_25x184mm</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_NATO_25x184mm</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\Ammo_Box.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\Ammo_Box.dds</Icon>
             <Size>
                 <X>0.25</X>
                 <Y>0.2</Y>
@@ -67,7 +67,7 @@
                 <SubtypeId>LargeCalibreAmmo</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_LargeCalibreAmmo</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\LargeCalibreShell.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\LargeCalibreShell.dds</Icon>
             <Size>
                 <X>1.2</X>
                 <Y>0.3</Y>
@@ -87,7 +87,7 @@
                 <SubtypeId>MediumCalibreAmmo</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_MediumCalibreAmmo</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\MediumCalibreShell.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\MediumCalibreShell.dds</Icon>
             <Size>
                 <X>0.25</X>
                 <Y>0.2</Y>
@@ -107,7 +107,7 @@
                 <SubtypeId>LargeRailgunAmmo</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_LargeRailgunAmmo</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\RailgunAmmoLarge.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\RailgunAmmoLarge.dds</Icon>
             <Size>
                 <X>1.0</X>
                 <Y>0.3</Y>
@@ -127,7 +127,7 @@
                 <SubtypeId>SmallRailgunAmmo</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_SmallRailgunAmmo</DisplayName>
-            <Icon>Textures\GUI\Icons\ammo\RailgunAmmo.dds</Icon>
+            <Icon>Textures\ColorFull\Ammo\RailgunAmmo.dds</Icon>
             <Size>
                 <X>0.25</X>
                 <Y>0.1</Y>

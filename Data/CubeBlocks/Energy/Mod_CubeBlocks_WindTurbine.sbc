@@ -8,7 +8,7 @@
             </Id>
             <DisplayName>DisplayName_Block_WindTurbine</DisplayName>
             <Description>Description_WindTurbine</Description>
-            <Icon>Textures\GUI\Icons\Cubes\WindTurbine.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WindTurbine.dds</Icon>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <PlaceDecals>false</PlaceDecals>
@@ -76,7 +76,7 @@
             </Id>
             <DisplayName>DisplayName_Block_WindTurbineReskin</DisplayName>
             <Description>Description_WindTurbine</Description>
-            <Icon>Textures\GUI\Icons\Cubes\WindTurbineReskin_Large.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WindTurbineReskin_Large.dds</Icon>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <PlaceDecals>false</PlaceDecals>

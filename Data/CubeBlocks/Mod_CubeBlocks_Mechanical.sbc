@@ -7,7 +7,7 @@
                 <SubtypeId>LargeStator</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Rotor</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\motor.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\motor.dds</Icon>
             <Description>Description_Rotor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -70,7 +70,7 @@
                 <SubtypeId>LargeRotor</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RotorPart</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RotorPart.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\RotorPart.dds</Icon>
             <Description>Description_RotorPart</Description>
             <BlockPairName>MotorRotor</BlockPairName>
             <CubeSize>Large</CubeSize>
@@ -108,7 +108,7 @@
                 <SubtypeId>SmallStator</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Rotor</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\motor.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\motor.dds</Icon>
             <Description>Description_Rotor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -168,7 +168,7 @@
                 <SubtypeId>SmallRotor</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RotorPart</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RotorPart.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\RotorPart.dds</Icon>
             <Description>Description_RotorPart</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -209,7 +209,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Block_AdvancedRotor</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AdvancedMotor_small.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AdvancedMotor_small.dds</Icon>
             <Description>Description_AdvancedRotor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -271,7 +271,7 @@
                 <SubtypeId>LargeAdvancedRotor</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_AdvancedRotorPart</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AdvancedRotorPart.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AdvancedRotorPart.dds</Icon>
             <Description>Description_AdvancedRotorPart</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
@@ -310,7 +310,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Block_AdvancedRotor3x3</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AdvancedMotor.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AdvancedMotor.dds</Icon>
             <Description>Description_AdvancedRotor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -366,7 +366,7 @@
                 <SubtypeId>SmallAdvancedRotor</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_AdvancedRotorPart3x3</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AdvancedRotorPart.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AdvancedRotorPart.dds</Icon>
             <Description>Description_AdvancedRotorPart</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -403,7 +403,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Block_AdvancedRotor</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AdvancedMotor_small.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AdvancedMotor_small.dds</Icon>
             <Description>Description_AdvancedRotor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -464,7 +464,7 @@
                 <SubtypeId>SmallAdvancedRotorSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_AdvancedRotorPart</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AdvancedRotor_Part_small.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AdvancedRotor_Part_small.dds</Icon>
             <Description>Description_AdvancedRotorPart</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -500,7 +500,7 @@
                 <SubtypeId>LargeHinge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeHinge</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Hinge.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\Hinge.dds</Icon>
             <Description>Description_Hinge</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -557,7 +557,7 @@
                 <SubtypeId>LargeHingeHead</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeHingeHead</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HingeHead.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HingeHead.dds</Icon>
             <Description>Description_HingeHead</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -592,7 +592,7 @@
                 <SubtypeId>MediumHinge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MediumHinge</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HingeMedium.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HingeMedium.dds</Icon>
             <Description>Description_Hinge</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -647,7 +647,7 @@
                 <SubtypeId>MediumHingeHead</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MediumHingeHead</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HingeHeadMedium.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HingeHeadMedium.dds</Icon>
             <Description>Description_HingeHead</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -681,7 +681,7 @@
                 <SubtypeId>SmallHinge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallHinge</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HingeSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HingeSmall.dds</Icon>
             <Description>Description_Hinge</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>
@@ -738,7 +738,7 @@
             </Id>
             <BlockPairName>SmallHingeHead</BlockPairName>
             <DisplayName>DisplayName_Block_SmallHingeHead</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HingeHeadSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HingeHeadSmall.dds</Icon>
             <Description>Description_HingeHead</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.3</GeneralDamageMultiplier>

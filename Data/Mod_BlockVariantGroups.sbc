@@ -4,7 +4,7 @@
     
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ShipToolGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\Grinder.dds</Icon>
             <DisplayName>DisplayName_BlockGroup_ShipToolGroup</DisplayName>
             <Description>Description_BlockGroup_ShipToolGroup</Description>
             <Blocks>
@@ -20,7 +20,7 @@
         
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="TurretGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\gatling_turret.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\gatling_turret.dds</Icon>
             <DisplayName>DisplayName_BlockGroup_TurretGroup</DisplayName>
             <Description>Description_BlockGroup_TurretGroup</Description>
             <Blocks>
@@ -40,7 +40,7 @@
         
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ShipWeaponStaticGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\missile_launcher.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\missile_launcher.dds</Icon>
             <DisplayName>DisplayName_BlockGroup_ShipWeaponStaticGroup</DisplayName>
             <Description>Description_BlockGroup_ShipWeaponStaticGroup</Description>
             <Blocks>
@@ -63,7 +63,7 @@
         
         <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ContainerGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\container.dds</Icon>
             <DisplayName>DisplayName_BlockGroup_ContainerGroup</DisplayName>
             <Description>Description_BlockGroup_ContainerGroup</Description>
             <Blocks>

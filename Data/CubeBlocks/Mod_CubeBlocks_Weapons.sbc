@@ -8,7 +8,7 @@
                 <SubtypeId>LargeRailgun</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Railgun</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RailGun.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\RailGun.dds</Icon>
             <Description>Description_Railgun</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -130,7 +130,7 @@
                 <SubtypeId>LargeBlockLargeCalibreGun</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyCalibreGun</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyCalibreGun.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyCalibreGun.dds</Icon>
             <Description>Description_HeavyCalibreGun</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -263,7 +263,7 @@
                 <SubtypeId>LargeCalibreTurret</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeCalibreTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyCalibreTurret.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyCalibreTurret.dds</Icon>
             <Description>Description_LargeCalibreTurret</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -363,7 +363,7 @@
                 <SubtypeId>LargeBlockMediumCalibreTurret</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MediumCalibreTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\MediumCalibreTurretLarge.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\MediumCalibreTurretLarge.dds</Icon>
             <Description>Description_MediumCalibreTurret</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -458,7 +458,7 @@
                 <SubtypeId>SmallBlockMediumCalibreTurret</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MediumCalibreTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\MediumCalibreTurret_Small.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\MediumCalibreTurret_Small.dds</Icon>
             <Description>Description_Small_MediumCalibreGun</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -550,7 +550,7 @@
                 <SubtypeId>SmallBlockMediumCalibreGun</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MediumCalibreGun</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\MediumCaliberGun.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\MediumCaliberGun.dds</Icon>
             <Description>Description_MediumCalibreGun</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -615,7 +615,7 @@
                 <SubtypeId/>
             </Id>
             <DisplayName>DisplayName_Block_GatlingTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\gatling_turret.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\gatling_turret.dds</Icon>
             <Description>Description_GatlingTurret</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -797,7 +797,7 @@
                 <SubtypeId/>
             </Id>
             <DisplayName>DisplayName_Block_GatlingGun</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\gatling_gun.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\gatling_gun.dds</Icon>
             <Description>Description_GatlingGun</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -853,7 +853,7 @@
                 <SubtypeId>SmallGatlingGunWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_GatlingGunWarfare2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\gatlingGunReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\gatlingGunReskin.dds</Icon>
             <Description>Description_GatlingGun</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -910,7 +910,7 @@
                 <SubtypeId>AutoCannonTurret</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_AutoCannonTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AutocannonTurret_icon.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AutocannonTurret_icon.dds</Icon>
             <Description>Description_AutoCannonTurret</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1014,7 +1014,7 @@
                 <SubtypeId>SmallBlockAutocannon</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Autocannon</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\AutoCannon.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\AutoCannon.dds</Icon>
             <Description>Description_Autocannon</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1080,7 +1080,7 @@
                 <SubtypeId>LargeInteriorTurret</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_InteriorTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\interior_turret.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\interior_turret.dds</Icon>
             <Description>Description_InteriorTurret</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>

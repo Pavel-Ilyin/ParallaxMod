@@ -7,7 +7,7 @@
                 <SubtypeId>ZoneChip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_ZoneChip</DisplayName>
-            <Icon>Textures\GUI\Icons\Items\ZoneChip_Item.dds</Icon>
+            <Icon>Textures\ColorFull\Items\ZoneChip_Item.dds</Icon>
             <Size>
                 <X>0.1</X>
                 <Y>0.1</Y>

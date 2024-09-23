@@ -8,7 +8,7 @@
                 <SubtypeId>LargeBlockArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorBlock</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_cube.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_cube.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -163,7 +163,7 @@
                 <SubtypeId>LargeBlockArmorSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_slope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_slope.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -291,7 +291,7 @@
                 <SubtypeId>LargeBlockArmorCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_corner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -388,7 +388,7 @@
                 <SubtypeId>LargeBlockArmorCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_inv_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_inv_corner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -717,7 +717,7 @@
                 <SubtypeId>LargeHeavyBlockArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorBlock</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_cube.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_cube.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -881,7 +881,7 @@
                 <SubtypeId>LargeHeavyBlockArmorSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_slope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_slope.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1011,7 +1011,7 @@
                 <SubtypeId>LargeHeavyBlockArmorCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_corner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1110,7 +1110,7 @@
                 <SubtypeId>LargeHeavyBlockArmorCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_inv_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_inv_corner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1266,7 +1266,7 @@
                 <SubtypeId>SmallBlockArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorBlock</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_cube.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_cube.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1426,7 +1426,7 @@
                 <SubtypeId>SmallBlockArmorSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_slope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_slope.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1552,7 +1552,7 @@
                 <SubtypeId>SmallBlockArmorCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_corner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1647,7 +1647,7 @@
                 <SubtypeId>SmallBlockArmorCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\light_armor_inv_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\light_armor_inv_corner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1799,7 +1799,7 @@
                 <SubtypeId>SmallHeavyBlockArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorBlock</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_cube.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_cube.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1961,7 +1961,7 @@
                 <SubtypeId>SmallHeavyBlockArmorSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_slope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_slope.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2089,7 +2089,7 @@
                 <SubtypeId>SmallHeavyBlockArmorCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_corner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2186,7 +2186,7 @@
                 <SubtypeId>SmallHeavyBlockArmorCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\heavy_armor_inv_corner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\heavy_armor_inv_corner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2340,7 +2340,7 @@
                 <SubtypeId>LargeHalfArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfLightArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/LightArmorSquareSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlab.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2505,7 +2505,7 @@
                 <SubtypeId>LargeHeavyHalfArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfHeavyArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSquareSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyArmorSquareSlab.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -2671,7 +2671,7 @@
                 <SubtypeId>LargeHalfSlopeArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfSlopeLightArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/LightArmorSlopeSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeSlab.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2835,7 +2835,7 @@
                 <SubtypeId>LargeHeavyHalfSlopeArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfSlopeHeavyArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSlopeSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyArmorSlopeSlab.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -3001,7 +3001,7 @@
                 <SubtypeId>HalfArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfLightArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/LightArmorSquareSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlab.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3164,7 +3164,7 @@
                 <SubtypeId>HeavyHalfArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfHeavyArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSquareSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyArmorSquareSlab.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3329,7 +3329,7 @@
                 <SubtypeId>HalfSlopeArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfSlopeLightArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/LightArmorSlopeSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeSlab.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3491,7 +3491,7 @@
                 <SubtypeId>HeavyHalfSlopeArmorBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HalfSlopeHeavyArmorBlock</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/HeavyArmorSlopeSlab.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyArmorSlopeSlab.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3658,7 +3658,7 @@
                 <SubtypeId>LargeBlockArmorRoundSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightRoundArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RoundArmorSlope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\RoundArmorSlope.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -3785,7 +3785,7 @@
                 <SubtypeId>LargeBlockArmorRoundCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightRoundArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RoundArmorCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\RoundArmorCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -3882,7 +3882,7 @@
                 <SubtypeId>LargeBlockArmorRoundCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightRoundArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RoundArmorInvCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\RoundArmorInvCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -4038,7 +4038,7 @@
                 <SubtypeId>LargeHeavyBlockArmorRoundSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyRoundArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyRoundArmorSlope.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -4167,7 +4167,7 @@
                 <SubtypeId>LargeHeavyBlockArmorRoundCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyRoundArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyRoundArmorCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -4266,7 +4266,7 @@
                 <SubtypeId>LargeHeavyBlockArmorRoundCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyRoundArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorInvCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyRoundArmorInvCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -4424,7 +4424,7 @@
                 <SubtypeId>SmallBlockArmorRoundSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightRoundArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RoundArmorSlope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\RoundArmorSlope.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -4549,7 +4549,7 @@
                 <SubtypeId>SmallBlockArmorRoundCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightRoundArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RoundArmorCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\RoundArmorCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -4644,7 +4644,7 @@
                 <SubtypeId>SmallBlockArmorRoundCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightRoundArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RoundArmorInvCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\RoundArmorInvCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -4798,7 +4798,7 @@
                 <SubtypeId>SmallHeavyBlockArmorRoundSlope</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyRoundArmorSlope</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorSlope.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyRoundArmorSlope.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -4925,7 +4925,7 @@
                 <SubtypeId>SmallHeavyBlockArmorRoundCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyRoundArmorCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyRoundArmorCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -5022,7 +5022,7 @@
                 <SubtypeId>SmallHeavyBlockArmorRoundCornerInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyRoundArmorInvCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorInvCorner.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyRoundArmorInvCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -5181,7 +5181,7 @@
                 <SubtypeId>LargeBlockArmorSlope2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlope2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Slope2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Slope2x1x1Base.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -5346,7 +5346,7 @@
                 <SubtypeId>LargeBlockArmorSlope2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlope2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Slope2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Slope2x1x1Tip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -5477,7 +5477,7 @@
                 <SubtypeId>LargeBlockArmorCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Corner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Corner2x1x1Base.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -5607,7 +5607,7 @@
                 <SubtypeId>LargeBlockArmorCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Corner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Corner2x1x1Tip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -5706,7 +5706,7 @@
                 <SubtypeId>LargeBlockArmorInvCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorInvCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\InvCorner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\InvCorner2x1x1Base.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -5860,7 +5860,7 @@
                 <SubtypeId>LargeBlockArmorInvCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorInvCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\InvCorner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\InvCorner2x1x1Tip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -6020,7 +6020,7 @@
                 <SubtypeId>LargeHeavyBlockArmorSlope2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlope2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavySlope2x1x1Base.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -6186,7 +6186,7 @@
                 <SubtypeId>LargeHeavyBlockArmorSlope2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlope2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavySlope2x1x1Tip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -6318,7 +6318,7 @@
                 <SubtypeId>LargeHeavyBlockArmorCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyCorner2x1x1Base.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -6449,7 +6449,7 @@
                 <SubtypeId>LargeHeavyBlockArmorCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyCorner2x1x1Tip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -6549,7 +6549,7 @@
                 <SubtypeId>LargeHeavyBlockArmorInvCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorInvCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyInvCorner2x1x1Base.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -6704,7 +6704,7 @@
                 <SubtypeId>LargeHeavyBlockArmorInvCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorInvCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyInvCorner2x1x1Tip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -6865,7 +6865,7 @@
                 <SubtypeId>SmallBlockArmorSlope2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlope2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Slope2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Slope2x1x1Base.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -7028,7 +7028,7 @@
                 <SubtypeId>SmallBlockArmorSlope2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlope2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Slope2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Slope2x1x1Tip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -7157,7 +7157,7 @@
                 <SubtypeId>SmallBlockArmorCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Corner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Corner2x1x1Base.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -7285,7 +7285,7 @@
                 <SubtypeId>SmallBlockArmorCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Corner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\Corner2x1x1Tip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -7382,7 +7382,7 @@
                 <SubtypeId>SmallBlockArmorInvCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorInvCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\InvCorner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\InvCorner2x1x1Base.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -7534,7 +7534,7 @@
                 <SubtypeId>SmallBlockArmorInvCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorInvCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\InvCorner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\InvCorner2x1x1Tip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -7692,7 +7692,7 @@
                 <SubtypeId>SmallHeavyBlockArmorSlope2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlope2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavySlope2x1x1Base.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -7857,7 +7857,7 @@
                 <SubtypeId>SmallHeavyBlockArmorSlope2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlope2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlope2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavySlope2x1x1Tip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -7988,7 +7988,7 @@
                 <SubtypeId>SmallHeavyBlockArmorCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyCorner2x1x1Base.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -8118,7 +8118,7 @@
                 <SubtypeId>SmallHeavyBlockArmorCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyCorner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyCorner2x1x1Tip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -8217,7 +8217,7 @@
                 <SubtypeId>SmallHeavyBlockArmorInvCorner2Base</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorInvCorner2Base</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Base.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyInvCorner2x1x1Base.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -8371,7 +8371,7 @@
                 <SubtypeId>SmallHeavyBlockArmorInvCorner2Tip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorInvCorner2Tip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyInvCorner2x1x1Tip.dds</Icon>
+            <Icon>Textures\ColorFull/Cubes\HeavyInvCorner2x1x1Tip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>

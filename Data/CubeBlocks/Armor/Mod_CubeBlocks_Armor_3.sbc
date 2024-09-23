@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockArmorRaisedSlopedCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorRaisedSlopedCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorRaisedSlopedCorner.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorRaisedSlopedCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -162,7 +162,7 @@
                 <SubtypeId>SmallBlockArmorRaisedSlopedCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorRaisedSlopedCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorRaisedSlopedCorner.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorRaisedSlopedCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -315,7 +315,7 @@
                 <SubtypeId>LargeBlockHeavyArmorRaisedSlopedCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorRaisedSlopedCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -471,7 +471,7 @@
                 <SubtypeId>SmallBlockHeavyArmorRaisedSlopedCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorRaisedSlopedCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavyRaisedSlopedCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -626,7 +626,7 @@
                 <SubtypeId>LargeBlockArmorSlopeTransition</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransition</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransition.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransition.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -762,7 +762,7 @@
                 <SubtypeId>SmallBlockArmorSlopeTransition</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransition</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransition.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransition.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -896,7 +896,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSlopeTransition</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransition</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransition.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransition.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1033,7 +1033,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSlopeTransition</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransition</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransition.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransition.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1169,7 +1169,7 @@
                 <SubtypeId>LargeBlockArmorSlopeTransitionBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionBase.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1332,7 +1332,7 @@
                 <SubtypeId>SmallBlockArmorSlopeTransitionBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionBase.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1493,7 +1493,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSlopeTransitionBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionBase.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1657,7 +1657,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSlopeTransitionBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionBase.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1820,7 +1820,7 @@
                 <SubtypeId>LargeBlockArmorSlopeTransitionBaseMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionBaseMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionBaseMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionBaseMirrored.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1983,7 +1983,7 @@
                 <SubtypeId>SmallBlockArmorSlopeTransitionBaseMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionBaseMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionBaseMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionBaseMirrored.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2144,7 +2144,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSlopeTransitionBaseMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionBaseMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -2308,7 +2308,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSlopeTransitionBaseMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionBaseMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionBaseMirrored.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2471,7 +2471,7 @@
                 <SubtypeId>LargeBlockArmorSlopeTransitionMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionMirrored.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2607,7 +2607,7 @@
                 <SubtypeId>SmallBlockArmorSlopeTransitionMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionMirrored.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2741,7 +2741,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSlopeTransitionMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -2878,7 +2878,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSlopeTransitionMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionMirrored.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3014,7 +3014,7 @@
                 <SubtypeId>LargeBlockArmorSlopeTransitionTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionTip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -3138,7 +3138,7 @@
                 <SubtypeId>SmallBlockArmorSlopeTransitionTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionTip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3260,7 +3260,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSlopeTransitionTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionTip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -3385,7 +3385,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSlopeTransitionTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionTip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3509,7 +3509,7 @@
                 <SubtypeId>LargeBlockArmorSlopeTransitionTipMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionTipMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionTipMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionTipMirrored.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -3633,7 +3633,7 @@
                 <SubtypeId>SmallBlockArmorSlopeTransitionTipMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSlopeTransitionTipMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopeTransitionTipMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSlopeTransitionTipMirrored.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3755,7 +3755,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSlopeTransitionTipMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionTipMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -3880,7 +3880,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSlopeTransitionTipMirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSlopeTransitionTipMirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySlopeTransitionTipMirrored.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -4004,7 +4004,7 @@
                 <SubtypeId>LargeBlockArmorSquareSlopedCornerBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSquareSlopedCornerBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSquareSlopedCornerBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlopedCornerBase.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -4163,7 +4163,7 @@
                 <SubtypeId>SmallBlockArmorSquareSlopedCornerBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSquareSlopedCornerBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSquareSlopedCornerBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlopedCornerBase.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -4320,7 +4320,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSquareSlopedCornerBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSquareSlopedCornerBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -4480,7 +4480,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSquareSlopedCornerBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSquareSlopedCornerBase</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySquareSlopedCornerBase.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -4639,7 +4639,7 @@
                 <SubtypeId>LargeBlockArmorSquareSlopedCornerTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSquareSlopedCornerTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSquareSlopedCornerTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlopedCornerTip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -4764,7 +4764,7 @@
                 <SubtypeId>SmallBlockArmorSquareSlopedCornerTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSquareSlopedCornerTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSquareSlopedCornerTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlopedCornerTip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -4887,7 +4887,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSquareSlopedCornerTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSquareSlopedCornerTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -5013,7 +5013,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSquareSlopedCornerTip</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSquareSlopedCornerTip</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySquareSlopedCornerTip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -5138,7 +5138,7 @@
                 <SubtypeId>LargeBlockArmorSquareSlopedCornerTipInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSquareSlopedCornerTipInv</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSquareSlopedCornerTipInv.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlopedCornerTipInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -5285,7 +5285,7 @@
                 <SubtypeId>SmallBlockArmorSquareSlopedCornerTipInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LightArmorSquareSlopedCornerTipInv</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LightArmorSquareSlopedCornerTipInv.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LightArmorSquareSlopedCornerTipInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -5430,7 +5430,7 @@
                 <SubtypeId>LargeBlockHeavyArmorSquareSlopedCornerTipInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSquareSlopedCornerTipInv</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -5578,7 +5578,7 @@
                 <SubtypeId>SmallBlockHeavyArmorSquareSlopedCornerTipInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HeavyArmorSquareSlopedCornerTipInv</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HeavySquareSlopedCornerTipInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>

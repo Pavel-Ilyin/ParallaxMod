@@ -7,7 +7,7 @@
                 <SubtypeId>LargeHydrogenTank</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HydrogenTank</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HydrogenTank.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HydrogenTank.dds</Icon>
             <Description>Description_HydrogenTank</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
@@ -89,7 +89,7 @@
                 <SubtypeId>LargeHydrogenTankIndustrial</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HydrogenTankIndustrial</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HydrogenTankIndustrial.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HydrogenTankIndustrial.dds</Icon>
             <Description>Description_HydrogenTank</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
@@ -175,7 +175,7 @@
                 <SubtypeId>LargeHydrogenTankSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HydrogenTankSmall</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\largeHydrogenTankSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\largeHydrogenTankSmall.dds</Icon>
             <Description>Description_HydrogenTank</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
@@ -252,7 +252,7 @@
                 <SubtypeId>SmallHydrogenTank</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HydrogenTank</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\HydrogenTank.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\HydrogenTank.dds</Icon>
             <Description>Description_HydrogenTank</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -346,7 +346,7 @@
                 <SubtypeId>SmallHydrogenTankSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_HydrogenTankSmall</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SmallHydrogenTankSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SmallHydrogenTankSmall.dds</Icon>
             <Description>Description_HydrogenTank</Description>
             <Public>true</Public>
             <CubeSize>Small</CubeSize>

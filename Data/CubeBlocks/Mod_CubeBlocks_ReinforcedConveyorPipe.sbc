@@ -7,7 +7,7 @@
                 <SubtypeId>ConveyorTubeDuct</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConveyorTubeDuct</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConveyorDuct.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConveyorDuct.dds</Icon>
             <Description>Description_ConveyorTube</Description>
             <GuiVisible>true</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -65,7 +65,7 @@
                 <SubtypeId>ConveyorTubeDuctCurved</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConveyorTubeDuctCurved</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConveyorDuctCurved.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConveyorDuctCurved.dds</Icon>
             <Description>Description_ConveyorTube</Description>
             <GuiVisible>true</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -124,7 +124,7 @@
                 <SubtypeId>ConveyorTubeDuctT</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConveyorTubeDuctT</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConveyorDuctT.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConveyorDuctT.dds</Icon>
             <Description>Description_ConveyorTube</Description>
             <GuiVisible>true</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -184,7 +184,7 @@
                 <SubtypeId>ConveyorTubeDuctSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConveyorTubeDuctSmall</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConveyorDuctSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConveyorDuctSmall.dds</Icon>
             <Description>Description_ConveyorTube</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -234,7 +234,7 @@
                 <SubtypeId>ConveyorTubeDuctSmallCurved</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConveyorTubeDuctSmallCurved</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConveyorDuctCurvedSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConveyorDuctCurvedSmall.dds</Icon>
             <Description>Description_ConveyorTube</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -286,7 +286,7 @@
                 <SubtypeId>ConveyorTubeDuctSmallT</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConveyorTubeDuctSmallT</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConveyorDuctTSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConveyorDuctTSmall.dds</Icon>
             <Description>Description_ConveyorTube</Description>
             <GuiVisible>true</GuiVisible>
             <CubeSize>Small</CubeSize>

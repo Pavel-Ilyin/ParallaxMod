@@ -7,7 +7,7 @@
                 <SubtypeId>Suspension1x1</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension1x1</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension1x1Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension1x1Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -93,7 +93,7 @@
                 <SubtypeId>Suspension1x1mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension1x1mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension1x1Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension1x1Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -178,7 +178,7 @@
                 <SubtypeId>Suspension2x2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension2x2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension2x2Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension2x2Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -263,7 +263,7 @@
                 <SubtypeId>Suspension2x2Mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension2x2Mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension2x2Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension2x2Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -350,7 +350,7 @@
                 <SubtypeId>Suspension3x3</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension3x3</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension3x3Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension3x3Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -437,7 +437,7 @@
                 <SubtypeId>Suspension3x3mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension3x3mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension3x3Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension3x3Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -524,7 +524,7 @@
                 <SubtypeId>Suspension5x5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension5x5</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension5x5Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension5x5Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -608,7 +608,7 @@
                 <SubtypeId>Suspension5x5mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Suspension5x5mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension5x5Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension5x5Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -692,7 +692,7 @@
                 <SubtypeId>ShortSuspension1x1</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension1x1</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension1x1Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension1x1Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -777,7 +777,7 @@
                 <SubtypeId>ShortSuspension1x1mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension1x1Mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension1x1Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension1x1Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -862,7 +862,7 @@
                 <SubtypeId>ShortSuspension2x2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension2x2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension2x2Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension2x2Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -947,7 +947,7 @@
                 <SubtypeId>ShortSuspension2x2Mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension2x2Mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension2x2Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension2x2Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1034,7 +1034,7 @@
                 <SubtypeId>ShortSuspension3x3</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension3x3</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension3x3Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension3x3Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1121,7 +1121,7 @@
                 <SubtypeId>ShortSuspension3x3mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension3x3mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension3x3Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension3x3Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1208,7 +1208,7 @@
                 <SubtypeId>ShortSuspension5x5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension5x5</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension5x5Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension5x5Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1293,7 +1293,7 @@
                 <SubtypeId>ShortSuspension5x5mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ShortSuspension5x5mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension5x5Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension5x5Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1378,7 +1378,7 @@
                 <SubtypeId>OffroadSuspension1x1</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension1x1</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension1x1_RacingRight.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension1x1_RacingRight.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1467,7 +1467,7 @@
                 <SubtypeId>OffroadSuspension1x1mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension1x1mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension1x1_RacingLeft.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension1x1_RacingLeft.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1556,7 +1556,7 @@
                 <SubtypeId>OffroadSuspension2x2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension2x2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension2x2_RacingRight.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension2x2_RacingRight.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1643,7 +1643,7 @@
                 <SubtypeId>OffroadSuspension2x2Mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension2x2Mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension2x2_RacingLeft.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension2x2_RacingLeft.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1732,7 +1732,7 @@
                 <SubtypeId>OffroadSuspension3x3</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension3x3</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension3x3_RacingRight.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension3x3_RacingRight.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1824,7 +1824,7 @@
                 <SubtypeId>OffroadSuspension3x3mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension3x3mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension3x3_RacingLeft.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension3x3_RacingLeft.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -1916,7 +1916,7 @@
                 <SubtypeId>OffroadSuspension5x5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension5x5</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension5x5_RacingRight.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension5x5_RacingRight.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2003,7 +2003,7 @@
                 <SubtypeId>OffroadSuspension5x5mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadSuspension5x5mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\WheelSuspension5x5_RacingLeft.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\WheelSuspension5x5_RacingLeft.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2090,7 +2090,7 @@
                 <SubtypeId>OffroadShortSuspension1x1</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension1x1</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_1x1_Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_1x1_Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2176,7 +2176,7 @@
                 <SubtypeId>OffroadShortSuspension1x1mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension1x1Mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_1x1_Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_1x1_Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2262,7 +2262,7 @@
                 <SubtypeId>OffroadShortSuspension2x2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension2x2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_2x2_Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_2x2_Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2348,7 +2348,7 @@
                 <SubtypeId>OffroadShortSuspension2x2Mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension2x2Mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_2x2_Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_2x2_Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2436,7 +2436,7 @@
                 <SubtypeId>OffroadShortSuspension3x3</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension3x3</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_3x3_Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_3x3_Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2524,7 +2524,7 @@
                 <SubtypeId>OffroadShortSuspension3x3mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension3x3mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_3x3_Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_3x3_Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2612,7 +2612,7 @@
                 <SubtypeId>OffroadShortSuspension5x5</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension5x5</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_5x5_Right.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_5x5_Right.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -2698,7 +2698,7 @@
                 <SubtypeId>OffroadShortSuspension5x5mirrored</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffroadShortSuspension5x5mirrored</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeShortOffroadWheelsSuspension_5x5_Left.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\LargeShortOffroadWheelsSuspension_5x5_Left.dds</Icon>
             <Description>Description_Suspension</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>

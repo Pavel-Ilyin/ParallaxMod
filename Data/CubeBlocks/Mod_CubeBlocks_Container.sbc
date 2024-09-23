@@ -7,7 +7,7 @@
                 <SubtypeId>SmallBlockSmallContainer</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallCargoContainer</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\container.dds</Icon>
             <Description>Description_SmallCargoContainer</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -54,7 +54,7 @@
                 <SubtypeId>SmallBlockMediumContainer</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MediumCargoContainer</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\container_medium.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\container_medium.dds</Icon>
             <Description>Description_MediumCargoContainer</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -102,7 +102,7 @@
                 <SubtypeId>SmallBlockLargeContainer</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeCargoContainer</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\container_large.dds</Icon>
             <Description>Description_LargeCargoContainer</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -150,7 +150,7 @@
                 <SubtypeId>LargeBlockSmallContainer</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallCargoContainer</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\container.dds</Icon>
             <Description>Description_SmallCargoContainer</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -201,7 +201,7 @@
                 <SubtypeId>LargeBlockLargeContainer</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeCargoContainer</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\container_large.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\container_large.dds</Icon>
             <Description>Description_LargeCargoContainer</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -252,7 +252,7 @@
                 <SubtypeId>LargeBlockLargeIndustrialContainer</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeIndustrialCargoContainer</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\CargoContainer.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\CargoContainer.dds</Icon>
             <Description>Description_LargeCargoContainer</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>

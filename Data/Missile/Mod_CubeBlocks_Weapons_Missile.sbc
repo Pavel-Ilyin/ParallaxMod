@@ -7,7 +7,7 @@
                 <SubtypeId/>
             </Id>
             <DisplayName>DisplayName_Block_MissileTurret</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\missile_turret.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\missile_turret.dds</Icon>
             <Description>Description_MissileTurret</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -188,7 +188,7 @@
                 <SubtypeId>LargeMissileLauncher</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RocketLauncher</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\missile_launcher.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\missile_launcher.dds</Icon>
             <Description>Description_LargeRocketLauncher</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -245,7 +245,7 @@
                 <SubtypeId/>
             </Id>
             <DisplayName>DisplayName_Block_RocketLauncher</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\missile_launcher_small.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\missile_launcher_small.dds</Icon>
             <Description>Description_RocketLauncher</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -300,7 +300,7 @@
                 <SubtypeId>SmallMissileLauncherWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RocketLauncherWarfare2</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\RocketlauncherReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\RocketlauncherReskin.dds</Icon>
             <Description>Description_RocketLauncher</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -356,7 +356,7 @@
             </Id>
             <DisplayName>DisplayName_Block_SmallRocketLauncherReload</DisplayName>
             <BlockPairName>SmallRocketLauncherReload</BlockPairName>
-            <Icon>Textures\GUI\Icons\Cubes\RocketLauncherReload.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\RocketLauncherReload.dds</Icon>
             <Description>Description_RocketLauncherReload</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>

@@ -7,7 +7,7 @@
                 <SubtypeId>Connector</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Connector</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Connector.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\Connector.dds</Icon>
             <Description>Description_Connector</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -65,7 +65,7 @@
                 <SubtypeId>ConnectorSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ConnectorSmall</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ConnectorSmall.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ConnectorSmall.dds</Icon>
             <Description>Description_Connector</Description>
             <CubeSize>Small</CubeSize>
             <DeformationRatio>0.9</DeformationRatio>
@@ -121,7 +121,7 @@
                 <SubtypeId>ConnectorMedium</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Connector</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\Connector.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\Connector.dds</Icon>
             <Description>Description_Connector</Description>
             <CubeSize>Small</CubeSize>
             <DeformationRatio>0.7</DeformationRatio>

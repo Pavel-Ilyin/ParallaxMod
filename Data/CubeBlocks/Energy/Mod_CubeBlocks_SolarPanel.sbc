@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockSolarPanel</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SolarPanel</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanel.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanel.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -131,7 +131,7 @@
                 <SubtypeId>SmallBlockSolarPanel</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SolarPanel</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanel.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanel.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -256,7 +256,7 @@
                 <SubtypeId>LargeBlockColorableSolarPanel</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ColorableSolarPanel</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanelReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanelReskin.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -377,7 +377,7 @@
                 <SubtypeId>LargeBlockColorableSolarPanelCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ColorableSolarPanelCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanelReskinCorner.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanelReskinCorner.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -479,7 +479,7 @@
                 <SubtypeId>LargeBlockColorableSolarPanelCornerInverted</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ColorableSolarPanelCornerInverted</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanelReskinCornerInverted.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanelReskinCornerInverted.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -581,7 +581,7 @@
                 <SubtypeId>SmallBlockColorableSolarPanel</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ColorableSolarPanel</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanelReskin.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanelReskin.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -702,7 +702,7 @@
                 <SubtypeId>SmallBlockColorableSolarPanelCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ColorableSolarPanelCorner</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanelReskinCorner.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanelReskinCorner.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -804,7 +804,7 @@
                 <SubtypeId>SmallBlockColorableSolarPanelCornerInverted</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ColorableSolarPanelCornerInverted</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\SolarPanelReskinCornerInverted.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\SolarPanelReskinCornerInverted.dds</Icon>
             <Description>Description_SolarPanel</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

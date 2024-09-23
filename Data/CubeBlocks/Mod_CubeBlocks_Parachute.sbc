@@ -7,7 +7,7 @@
                 <SubtypeId>LgParachute</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ParachuteHatch</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ParachuteHatch.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ParachuteHatch.dds</Icon>
             <Description>Description_ParachuteHatch</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -171,7 +171,7 @@
                 <SubtypeId>SmParachute</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ParachuteHatch</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\ParachuteHatch.dds</Icon>
+            <Icon>Textures\ColorFull\Cubes\ParachuteHatch.dds</Icon>
             <Description>Description_ParachuteHatch</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

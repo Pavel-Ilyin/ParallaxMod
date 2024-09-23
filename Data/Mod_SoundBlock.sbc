@@ -12,6 +12,12 @@
         <SoundDesc Id= "Music_community_001" SoundName= "David Bowie - Space Oddity" />
         <SoundDesc Id= "Music_community_002" SoundName= "OST Atomic Heart - Трава у дома" />
         <SoundDesc Id= "Music_community_003" SoundName= "Каламбур – Крутое Пике" />
+        <SoundDesc Id= "Music_community_004" SoundName= "Vibrasphere - Erosion" />
+        <SoundDesc Id= "Music_community_005" SoundName= "System of a Down - Lauren Babic , Violet Orlandi" />
+        <SoundDesc Id= "Music_community_006" SoundName= "PSY - Gangnam Style" />
+        <SoundDesc Id= "Music_community_007" SoundName= "Linkin Park - Numb" />
+        <SoundDesc Id= "Music_community_008" SoundName= "Linkin Park - Faint" />
+        <SoundDesc Id= "Music_community_009" SoundName= "Hans Zimmer - Time" />
 	  
 		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
         <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />
@@ -144,6 +150,21 @@
 		<SoundDesc Id= "ABODON_018" SoundName= "Ugress - Your Apathy Is Important To Us" />
 		<SoundDesc Id= "ABODON_019" SoundName= "Traditional Art Troupe - Song of the Eagle" />
 		<SoundDesc Id= "ABODON_020" SoundName= "Rolf Lislevand Ensemble - Passacaglia andaluz II" />
+        
+		<SoundDesc Id= "" SoundName= "Rammstein--------------------------------" />
+        <SoundDesc Id= "Rammstein_001" SoundName= "Rammstein - Amour" />
+        <SoundDesc Id= "Rammstein_002" SoundName= "Rammstein - Engel" />
+		<SoundDesc Id= "Rammstein_003" SoundName= "Rammstein - Sonne" />
+		<SoundDesc Id= "Rammstein_004" SoundName= "Rammstein - Ich Will" />
+		<SoundDesc Id= "Rammstein_005" SoundName= "Rammstein - Du Hast" />
+		<SoundDesc Id= "Rammstein_006" SoundName= "Rammstein - Mutter" />
+		<SoundDesc Id= "Rammstein_007" SoundName= "Rammstein - Moskau" />
+		<SoundDesc Id= "Rammstein_008" SoundName= "Rammstein - Links 2 3 4" />
+		<SoundDesc Id= "Rammstein_009" SoundName= "Rammstein - Amerika" />
+		<SoundDesc Id= "Rammstein_010" SoundName= "Rammstein - Rosenrot" />
+        <SoundDesc Id= "Rammstein_011" SoundName= "Rammstein - Benzin" />
+        <SoundDesc Id= "Rammstein_012" SoundName= "Rammstein - Feuer Frei!" />
+		<SoundDesc Id= "Rammstein_013" SoundName= "Rammstein - Adios" />
 
 		<SoundDesc Id= "" SoundName= "Calm------------------------------------" />
         <SoundDesc Id= "MusCalm_01" SoundName= "SoundBlock_SoundName_MusCalm_01" />
