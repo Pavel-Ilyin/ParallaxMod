@@ -161,6 +161,22 @@
             <MusicCategory>Rock</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Rock_11</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Rock\Rock_11.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Rock</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
 
         <Sound>
             <Id>
@@ -850,6 +866,22 @@
             <MusicCategory>PARALLAX</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PARALLAX_044</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PARALLAX\PARALLAX_044.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PARALLAX</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
 
         <Sound>
             <Id>
@@ -1358,6 +1390,22 @@
             <Waves>
                 <Wave Type="D2">
                     <Start>Audio\MUS\PirateWAVE\PirateWAVE_032.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_033</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_033.xwm</Start>
                 </Wave>
             </Waves>
             <MusicCategory>PirateWAVE</MusicCategory>
@@ -2071,6 +2119,22 @@
             <MusicCategory>Music_community</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Music_community_010</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Music_community\Music_community_010.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Music_community</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
         
         <Sound>
             <Id>
@@ -2275,6 +2339,22 @@
             <Waves>
                 <Wave Type="D2">
                     <Start>Audio\MUS\Rammstein\Rammstein_013.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Rammstein</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Rammstein_014</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Rammstein\Rammstein_014.xwm</Start>
                 </Wave>
             </Waves>
             <MusicCategory>Rammstein</MusicCategory>

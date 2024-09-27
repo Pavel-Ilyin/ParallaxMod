@@ -18,6 +18,7 @@
         <SoundDesc Id= "Music_community_007" SoundName= "Linkin Park - Numb" />
         <SoundDesc Id= "Music_community_008" SoundName= "Linkin Park - Faint" />
         <SoundDesc Id= "Music_community_009" SoundName= "Hans Zimmer - Time" />
+        <SoundDesc Id= "Music_community_010" SoundName= "AP$ENT - Можно я с тобой" />
 	  
 		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
         <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />
@@ -30,6 +31,7 @@
 		<SoundDesc Id= "Rock_08" SoundName= "Scorpions - Still Loving You" />
 		<SoundDesc Id= "Rock_09" SoundName= "Scorpions - Wind Of Change" />
 		<SoundDesc Id= "Rock_10" SoundName= "VNV Nation - Illusion" />
+        <SoundDesc Id= "Rock_11" SoundName= "Moby - Flower" />
 
         <SoundDesc Id= "" SoundName= "Green_ya--------------------------------" />
         <SoundDesc Id= "Green_ya_001" SoundName= "Хранитель" />
@@ -82,6 +84,7 @@
         <SoundDesc Id= "PARALLAX_041" SoundName= "Power-Haus - Balder (Shyloom Remix)" />
         <SoundDesc Id= "PARALLAX_042" SoundName= "Monocherry - On the Nature of Daylight" />
         <SoundDesc Id= "PARALLAX_043" SoundName= "MAILKY - Flawless" />
+        <SoundDesc Id= "PARALLAX_044" SoundName= "Sub Focus, Wilkinson - Stratus" />
 		
 		<SoundDesc Id= "" SoundName= "Pirate wave-----------------------------" />
 		<SoundDesc Id= "PirateWAVE_001" SoundName= "Adam Liria - Experiment" />
@@ -116,6 +119,7 @@
 		<SoundDesc Id= "PirateWAVE_030" SoundName= "Zero Cult - Moonlight Run" />
         <SoundDesc Id= "PirateWAVE_031" SoundName= "Matstubs - Alice" />
         <SoundDesc Id= "PirateWAVE_032" SoundName= "Nephed - Ocean" />
+        <SoundDesc Id= "PirateWAVE_033" SoundName= "The Placenta - Kinesthetic Groove" />
         
 		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
         <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />
@@ -165,6 +169,7 @@
         <SoundDesc Id= "Rammstein_011" SoundName= "Rammstein - Benzin" />
         <SoundDesc Id= "Rammstein_012" SoundName= "Rammstein - Feuer Frei!" />
 		<SoundDesc Id= "Rammstein_013" SoundName= "Rammstein - Adios" />
+        <SoundDesc Id= "Rammstein_014" SoundName= "Rammstein - DEUTSCHLAND" />
 
 		<SoundDesc Id= "" SoundName= "Calm------------------------------------" />
         <SoundDesc Id= "MusCalm_01" SoundName= "SoundBlock_SoundName_MusCalm_01" />
