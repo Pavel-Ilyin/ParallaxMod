@@ -7,7 +7,7 @@
                 <SubtypeId>LargeDefensiveCombat</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_DefensiveCombatBlock</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\DefensiveBlock_Combat.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\DefensiveBlock_Combat.dds</Icon>
             <Description>Description_DefensiveCombatBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -71,7 +71,7 @@
                 <SubtypeId>SmallDefensiveCombat</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_DefensiveCombatBlock</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\DefensiveBlock_Combat.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\DefensiveBlock_Combat.dds</Icon>
             <Description>Description_DefensiveCombatBlock</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -127,7 +127,7 @@
                 <SubtypeId>LargeOffensiveCombat</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffensiveCombatBlock</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\AggressiveBlock_Combat.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\AggressiveBlock_Combat.dds</Icon>
             <Description>Description_OffensiveCombatBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -183,7 +183,7 @@
                 <SubtypeId>SmallOffensiveCombat</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OffensiveCombatBlock</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\AggressiveBlock_Combat.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\AggressiveBlock_Combat.dds</Icon>
             <Description>Description_OffensiveCombatBlock</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

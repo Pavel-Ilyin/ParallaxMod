@@ -8,7 +8,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Programmable_Block</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ProgrammingBlock.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammingBlock.dds</Icon>
             <Description>Description_ProgrammableBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -64,7 +64,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Programmable_Block</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ProgrammingBlock.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammingBlock.dds</Icon>
             <Description>Description_ProgrammableBlock</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -119,7 +119,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Programmable_BlockReskin</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ProgrammableBlock.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammableBlock.dds</Icon>
             <Description>Description_ProgrammableBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -183,7 +183,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_Programmable_BlockReskin</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ProgrammableBlockReskin.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ProgrammableBlockReskin.dds</Icon>
             <Description>Description_ProgrammableBlock</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

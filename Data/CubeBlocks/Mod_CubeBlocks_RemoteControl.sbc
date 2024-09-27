@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockRemoteControl</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RemoteControl</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\RemoteControl.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\RemoteControl.dds</Icon>
             <Description>Description_RemoteControl</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -59,7 +59,7 @@
                 <SubtypeId>SmallBlockRemoteControl</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RemoteControl</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\RemoteControl.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\RemoteControl.dds</Icon>
             <Description>Description_RemoteControl</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

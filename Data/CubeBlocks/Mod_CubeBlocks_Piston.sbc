@@ -7,7 +7,7 @@
                 <SubtypeId>LargePistonBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PistonBase</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Piston.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Piston.dds</Icon>
             <Description>Description_Piston</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -65,7 +65,7 @@
                 <SubtypeId>LargePistonBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PistonBase</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Piston.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Piston.dds</Icon>
             <Description>Description_Piston</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -123,7 +123,7 @@
                 <SubtypeId>LargePistonTop</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PistonTop</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\PistonTop.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\PistonTop.dds</Icon>
             <Description>Description_PistonTop</Description>
             <Public>true</Public>
             <CubeSize>Large</CubeSize>
@@ -165,7 +165,7 @@
                 <SubtypeId>SmallPistonBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PistonBase</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Piston.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Piston.dds</Icon>
             <Description>Description_Piston</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -223,7 +223,7 @@
                 <SubtypeId>SmallPistonBase</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PistonBase</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Piston.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Piston.dds</Icon>
             <Description>Description_Piston</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -281,7 +281,7 @@
                 <SubtypeId>SmallPistonTop</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PistonTop</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\PistonTop.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\PistonTop.dds</Icon>
             <Description>Description_PistonTop</Description>
             <CubeSize>Small</CubeSize>
             <Public>true</Public>

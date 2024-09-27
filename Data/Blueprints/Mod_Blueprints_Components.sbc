@@ -72,6 +72,7 @@
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Superconductor"/>
             <BaseProductionTimeInSeconds>8</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
         </Blueprint>
         
         <Blueprint>

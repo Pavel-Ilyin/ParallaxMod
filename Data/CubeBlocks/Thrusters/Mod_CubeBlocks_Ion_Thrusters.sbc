@@ -7,7 +7,7 @@
                 <SubtypeId>SmallBlockSmallThrust</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallThrust</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\thrust.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -109,7 +109,7 @@
                 <SubtypeId>SmallBlockLargeThrust</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeThrust</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\thrust_large.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -210,7 +210,7 @@
                 <SubtypeId>LargeBlockSmallThrust</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallThrust</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\thrust.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\thrust.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -312,7 +312,7 @@
                 <SubtypeId>LargeBlockLargeThrust</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeThrust</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\thrust_large.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\thrust_large.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -415,7 +415,7 @@
                 <SubtypeId>SmallBlockSmallThrustSciFi</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallThrustSciFi</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Small_IonThrusterSmall_SciFi.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterSmall_SciFi.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -513,7 +513,7 @@
                 <SubtypeId>SmallBlockLargeThrustSciFi</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeThrustSciFi</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Small_IonThrusterLarge_SciFi.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Small_IonThrusterLarge_SciFi.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -610,7 +610,7 @@
                 <SubtypeId>LargeBlockSmallThrustSciFi</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallThrustSciFi</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\large_IonThrusterSmall_SciFi.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterSmall_SciFi.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -708,7 +708,7 @@
                 <SubtypeId>LargeBlockLargeThrustSciFi</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeThrustSciFi</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\large_IonThrusterLarge_SciFi.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\large_IonThrusterLarge_SciFi.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -806,7 +806,7 @@
                 <SubtypeId>SmallBlockSmallModularThruster</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallModularThruster</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SmallGridModularIonThrusterSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterSmall.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -904,7 +904,7 @@
                 <SubtypeId>SmallBlockLargeModularThruster</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeModularThruster</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SmallGridModularIonThrusterLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SmallGridModularIonThrusterLarge.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -1005,7 +1005,7 @@
                 <SubtypeId>LargeBlockSmallModularThruster</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallModularThruster</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LargeGridModularIonThrusterSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterSmall.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -1103,7 +1103,7 @@
                 <SubtypeId>LargeBlockLargeModularThruster</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeModularThruster</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LargeGridModularIonThrusterLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LargeGridModularIonThrusterLarge.dds</Icon>
             <Description>Description_IonThrust</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

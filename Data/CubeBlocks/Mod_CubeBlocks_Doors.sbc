@@ -8,7 +8,7 @@
                 <SubtypeId>ArmorCenter</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCenter</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ArmorCenter.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCenter.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -48,7 +48,7 @@
                 <SubtypeId>ArmorCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCorner</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ArmorCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCorner.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -93,7 +93,7 @@
                 <SubtypeId>ArmorInvCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorInvCorner</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\BlastDoorCornerInverted.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\BlastDoorCornerInverted.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -138,7 +138,7 @@
                 <SubtypeId>ArmorSide</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSide</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ArmorSide.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorSide.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -182,7 +182,7 @@
                 <SubtypeId>SmallArmorCenter</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCenter</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ArmorCenter.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCenter.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -221,7 +221,7 @@
                 <SubtypeId>SmallArmorCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCorner</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ArmorCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorCorner.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -265,7 +265,7 @@
                 <SubtypeId>SmallArmorInvCorner</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorInvCorner</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\BlastDoorCornerInverted.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\BlastDoorCornerInverted.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -309,7 +309,7 @@
                 <SubtypeId>SmallArmorSide</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSide</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ArmorSide.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArmorSide.dds</Icon>
             <Description>Description_BlastDoor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>

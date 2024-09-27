@@ -7,7 +7,7 @@
                 <SubtypeId>SmallBlockSmallGenerator</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallReactor</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\nuclear_reactor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -94,7 +94,7 @@
                 <SubtypeId>SmallBlockLargeGenerator</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeReactor</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\nuclear_reactor_large.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -185,7 +185,7 @@
                 <SubtypeId>LargeBlockSmallGenerator</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallReactor</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\nuclear_reactor.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -272,7 +272,7 @@
                 <SubtypeId>LargeBlockLargeGenerator</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeReactor</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\nuclear_reactor_large.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\nuclear_reactor_large.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -363,7 +363,7 @@
                 <SubtypeId>SmallBlockSmallGeneratorWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallReactorWarfare2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SmallGridReactorReskinSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SmallGridReactorReskinSmall.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -455,7 +455,7 @@
                 <SubtypeId>SmallBlockLargeGeneratorWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeReactorWarfare2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SmallGridReactorReskinLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SmallGridReactorReskinLarge.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -547,7 +547,7 @@
                 <SubtypeId>LargeBlockSmallGeneratorWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SmallReactorWarfare2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ReactorReskinSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ReactorReskinSmall.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -634,7 +634,7 @@
                 <SubtypeId>LargeBlockLargeGeneratorWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_LargeReactorWarfare2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ReactorReskinLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ReactorReskinLarge.dds</Icon>
             <Description>Description_Reactor</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>

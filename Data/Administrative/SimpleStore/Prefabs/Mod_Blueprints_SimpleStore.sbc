@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Blueprints>
+  
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Scout_SWh-1</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Scout_SWh-1.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Scout_SWh-1" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Driller_A-1</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Driller_A-1.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Driller_A-1" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Driller_H-1</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Driller_H-1.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Driller_H-1" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Driller_H-2</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Driller_H-2.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Driller_H-2" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Polaris_R1-M2</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Polaris_R1-M2.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_R1-M2" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Polaris_M1-A2-ac6-J</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Polaris_M1-A2-ac6-J.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_M1-A2-ac6-J" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Polaris_R1-A2-J</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Polaris_R1-A2-J.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_R1-A2-J" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Polaris_A4-m9-ac6-J</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Polaris_A4-m9-ac6-J.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_A4-m9-ac6-J" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Polaris_R1-M2</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Polaris_R1-M2.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_R1-M2" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+
+  </Blueprints>
+</Definitions>

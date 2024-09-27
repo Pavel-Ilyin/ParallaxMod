@@ -7,7 +7,7 @@
                 <SubtypeId />
             </Id>
             <DisplayName>DisplayName_Block_GravityGenerator</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\gravity_generator.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\gravity_generator.dds</Icon>
             <Description>Description_GravityGenerator</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -59,7 +59,7 @@
                 <SubtypeId />
             </Id>
             <DisplayName>DisplayName_Block_GravityGeneratorSphere</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\gravity_generator_spherical.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\gravity_generator_spherical.dds</Icon>
             <Description>Description_GravityGeneratorSphere</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -114,7 +114,7 @@
             </Id>
             <DisplayName>DisplayName_Block_VirtualMass</DisplayName>
             <Public>true</Public>
-            <Icon>Textures\ColorFull\Cubes\ArtificialMass.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArtificialMass.dds</Icon>
             <Description>Description_VirtualMass</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -165,7 +165,7 @@
             </Id>
             <DisplayName>DisplayName_Block_VirtualMass</DisplayName>
             <Public>true</Public>
-            <Icon>Textures\ColorFull\Cubes\ArtificialMass.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ArtificialMass.dds</Icon>
             <Description>Description_VirtualMass</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -206,7 +206,7 @@
                 <SubtypeId>SpaceBallLarge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SpaceBall</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SpaceBall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SpaceBall.dds</Icon>
             <Description>Description_SpaceBall</Description>
             <BlockPairName>SpaceBall</BlockPairName>
             <CubeSize>Large</CubeSize>
@@ -253,7 +253,7 @@
                 <SubtypeId>SpaceBallSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SpaceBall</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SpaceBall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SpaceBall.dds</Icon>
             <Description>Description_SpaceBall</Description>
             <BlockPairName>SpaceBall</BlockPairName>
             <CubeSize>Small</CubeSize>

@@ -7,7 +7,7 @@
                 <SubtypeId>LargeCameraBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Camera</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Camera.dds</Icon>
+            <Icon>Textures\GUI\Icons\Camera.dds</Icon>
             <Description>Description_Camera</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -64,7 +64,7 @@
                 <SubtypeId>SmallCameraBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Camera</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Camera.dds</Icon>
+            <Icon>Textures\GUI\Icons\Camera.dds</Icon>
             <Description>Description_Camera</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -128,7 +128,7 @@
                 <SubtypeId>LargeCameraTopMounted</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CameraReskin</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CameraReskin.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CameraReskin.dds</Icon>
             <Description>Description_Camera</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -186,7 +186,7 @@
                 <SubtypeId>SmallCameraTopMounted</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CameraReskin</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CameraReskin.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CameraReskin.dds</Icon>
             <Description>Description_Camera</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>

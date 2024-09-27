@@ -7,7 +7,7 @@
                 <SubtypeId>LargeMedicalRoom</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MedicalRoom</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\medical_room.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\medical_room.dds</Icon>
             <Description>Description_MedicalRoom</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -75,7 +75,7 @@
                 <SubtypeId>LargeMedicalRoomReskin</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_MedicalRoomReskin</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\MedicalRoomReskin.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\MedicalRoomReskin.dds</Icon>
             <Description>Description_MedicalRoom</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

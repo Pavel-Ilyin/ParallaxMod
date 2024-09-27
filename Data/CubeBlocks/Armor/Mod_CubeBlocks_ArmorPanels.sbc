@@ -7,7 +7,7 @@
                 <SubtypeId>LargeArmorPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -45,7 +45,7 @@
                 <SubtypeId>LargeArmorCenterPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCenterPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorCenterPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -84,7 +84,7 @@
                 <SubtypeId>LargeArmorSlopedSidePanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedSidePanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorSlopedSidePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopedSidePanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -124,7 +124,7 @@
                 <SubtypeId>LargeArmorSlopedPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -170,7 +170,7 @@
                 <SubtypeId>LargeArmorHalfPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorHalfPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorHalfPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -208,7 +208,7 @@
                 <SubtypeId>LargeArmorHalfCenterPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfCenterPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorHalfCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorHalfCenterPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -245,7 +245,7 @@
                 <SubtypeId>LargeArmorQuarterPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorQuarterPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightQuarterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightQuarterPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -283,7 +283,7 @@
                 <SubtypeId>LargeArmor2x1SlopedPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -325,7 +325,7 @@
                 <SubtypeId>LargeArmor2x1SlopedPanelTipLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelTipLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopedPanelTip.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopedPanelTip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -367,7 +367,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideBasePanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopedSideBasePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopedSideBasePanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -408,7 +408,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideTipPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopeSideTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopeSideTipPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -448,7 +448,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopeSideBasePanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -489,7 +489,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopeSideTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -529,7 +529,7 @@
                 <SubtypeId>LargeArmorHalfSlopedPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfSlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorHalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorHalfSlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -571,7 +571,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedPanelLightRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -611,7 +611,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedTipPanelLightRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -651,7 +651,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedPanelLightLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -691,7 +691,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedTipPanelLightLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -731,7 +731,7 @@
                 <SubtypeId>LargeRoundArmorPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -777,7 +777,7 @@
                 <SubtypeId>LargeRoundArmorPanelCornerLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundCornerLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanelCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanelCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.7</GeneralDamageMultiplier>
@@ -828,7 +828,7 @@
                 <SubtypeId>LargeArmorPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -867,7 +867,7 @@
                 <SubtypeId>LargeArmorCenterPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCenterPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -908,7 +908,7 @@
                 <SubtypeId>LargeArmorSlopedSidePanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedSidePanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -949,7 +949,7 @@
                 <SubtypeId>LargeArmorSlopedPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -996,7 +996,7 @@
                 <SubtypeId>LargeArmorHalfPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorHalfPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1035,7 +1035,7 @@
                 <SubtypeId>LargeArmorHalfCenterPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfCenterPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1073,7 +1073,7 @@
                 <SubtypeId>LargeArmorQuarterPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorQuarterPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyQuarterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1112,7 +1112,7 @@
                 <SubtypeId>LargeArmor2x1SlopedPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1155,7 +1155,7 @@
                 <SubtypeId>LargeArmor2x1SlopedPanelTipHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelTipHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1198,7 +1198,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideBasePanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1240,7 +1240,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideTipPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1281,7 +1281,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideBasePanelHeavyInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1323,7 +1323,7 @@
                 <SubtypeId>LargeArmor2x1SlopedSideTipPanelHeavyInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1364,7 +1364,7 @@
                 <SubtypeId>LargeArmorHalfSlopedPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfSlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1407,7 +1407,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedPanelHeavyRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1448,7 +1448,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedTipPanelHeavyRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1489,7 +1489,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedPanelHeavyLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1530,7 +1530,7 @@
                 <SubtypeId>LargeArmor2x1HalfSlopedTipPanelHeavyLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1571,7 +1571,7 @@
                 <SubtypeId>LargeRoundArmorPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1618,7 +1618,7 @@
                 <SubtypeId>LargeRoundArmorPanelCornerHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundCornerHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Large</CubeSize>
             <GeneralDamageMultiplier>0.5</GeneralDamageMultiplier>
@@ -1669,7 +1669,7 @@
                 <SubtypeId>LargeRoundArmorPanelFaceLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundFaceLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanelFace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanelFace.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1710,7 +1710,7 @@
                 <SubtypeId>LargeRoundArmorPanelInvertedCornerLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundInvertedCornerLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanelInvertedCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanelInvertedCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1764,7 +1764,7 @@
                 <SubtypeId>LargeRoundArmorPanelFaceHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundFaceHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1806,7 +1806,7 @@
                 <SubtypeId>LargeRoundArmorPanelInvertedCornerHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundInvertedCornerHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Large</CubeSize>
@@ -1861,7 +1861,7 @@
                 <SubtypeId>SmallArmorPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1897,7 +1897,7 @@
                 <SubtypeId>SmallArmorCenterPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCenterPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorCenterPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1935,7 +1935,7 @@
                 <SubtypeId>SmallArmorSlopedSidePanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedSidePanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorSlopedSidePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopedSidePanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -1973,7 +1973,7 @@
                 <SubtypeId>SmallArmorSlopedPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorSlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2017,7 +2017,7 @@
                 <SubtypeId>SmallArmorHalfPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorHalfPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorHalfPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2053,7 +2053,7 @@
                 <SubtypeId>SmallArmorHalfCenterPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfCenterPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorHalfCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorHalfCenterPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2088,7 +2088,7 @@
                 <SubtypeId>SmallArmorQuarterPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorQuarterPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightQuarterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightQuarterPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2124,7 +2124,7 @@
                 <SubtypeId>SmallArmor2x1SlopedPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2164,7 +2164,7 @@
                 <SubtypeId>SmallArmor2x1SlopedPanelTipLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelTipLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopedPanelTip.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopedPanelTip.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2204,7 +2204,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideBasePanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopedSideBasePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopedSideBasePanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2243,7 +2243,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideTipPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopeSideTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopeSideTipPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2281,7 +2281,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideBasePanelLightInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopeSideBasePanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2320,7 +2320,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideTipPanelLightInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1SlopeSideTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2358,7 +2358,7 @@
                 <SubtypeId>SmallArmorHalfSlopedPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfSlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmorHalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmorHalfSlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2398,7 +2398,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedPanelLightRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2436,7 +2436,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedTipPanelLightRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2474,7 +2474,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedPanelLightLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2512,7 +2512,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedTipPanelLightLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelLightInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightArmor2x1HalfSlopedTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2550,7 +2550,7 @@
                 <SubtypeId>SmallRoundArmorPanelLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanel.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2594,7 +2594,7 @@
                 <SubtypeId>SmallRoundArmorPanelCornerLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundCornerLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanelCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanelCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2644,7 +2644,7 @@
                 <SubtypeId>SmallArmorPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2682,7 +2682,7 @@
                 <SubtypeId>SmallArmorCenterPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorCenterPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorCenterPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2722,7 +2722,7 @@
                 <SubtypeId>SmallArmorSlopedSidePanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedSidePanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedSidePanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2762,7 +2762,7 @@
                 <SubtypeId>SmallArmorSlopedPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorSlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorSlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2808,7 +2808,7 @@
                 <SubtypeId>SmallArmorHalfPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorHalfPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2846,7 +2846,7 @@
                 <SubtypeId>SmallArmorHalfCenterPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfCenterPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfCenterPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2883,7 +2883,7 @@
                 <SubtypeId>SmallArmorQuarterPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorQuarterPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyQuarterPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyQuarterPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2921,7 +2921,7 @@
                 <SubtypeId>SmallArmor2x1SlopedPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -2963,7 +2963,7 @@
                 <SubtypeId>SmallArmor2x1SlopedPanelTipHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedPanelTipHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedPanelTip.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3005,7 +3005,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideBasePanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopedSideBasePanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3046,7 +3046,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideTipPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3086,7 +3086,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideBasePanelHeavyInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideBasePanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideBasePanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3127,7 +3127,7 @@
                 <SubtypeId>SmallArmor2x1SlopedSideTipPanelHeavyInv</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1SlopedSideTipPanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1SlopeSideTipPanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3167,7 +3167,7 @@
                 <SubtypeId>SmallArmorHalfSlopedPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorHalfSlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmorHalfSlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3209,7 +3209,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedPanelHeavyRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3249,7 +3249,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedTipPanelHeavyRight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3289,7 +3289,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedPanelHeavyLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedPanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedPanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3329,7 +3329,7 @@
                 <SubtypeId>SmallArmor2x1HalfSlopedTipPanelHeavyLeft</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Armor2x1HalfSlopedTipPanelHeavyInv</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyArmor2x1HalfSlopedTipPanelInv.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3369,7 +3369,7 @@
                 <SubtypeId>SmallRoundArmorPanelHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanel.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanel.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3415,7 +3415,7 @@
                 <SubtypeId>SmallRoundArmorPanelCornerHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundCornerHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <CubeSize>Small</CubeSize>
             <GeneralDamageMultiplier>0.9</GeneralDamageMultiplier>
@@ -3465,7 +3465,7 @@
                 <SubtypeId>SmallRoundArmorPanelFaceLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundFaceLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanelFace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanelFace.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -3503,7 +3503,7 @@
                 <SubtypeId>SmallRoundArmorPanelInvertedCornerLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundInvertedCornerLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LightRoundArmorPanelInvertedCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LightRoundArmorPanelInvertedCorner.dds</Icon>
             <Description>Description_LightArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -3554,7 +3554,7 @@
                 <SubtypeId>SmallRoundArmorPanelFaceHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundFaceHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelFace.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>
@@ -3595,7 +3595,7 @@
                 <SubtypeId>SmallRoundArmorPanelInvertedCornerHeavy</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ArmorPanelRoundInvertedCornerHeavy</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\HeavyRoundArmorPanelInvertedCorner.dds</Icon>
             <Description>Description_HeavyArmor</Description>
             <GuiVisible>false</GuiVisible>
             <CubeSize>Small</CubeSize>

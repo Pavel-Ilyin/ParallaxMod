@@ -7,7 +7,7 @@
                 <SubtypeId>LargeOreDetector</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OreDetector</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\detector.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
             <Description>Description_OreDetector</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -56,7 +56,7 @@
                 <SubtypeId>SmallBlockOreDetector</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OreDetector</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\detector.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\detector.dds</Icon>
             <Description>Description_OreDetector</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

@@ -7,7 +7,7 @@
                 <SubtypeId>LargeRefinery</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Refinery</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\refinery.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\refinery.dds</Icon>
             <Description>Description_Refinery</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -81,7 +81,7 @@
                 <SubtypeId>LargeRefineryIndustrial</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RefineryIndustrial</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\AdvancedRefinery.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\AdvancedRefinery.dds</Icon>
             <Description>Description_Refinery</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -173,7 +173,7 @@
                 <SubtypeId>Blast Furnace</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Arc_Furnace</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Blastfurnace.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Blastfurnace.dds</Icon>
             <Description>Description_RefineryBasic</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -243,7 +243,7 @@
                 <SubtypeId/>
             </Id>
             <DisplayName>DisplayName_Block_OxygenGenerator</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\OxygenGenerator.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\OxygenGenerator.dds</Icon>
             <Description>Description_OxygenGenerator</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -334,7 +334,7 @@
                 <SubtypeId>OxygenGeneratorSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OxygenGenerator</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\OxygenGeneratorSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\OxygenGeneratorSmall.dds</Icon>
             <Description>Description_OxygenGenerator</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -434,7 +434,7 @@
                 <SubtypeId>LargeAssembler</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Assembler</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\assembler.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\assembler.dds</Icon>
             <Description>Description_Assembler</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -510,7 +510,7 @@
                 <SubtypeId>LargeAssemblerIndustrial</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_AssemblerIndustrial</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\AdvancedAssemblerIndustrial.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\AdvancedAssemblerIndustrial.dds</Icon>
             <Description>Description_Assembler</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -593,7 +593,7 @@
                 <SubtypeId>BasicAssembler</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_BasicAssembler</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\basicAssembler.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\basicAssembler.dds</Icon>
             <Description>Description_AssemblerBasic</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -666,7 +666,7 @@
             </Id>
             <DisplayName>DisplayName_Block_SurvivalKit</DisplayName>
             <Description>Description_SurvivalKit</Description>
-            <Icon>Textures\ColorFull\Cubes\SurvivalKitLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SurvivalKitLarge.dds</Icon>
             <CubeSize>Large</CubeSize>
             <ResearchGroup>Tier00Basics</ResearchGroup>
             <ResearchCost>5</ResearchCost>
@@ -752,7 +752,7 @@
             </Id>
             <DisplayName>DisplayName_Block_SurvivalKit</DisplayName>
             <Description>Description_SurvivalKit</Description>
-            <Icon>Textures\ColorFull\Cubes\SurvivalKitSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SurvivalKitSmall.dds</Icon>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
             <Size x="4" y="3" z="3"/>
@@ -842,7 +842,7 @@
                 <SubtypeId>LargeBlockOxygenFarm</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OxygenFarm</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SolarHydroponics.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SolarHydroponics.dds</Icon>
             <Description>Description_OxygenFarm</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -908,7 +908,7 @@
                 <SubtypeId>LargeProductivityModule</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ProductivityModule</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\UpgradeProductivity.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\UpgradeProductivity.dds</Icon>
             <Description>Description_ProductivityModule</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -964,7 +964,7 @@
                 <SubtypeId>LargeEffectivenessModule</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_EffectivenessModule</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\UpgradeEffectiveness.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\UpgradeEffectiveness.dds</Icon>
             <Description>Description_EffectivenessModule</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -1021,7 +1021,7 @@
                 <SubtypeId>LargeEnergyModule</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_PowerEfficiencyModule</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\UpgradeEnergy.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\UpgradeEnergy.dds</Icon>
             <Description>Description_PowerEfficiencyModule</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>

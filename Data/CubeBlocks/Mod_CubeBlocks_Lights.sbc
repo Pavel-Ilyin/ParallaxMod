@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockFrontLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ReflectorLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\light.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\light.dds</Icon>
             <Description>Description_ReflectorLight</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -65,7 +65,7 @@
                 <SubtypeId>SmallBlockFrontLight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ReflectorLight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\light.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\light.dds</Icon>
             <Description>Description_ReflectorLight</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -122,7 +122,7 @@
                 <SubtypeId>LargeSearchlight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Searchlight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Large_Searchlight_Racing.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Large_Searchlight_Racing.dds</Icon>
             <Description>Description_Searchlight</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -216,7 +216,7 @@
                 <SubtypeId>SmallSearchlight</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Searchlight</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Small_Searchlight_Racing.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Small_Searchlight_Racing.dds</Icon>
             <Description>Description_Searchlight</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>

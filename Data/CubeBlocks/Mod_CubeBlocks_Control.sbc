@@ -8,7 +8,7 @@
                 <SubtypeId>LargeBlockCockpitSeat</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Cockpit1</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CockpitSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CockpitSmall.dds</Icon>
             <Description>Description_Cockpit</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -92,7 +92,7 @@
                 <SubtypeId>SmallBlockCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Cockpit1</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CockpitSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CockpitSmall.dds</Icon>
             <Description>Description_Cockpit</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -177,7 +177,7 @@
                 <SubtypeId>LargeBlockCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Cockpit2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Cockpit.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Cockpit.dds</Icon>
             <Description>Description_ControlStation</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -251,7 +251,7 @@
                 <SubtypeId>CockpitOpen</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Cockpit3</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CockpitOpen.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CockpitOpen.dds</Icon>
             <Description>Description_FlightSeat</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -323,7 +323,7 @@
                 <SubtypeId>OpenCockpitLarge</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OpenCockpitLarge</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\OpenCockpitLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\OpenCockpitLarge.dds</Icon>
             <Description>Description_OpenCockpitLarge</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -390,7 +390,7 @@
                 <SubtypeId>OpenCockpitSmall</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_OpenCockpitSmall</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\OpenCockpitSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\OpenCockpitSmall.dds</Icon>
             <Description>Description_OpenCockpitSmall</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -454,7 +454,7 @@
                 <SubtypeId>DBSmallBlockFighterCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_FighterCockpit</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\FighterCockpit.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\FighterCockpit.dds</Icon>
             <Description>Description_FighterCockpit</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -551,7 +551,7 @@
                 <SubtypeId>RoverCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_RoverCockpit</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\RoverCockpit.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\RoverCockpit.dds</Icon>
             <Description>Description_RoverCockpit</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -633,7 +633,7 @@
                 <SubtypeId>BuggyCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_BuggyCockpit</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\BuggyCockpit_Racing.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\BuggyCockpit_Racing.dds</Icon>
             <Description>Description_BuggyCockpit</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -714,7 +714,7 @@
                 <SubtypeId>SpeederCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SpeederCockpit</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SpeederCockpit.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SpeederCockpit.dds</Icon>
             <Description>Description_SpeederCockpit</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -786,7 +786,7 @@
                 <SubtypeId>SpeederCockpitCompact</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SpeederCockpitCompact</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SpeederCockpitLite.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SpeederCockpitLite.dds</Icon>
             <Description>Description_SpeederCockpit</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -860,7 +860,7 @@
                 <SubtypeId>SmallBlockCockpitIndustrial</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CockpitIndustrial</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CockpitIndustrial.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CockpitIndustrial.dds</Icon>
             <Description>Description_CockpitIndustrial</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -930,7 +930,7 @@
                 <SubtypeId>LargeBlockCockpitIndustrial</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CockpitIndustrial</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\LargeCockpitIndustrial.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\LargeCockpitIndustrial.dds</Icon>
             <Description>Description_CockpitIndustrial</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -1011,7 +1011,7 @@
                 <SubtypeId>SmallBlockCapCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CapCockpit</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\CapCockpit.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\CapCockpit.dds</Icon>
             <Description>Description_CockpitIndustrial</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -1078,7 +1078,7 @@
                 <SubtypeId>LargeBlockStandingCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CockpitStandingBridge</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\StandingBridge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\StandingBridge.dds</Icon>
             <Description>Description_CockpitStandingBridge</Description>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
@@ -1146,7 +1146,7 @@
                 <SubtypeId>SmallBlockStandingCockpit</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_CockpitStandingBridge</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\StandingBridge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\StandingBridge.dds</Icon>
             <Description>Description_CockpitStandingBridge</Description>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>

@@ -301,4 +301,10 @@
 
 Максимальная дистанция: 4000 м.</value>
 	</data>
+	<data name="DisplayName_Block_SuperAssembler" xml:space="preserve">
+		<value>Специальный сборщик</value>
+	</data>
+	<data name="Description_Assembler" xml:space="preserve">
+		<value>Сборщик повышеной ёмкости.</value>
+	</data>
 </root>

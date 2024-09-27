@@ -8,7 +8,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_TurretControlBlock</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\TurretControlBlockLarge.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\TurretControlBlockLarge.dds</Icon>
             <Description>Description_TurretControlBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -84,7 +84,7 @@
             </Id>
             <Public>true</Public>
             <DisplayName>DisplayName_TurretControlBlock</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\TurretControlBlockSmall.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\TurretControlBlockSmall.dds</Icon>
             <Description>Description_TurretControlBlock</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

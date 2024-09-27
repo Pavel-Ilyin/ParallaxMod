@@ -293,4 +293,10 @@ Has high power consumption.</value>
 
 Maximum range: 4000 m.</value>
 	</data>
+	<data name="DisplayName_Block_SuperAssembler" xml:space="preserve">
+		<value>Special assembler</value>
+	</data>
+	<data name="Description_Assembler" xml:space="preserve">
+		<value>High capacity assembler.</value>
+	</data>
 </root>

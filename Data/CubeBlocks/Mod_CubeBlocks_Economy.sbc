@@ -7,7 +7,7 @@
                 <SubtypeId>StoreBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Store</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\StoreBlock.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\StoreBlock.dds</Icon>
             <Description>Description_StoreBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -63,7 +63,7 @@
                 <SubtypeId>SafeZoneBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_SafeZone</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\SafeZoneBlock.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\SafeZoneBlock.dds</Icon>
             <Description>Description_SafeZone</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -126,7 +126,7 @@
                 <SubtypeId>ContractBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Contract</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ContractsBlock.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ContractsBlock.dds</Icon>
             <Description>Description_ContractBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -184,7 +184,7 @@
                 <SubtypeId>VendingMachine</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_VendingMachine</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\VendingMachine.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\VendingMachine.dds</Icon>
             <Description>Description_VendingMachine</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -242,7 +242,7 @@
                 <SubtypeId>AtmBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_ATM</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\ATM.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\ATM.dds</Icon>
             <Description>Description_AtmBlock</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

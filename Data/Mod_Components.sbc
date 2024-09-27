@@ -128,7 +128,6 @@
             <Volume>0.2</Volume>
             <Model>Models\Components\computer_component.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <!--MinimalPricePerUnit>2750000</MinimalPricePerUnit-->
             <CanPlayerOrder>true</CanPlayerOrder>
             <MaxIntegrity>15</MaxIntegrity>
             <DropProbability>0.1</DropProbability>

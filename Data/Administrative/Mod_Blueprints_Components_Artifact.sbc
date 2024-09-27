@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClassEntries>
+        <Entry Class="Components" BlueprintSubtypeId="IngotsPackage"/>
+    </BlueprintClassEntries>
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>Artifact</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_Artifact</DisplayName>
+            <Icon>Textures\Icons\Artifact.png</Icon>
+            <Prerequisites>
+                <Item Amount="100" TypeId="Ingot" SubtypeId="Palladium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="Artifact" />
+            <BaseProductionTimeInSeconds>200000</BaseProductionTimeInSeconds>
+            <IsPrimary>false</IsPrimary>
+        </Blueprint>
+    </Blueprints>
+</Definitions>

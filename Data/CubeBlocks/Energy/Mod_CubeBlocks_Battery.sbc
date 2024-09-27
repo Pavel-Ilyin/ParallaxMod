@@ -7,7 +7,7 @@
                 <SubtypeId>LargeBlockBatteryBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Battery</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Battery.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
             <Description>Description_Battery</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -39,7 +39,7 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <MaxPowerOutput>16</MaxPowerOutput>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
-            <RequiredPowerInput>8</RequiredPowerInput>
+            <RequiredPowerInput>16</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>4</MaxStoredPower>
             <InitialStoredPowerRatio>0</InitialStoredPowerRatio>
@@ -69,7 +69,7 @@
                 <SubtypeId>SmallBlockBatteryBlock</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_Battery</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\Battery.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\Battery.dds</Icon>
             <Description>Description_Battery</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -188,7 +188,7 @@
                 <SubtypeId>LargeBlockBatteryBlockWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_BatteryWarfare2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\BatteryReskin.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\BatteryReskin.dds</Icon>
             <Description>Description_Battery</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -220,7 +220,7 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <MaxPowerOutput>16</MaxPowerOutput>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
-            <RequiredPowerInput>8</RequiredPowerInput>
+            <RequiredPowerInput>16</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>4</MaxStoredPower>
             <InitialStoredPowerRatio>0</InitialStoredPowerRatio>
@@ -251,7 +251,7 @@
                 <SubtypeId>SmallBlockBatteryBlockWarfare2</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Block_BatteryWarfare2</DisplayName>
-            <Icon>Textures\ColorFull\Cubes\BatteryReskin_Small.dds</Icon>
+            <Icon>Textures\GUI\Icons\Cubes\BatteryReskin_Small.dds</Icon>
             <Description>Description_Battery</Description>
             <CubeSize>Small</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>

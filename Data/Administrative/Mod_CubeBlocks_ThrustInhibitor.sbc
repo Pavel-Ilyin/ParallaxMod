@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<CubeBlocks>
+		<Definition xsi:type="MyObjectBuilder_BeaconDefinition">
+			<Id>
+				<TypeId>Beacon</TypeId>
+				<SubtypeId>Thrust_Inhibitor</SubtypeId>
+			</Id>
+			<DisplayName>DisplayName_Thrust_Inhibitor</DisplayName>
+			<Icon>Textures\GUI\Icons\Cubes\SpaceBall.dds</Icon>
+            <Public>false</Public>
+			<CubeSize>Large</CubeSize>
+			<BlockTopology>TriangleMesh</BlockTopology>
+			<Size x="1" y="1" z="1"/>
+			<ModelOffset x="0" y="0" z="0"/>
+			<Model>Models\Cubes\Large\SpaceBallBlock.mwm</Model>
+			<Components>
+				<Component Subtype="Artifact" Count="1">
+					<DeconstructId>
+						<TypeId>Ingot</TypeId>
+						<SubtypeId>Platinum</SubtypeId>
+					</DeconstructId>
+				</Component>
+			</Components>
+			<CriticalComponent Subtype="Artifact" Index="0"/>
+			<BuildProgressModels>
+				<Model BuildPercentUpperBound="0.50" File="Models\Cubes\Large\SpaceBallBlockConstruction_1.mwm"/>
+				<Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\SpaceBallBlockConstruction_2.mwm"/>
+			</BuildProgressModels>
+			<MountPoints>
+				<MountPoint Side="Left" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+				<MountPoint Side="Right" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+				<MountPoint Side="Back" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+				<MountPoint Side="Front" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+				<MountPoint Side="Top" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+				<MountPoint Side="Bottom" StartX="0.1" StartY="0.1" EndX="0.9" EndY="0.9"/>
+			</MountPoints>
+			<BuildTimeSeconds>200000</BuildTimeSeconds>
+			<ResourceSinkGroup>Utility</ResourceSinkGroup>
+			<BlockPairName>noflight</BlockPairName>
+			<EdgeType>Light</EdgeType>
+			<MirroringY>Z</MirroringY>
+			<DamageEffectId>214</DamageEffectId>
+			<MaxBroadcastRadius>6000</MaxBroadcastRadius>
+			<MaxBroadcastPowerDrainkW>20</MaxBroadcastPowerDrainkW>
+			<DamagedSound>ParticleElectrical</DamagedSound>
+			<PCU>100</PCU>
+			<IsAirTight>false</IsAirTight>
+		</Definition>
+	</CubeBlocks>
+</Definitions>

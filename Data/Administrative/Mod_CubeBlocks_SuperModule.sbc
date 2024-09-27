@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <CubeBlocks>
+        <Definition xsi:type="MyObjectBuilder_UpgradeModuleDefinition">
+            <Id>
+                <TypeId>UpgradeModule</TypeId>
+                <SubtypeId>SuperProductivityModule</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_SuperProductivityModule</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\UpgradeProductivity.dds</Icon>
+            <Public>false</Public>
+            <Description>Description_SuperProductivityModule</Description>
+            <CubeSize>Large</CubeSize>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="2"/>
+            <ModelOffset x="0" y="0" z="0"/>
+            <Model>Models\Cubes\Large\UpgradeProductivity.mwm</Model>
+            <Components>
+                <Component Subtype="Artifact" Count="1">
+                    <DeconstructId>
+                        <TypeId>Ingot</TypeId>
+                        <SubtypeId>Platinum</SubtypeId>
+                    </DeconstructId>
+                </Component>
+            </Components>
+            <CriticalComponent Subtype="Artifact" Index="0"/>
+            <MountPoints>
+                <MountPoint Side="Right" StartX="0.15" StartY="0.15" EndX="1.85" EndY="0.85" Default="true"/>
+                <MountPoint Side="Left" StartX="0.15" StartY="0.15" EndX="1.85" EndY="0.85"/>
+                <MountPoint Side="Top" StartX="0.15" StartY="0.15" EndX="0.85" EndY="1.85"/>
+                <MountPoint Side="Bottom" StartX="0.15" StartY="0.15" EndX="0.85" EndY="1.85"/>
+                <MountPoint Side="Front" StartX="0.15" StartY="0.15" EndX="0.85" EndY="0.85"/>
+                <MountPoint Side="Back" StartX="0.15" StartY="0.15" EndX="0.85" EndY="0.85"/>
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\UpgradeProductivityConstruction_1.mwm"/>
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\UpgradeProductivityConstruction_2.mwm"/>
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\UpgradeProductivityConstruction_3.mwm"/>
+            </BuildProgressModels>
+            <BlockPairName>SuperProductivityModule</BlockPairName>
+            <MirroringX>Z</MirroringX>
+            <MirroringZ>X</MirroringZ>
+            <EdgeType>Light</EdgeType>
+			<BuildTimeSeconds>200000</BuildTimeSeconds>
+            <Upgrades>
+                <MyUpgradeModuleInfo>
+                    <UpgradeType>Productivity</UpgradeType>
+                    <Modifier>15.6</Modifier>
+                    <ModifierType>Additive</ModifierType>
+                </MyUpgradeModuleInfo>
+            </Upgrades>
+            <PrimarySound>BlockModuleProductivity</PrimarySound>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <EmissiveColorPreset>Default</EmissiveColorPreset>
+            <DestroyEffect>BlockDestroyedExplosion_Large</DestroyEffect>
+            <DestroySound>WepSmallWarheadExpl</DestroySound>
+            <PCU>100</PCU>
+            <IsAirTight>false</IsAirTight>
+        </Definition>
+    </CubeBlocks>
+</Definitions>
