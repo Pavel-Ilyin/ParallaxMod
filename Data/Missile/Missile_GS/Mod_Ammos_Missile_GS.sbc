@@ -7,7 +7,7 @@
                 <SubtypeId>Missile_GS</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>200</DesiredSpeed>
+                <DesiredSpeed>600</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>4000</MaxTrajectory>
                 <IsExplosive>true</IsExplosive>
@@ -17,13 +17,13 @@
                 <DeathMessage>CauseOfDeath_HeavyWeapons</DeathMessage>
             </BasicProperties>
             <MissileProperties>
-                <MissileMass>600</MissileMass>
-                <MissileExplosionRadius>12</MissileExplosionRadius>
+                <MissileMass>200</MissileMass>
+                <MissileExplosionRadius>16</MissileExplosionRadius>
                 <MissileModelName>Models\Weapons\Projectile_Missile.mwm</MissileModelName>
                 <MissileAcceleration>0</MissileAcceleration>
-                <MissileInitialSpeed>200</MissileInitialSpeed>
+                <MissileInitialSpeed>600</MissileInitialSpeed>
                 <MissileSkipAcceleration>false</MissileSkipAcceleration>
-                <MissileExplosionDamage>400</MissileExplosionDamage>
+                <MissileExplosionDamage>200</MissileExplosionDamage>
                 <MissileTrailEffect>Smoke_Missile</MissileTrailEffect>
                 <MissileGravityEnabled>true</MissileGravityEnabled>
             </MissileProperties>

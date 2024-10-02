@@ -234,7 +234,7 @@
             <DamagedSound>ParticleWeapExpl</DamagedSound>
             <DestroyEffect>BlockDestroyedExplosion_Small</DestroyEffect>
             <DestroySound>WepSmallWarheadExpl</DestroySound>
-            <PCU>5270</PCU>
+            <PCU>8900</PCU>
             <TargetingGroups>
                 <string>Weapons</string>
             </TargetingGroups>
