@@ -12,8 +12,8 @@
                 <Item Amount="34" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="6" TypeId="Ingot" SubtypeId="Nickel"/>
                 <Item Amount="0.9" TypeId="Ingot" SubtypeId="Silicon"/>
-                <Item Amount="0.9" TypeId="Ingot" SubtypeId="Uranium"/>
-                <Item Amount="0.03" TypeId="Ingot" SubtypeId="Palladium" />
+                <Item Amount="0.4" TypeId="Ingot" SubtypeId="Uranium"/>
+                <Item Amount="0.3" TypeId="Ingot" SubtypeId="Palladium" />
                 <Item Amount="2.7" TypeId="Ingot" SubtypeId="Magnesium"/>
             </Prerequisites>
             <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="Missile_GS200mm"/>

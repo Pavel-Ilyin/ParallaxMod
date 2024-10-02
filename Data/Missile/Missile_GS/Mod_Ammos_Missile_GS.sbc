@@ -23,7 +23,7 @@
                 <MissileAcceleration>0</MissileAcceleration>
                 <MissileInitialSpeed>200</MissileInitialSpeed>
                 <MissileSkipAcceleration>false</MissileSkipAcceleration>
-                <MissileExplosionDamage>900</MissileExplosionDamage>
+                <MissileExplosionDamage>400</MissileExplosionDamage>
                 <MissileTrailEffect>Smoke_Missile</MissileTrailEffect>
                 <MissileGravityEnabled>true</MissileGravityEnabled>
             </MissileProperties>

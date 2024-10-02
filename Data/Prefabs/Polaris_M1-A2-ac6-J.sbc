@@ -6,18 +6,18 @@
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>92217658704019890</EntityId>
+          <EntityId>94563826249794237</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
-          <Name>92217658704019890</Name>
+          <Name>94563826249794237</Name>
           <PositionAndOrientation>
             <Position x="0" y="0" z="0" />
-            <Forward x="0.07300424" y="0.88570416" z="-0.4584743" />
-            <Up x="0.237376988" y="0.431059122" z="0.870540261" />
+            <Forward x="0.00348791084" y="-0.0100383684" z="-0.999943554" />
+            <Up x="-0.9999938" y="7.50156E-05" z="-0.00348883844" />
             <Orientation>
-              <X>0.51940763</X>
-              <Y>0.0312820822</Y>
-              <Z>-0.121186532</Z>
-              <W>0.845311165</W>
+              <X>-0.004782436</X>
+              <Y>0.00231574778</Y>
+              <Z>0.707064033</Z>
+              <W>0.707129538</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -25,7 +25,7 @@
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Tip</SubtypeName>
-              <EntityId>79192999441248002</EntityId>
+              <EntityId>140563103508510225</EntityId>
               <Min x="36" y="16" z="-6" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -33,7 +33,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>90031741486075219</EntityId>
+              <EntityId>143309786030018232</EntityId>
               <Min x="36" y="16" z="-5" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -41,7 +41,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>88205010559057080</EntityId>
+              <EntityId>143693785112830793</EntityId>
               <Min x="37" y="16" z="-6" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -49,7 +49,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>115126867360984263</EntityId>
+              <EntityId>138865536836184495</EntityId>
               <Min x="35" y="16" z="-6" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -57,7 +57,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>125565708224885032</EntityId>
+              <EntityId>132298200772899776</EntityId>
               <Min x="37" y="16" z="-5" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -65,7 +65,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>110815374581133873</EntityId>
+              <EntityId>75070431957461411</EntityId>
               <Min x="35" y="16" z="-5" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -73,7 +73,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>76533530789442817</EntityId>
+              <EntityId>132246928170586244</EntityId>
               <Min x="37" y="13" z="-6" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -81,7 +81,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>91047478157140854</EntityId>
+              <EntityId>134722847228464823</EntityId>
               <Min x="35" y="15" z="-6" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -89,7 +89,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>91361876220905972</EntityId>
+              <EntityId>82121039734659105</EntityId>
               <Min x="37" y="12" z="-4" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -97,7 +97,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>72686302275820925</EntityId>
+              <EntityId>103303009002738189</EntityId>
               <Min x="37" y="15" z="-5" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -105,14 +105,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>137463038870507554</EntityId>
+              <EntityId>139193893883088927</EntityId>
               <Min x="35" y="12" z="-4" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>123792746957967842</EntityId>
+              <EntityId>75042591837907998</EntityId>
               <Min x="35" y="15" z="-5" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -120,14 +120,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>122466392334679599</EntityId>
+              <EntityId>140597557513197259</EntityId>
               <Min x="37" y="14" z="-6" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>132439164757900336</EntityId>
+              <EntityId>73678267975727468</EntityId>
               <Min x="35" y="15" z="-7" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -135,7 +135,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>101737642924583521</EntityId>
+              <EntityId>91188905874567967</EntityId>
               <Min x="36" y="16" z="-4" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -168,7 +168,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>128158392745256737</EntityId>
+              <EntityId>103070671229816169</EntityId>
               <Min x="37" y="12" z="-3" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -176,7 +176,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>112042651047130405</EntityId>
+              <EntityId>89965502931718983</EntityId>
               <Min x="37" y="15" z="-6" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -184,7 +184,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Tip</SubtypeName>
-              <EntityId>111163504985125788</EntityId>
+              <EntityId>138871793795074333</EntityId>
               <Min x="37" y="14" z="-5" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -192,7 +192,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
               <SubtypeName>ConveyorTubeDuct</SubtypeName>
-              <EntityId>135624753608390970</EntityId>
+              <EntityId>85397408725782246</EntityId>
               <Min x="36" y="14" z="-6" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -200,14 +200,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>75048839611052501</EntityId>
+              <EntityId>110682431130320723</EntityId>
               <Min x="37" y="14" z="-7" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>74387632097004981</EntityId>
+              <EntityId>112890677758977931</EntityId>
               <Min x="37" y="15" z="-8" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -215,14 +215,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>142144664131453340</EntityId>
+              <EntityId>104182561223769844</EntityId>
               <Min x="35" y="14" z="-7" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>122188436895904604</EntityId>
+              <EntityId>141522919423675936</EntityId>
               <Min x="35" y="13" z="-8" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -230,7 +230,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OxygenTank">
               <SubtypeName>LargeHydrogenTankSmall</SubtypeName>
-              <EntityId>110316461586292115</EntityId>
+              <EntityId>110496769210610852</EntityId>
               <Min x="36" y="16" z="-3" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -262,7 +262,7 @@
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
               <IsStockpiling>false</IsStockpiling>
-              <FilledRatio>0.999846637</FilledRatio>
+              <FilledRatio>0.9999047</FilledRatio>
               <AutoRefill>false</AutoRefill>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -274,7 +274,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>86773576072806440</EntityId>
+              <EntityId>136165827498425472</EntityId>
               <Min x="37" y="17" z="-3" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -282,7 +282,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>138553378233991408</EntityId>
+              <EntityId>96377537091753533</EntityId>
               <Min x="37" y="16" z="-2" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -290,7 +290,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>82368579240304504</EntityId>
+              <EntityId>136547683460275405</EntityId>
               <Min x="37" y="12" z="-6" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -298,7 +298,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>78610191744926555</EntityId>
+              <EntityId>91950443831649265</EntityId>
               <Min x="37" y="13" z="-5" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -306,7 +306,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
               <SubtypeName>ConveyorTubeDuct</SubtypeName>
-              <EntityId>78645082009126970</EntityId>
+              <EntityId>139664954495706357</EntityId>
               <Min x="36" y="14" z="-5" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -314,14 +314,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>125949089097966846</EntityId>
+              <EntityId>74581093519392299</EntityId>
               <Min x="37" y="14" z="-8" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>86190336871293872</EntityId>
+              <EntityId>107665290385911325</EntityId>
               <Min x="36" y="15" z="-8" />
               <BlockOrientation Forward="Right" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -329,7 +329,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>100673043817634204</EntityId>
+              <EntityId>100167964775470935</EntityId>
               <Min x="37" y="15" z="-10" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -337,7 +337,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>111706809160589865</EntityId>
+              <EntityId>119369704841759504</EntityId>
               <Min x="35" y="13" z="-7" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -345,14 +345,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>113619317803987335</EntityId>
+              <EntityId>118470107580870764</EntityId>
               <Min x="35" y="14" z="-8" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>74163153064843460</EntityId>
+              <EntityId>99195276226938970</EntityId>
               <Min x="35" y="15" z="-8" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -360,7 +360,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OffensiveCombatBlock">
               <SubtypeName>LargeOffensiveCombat</SubtypeName>
-              <EntityId>106255915446236438</EntityId>
+              <EntityId>81692475699881509</EntityId>
               <Min x="36" y="15" z="-2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -412,7 +412,7 @@
                           <Z>0</Z>
                         </RunAwayDirection>
                         <LastPosition xsi:nil="true" />
-                        <RunAwayStartedFrame>-40785286862</RunAwayStartedFrame>
+                        <RunAwayStartedFrame>-40785272224</RunAwayStartedFrame>
                       </HitAndRunState>
                     </Component>
                   </ComponentData>
@@ -445,7 +445,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>114128704146427262</EntityId>
+              <EntityId>81295612635618459</EntityId>
               <Min x="36" y="16" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -474,7 +474,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>Window1x2Slope</SubtypeName>
-              <EntityId>98038922622613335</EntityId>
+              <EntityId>104453217327282886</EntityId>
               <Min x="37" y="14" z="-4" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -489,7 +489,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>120396313875665030</EntityId>
+              <EntityId>143378476418422322</EntityId>
               <Min x="37" y="17" z="-2" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -497,7 +497,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>134928114704841818</EntityId>
+              <EntityId>125807409847440874</EntityId>
               <Min x="37" y="12" z="-5" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -505,7 +505,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Tip</SubtypeName>
-              <EntityId>104126321091149752</EntityId>
+              <EntityId>75668327188107021</EntityId>
               <Min x="36" y="12" z="-6" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -513,7 +513,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>82070179761227203</EntityId>
+              <EntityId>130197540266893351</EntityId>
               <Min x="37" y="13" z="-8" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -521,7 +521,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>109274606135247000</EntityId>
+              <EntityId>96317074854344051</EntityId>
               <Min x="36" y="14" z="-4" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -529,7 +529,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>102959666690761250</EntityId>
+              <EntityId>133677250806958751</EntityId>
               <Min x="37" y="13" z="-10" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -537,7 +537,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>116530532476325464</EntityId>
+              <EntityId>108685947381759675</EntityId>
               <Min x="36" y="15" z="-9" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -545,7 +545,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>93136785822811871</EntityId>
+              <EntityId>121002509132878410</EntityId>
               <Min x="35" y="13" z="-6" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -553,14 +553,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>97951865533262040</EntityId>
+              <EntityId>95197326116848583</EntityId>
               <Min x="37" y="14" z="-10" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
-              <EntityId>74302396061820027</EntityId>
+              <EntityId>128270047217094969</EntityId>
               <Min x="36" y="14" z="-2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -574,15 +574,15 @@
                       <CanPutItems>true</CanPutItems>
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>38</Amount>
+                          <Amount>80</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                            <SubtypeName>Missile_GS200mm</SubtypeName>
+                            <SubtypeName>Missile200mm</SubtypeName>
                             <ProjectilesCount>0</ProjectilesCount>
                           </PhysicalContent>
-                          <ItemId>4</ItemId>
+                          <ItemId>7</ItemId>
                         </MyObjectBuilder_InventoryItem>
                       </Items>
-                      <nextItemId>7</nextItemId>
+                      <nextItemId>8</nextItemId>
                       <Volume>15.625</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -714,7 +714,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OxygenTank">
               <SubtypeName>LargeHydrogenTank</SubtypeName>
-              <EntityId>135744422820141207</EntityId>
+              <EntityId>126586540609399558</EntityId>
               <Min x="35" y="13" z="-1" />
               <BlockOrientation Forward="Right" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -746,12 +746,12 @@ Datapad/Datapad=0</Value>
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
               <IsStockpiling>false</IsStockpiling>
-              <FilledRatio>0.999846637</FilledRatio>
+              <FilledRatio>0.9999047</FilledRatio>
               <AutoRefill>false</AutoRefill>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Gyro">
               <SubtypeName>LargeBlockGyro</SubtypeName>
-              <EntityId>97313080396026339</EntityId>
+              <EntityId>78039362683347187</EntityId>
               <Min x="36" y="15" z="-3" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -774,7 +774,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>92190299905753944</EntityId>
+              <EntityId>97428995532949916</EntityId>
               <Min x="36" y="16" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -782,7 +782,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>140995625576906162</EntityId>
+              <EntityId>104387010010867179</EntityId>
               <Min x="35" y="16" z="-1" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -822,7 +822,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
               <SubtypeName>LargeBlockSmallGeneratorWarfare2</SubtypeName>
-              <EntityId>140724792703746687</EntityId>
+              <EntityId>113702166980431371</EntityId>
               <Min x="36" y="11" z="0" />
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -836,7 +836,7 @@ Datapad/Datapad=0</Value>
                       <CanPutItems>true</CanPutItems>
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>99.999886</Amount>
+                          <Amount>99.998603</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -861,7 +861,7 @@ Datapad/Datapad=0</Value>
                       <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame100</TimerType>
-                      <FramesFromLastTrigger>200</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>300</FramesFromLastTrigger>
                       <TimerTickInFrames>900</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -875,7 +875,7 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>2</NumberInGrid>
               <Enabled>true</Enabled>
-              <Capacity>99.9998856</Capacity>
+              <Capacity>99.9986</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorCorner2Tip</SubtypeName>
@@ -900,7 +900,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Cockpit">
               <SubtypeName>LargeBlockCockpitSeat</SubtypeName>
-              <EntityId>127287148134242949</EntityId>
+              <EntityId>106757048578044225</EntityId>
               <Min x="37" y="14" z="-2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1268,7 +1268,7 @@ Datapad/Datapad=0</Value>
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
                       <Action>OnOff</Action>
                       <GridEntityId>0</GridEntityId>
-                      <BlockEntityId>127287148134242949</BlockEntityId>
+                      <BlockEntityId>106757048578044225</BlockEntityId>
                       <GroupName>Ускорители (полярис) (1)</GroupName>
                     </Data>
                   </Slot>
@@ -1277,7 +1277,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>Jump</Action>
-                      <BlockEntityId>99970187588794955</BlockEntityId>
+                      <BlockEntityId>77979715650647420</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1285,7 +1285,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>JumpSelect</Action>
-                      <BlockEntityId>99970187588794955</BlockEntityId>
+                      <BlockEntityId>77979715650647420</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1308,7 +1308,7 @@ Datapad/Datapad=0</Value>
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
                       <Action>OnOff</Action>
                       <GridEntityId>0</GridEntityId>
-                      <BlockEntityId>127287148134242949</BlockEntityId>
+                      <BlockEntityId>106757048578044225</BlockEntityId>
                       <GroupName>Вооружение (полярис)</GroupName>
                     </Data>
                   </Slot>
@@ -1317,7 +1317,15 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>AI</Action>
-                      <BlockEntityId>131345307956090129</BlockEntityId>
+                      <BlockEntityId>135961059047430161</BlockEntityId>
+                    </Data>
+                  </Slot>
+                  <Slot>
+                    <Index>12</Index>
+                    <Item />
+                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
+                      <Action>Control</Action>
+                      <BlockEntityId>135961059047430161</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1325,7 +1333,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>ActivateBehavior</Action>
-                      <BlockEntityId>129276755623353116</BlockEntityId>
+                      <BlockEntityId>87640082558789294</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1333,7 +1341,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>ActivateBehavior</Action>
-                      <BlockEntityId>98417852676507536</BlockEntityId>
+                      <BlockEntityId>111750374884147958</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1341,7 +1349,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>OnOff</Action>
-                      <BlockEntityId>111135954402976888</BlockEntityId>
+                      <BlockEntityId>104443504909738858</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1349,7 +1357,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>Stockpile</Action>
-                      <BlockEntityId>135744422820141207</BlockEntityId>
+                      <BlockEntityId>126586540609399558</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1357,7 +1365,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>Stockpile</Action>
-                      <BlockEntityId>110316461586292115</BlockEntityId>
+                      <BlockEntityId>110496769210610852</BlockEntityId>
                     </Data>
                   </Slot>
                 </Slots>
@@ -1367,7 +1375,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>View</Action>
-                      <BlockEntityId>124230869790433823</BlockEntityId>
+                      <BlockEntityId>86043539458698616</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1375,7 +1383,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>ActivateBehavior</Action>
-                      <BlockEntityId>129276755623353116</BlockEntityId>
+                      <BlockEntityId>87640082558789294</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1383,12 +1391,12 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>ActivateBehavior</Action>
-                      <BlockEntityId>106255915446236438</BlockEntityId>
+                      <BlockEntityId>81692475699881509</BlockEntityId>
                     </Data>
                   </Slot>
                 </SlotsGamepad>
               </Toolbar>
-              <SelectedGunId Type="MyObjectBuilder_SmallMissileLauncher" Subtype="LargeBlockLargeCalibreGun" />
+              <SelectedGunId xsi:nil="true" />
               <BuildToolbar>
                 <ToolbarType>Character</ToolbarType>
                 <SelectedSlot xsi:nil="true" />
@@ -1404,7 +1412,7 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>PlaySound</Action>
-                      <BlockEntityId>88819171550563015</BlockEntityId>
+                      <BlockEntityId>128534310816295821</BlockEntityId>
                     </Data>
                   </Slot>
                   <Slot>
@@ -1412,21 +1420,21 @@ Datapad/Datapad=0</Value>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>StopSound</Action>
-                      <BlockEntityId>88819171550563015</BlockEntityId>
+                      <BlockEntityId>128534310816295821</BlockEntityId>
                     </Data>
                   </Slot>
                 </Slots>
                 <SlotsGamepad />
               </OnLockedToolbar>
               <PilotRelativeWorld>
-                <Position x="-0.26862534880638123" y="1.3909256458282471" z="-3.0169930458068848" />
-                <Forward x="0.0412340835" y="-0.5867819" z="0.8086945" />
-                <Up x="-0.0122413039" y="0.8090254" z="0.5876462" />
+                <Position x="1.7081410884857178" y="1.8675874471664429" z="-4.5619120597839355" />
+                <Forward x="-0.231419429" y="-0.571365952" z="0.787391543" />
+                <Up x="-0.308868974" y="0.810639739" z="0.497456878" />
                 <Orientation>
-                  <X>-0.0121916458</X>
-                  <Y>0.9508936</Y>
-                  <Z>0.3087696</Z>
-                  <W>-0.0177229419</W>
+                  <X>-0.116438083</X>
+                  <Y>0.9381567</Y>
+                  <Z>0.28482002</Z>
+                  <W>0.1586874</W>
                 </Orientation>
               </PilotRelativeWorld>
               <PilotGunDefinition xsi:nil="true" />
@@ -1438,7 +1446,7 @@ Datapad/Datapad=0</Value>
                 <IsTargetLocked>false</IsTargetLocked>
                 <LockingProgress>0</LockingProgress>
               </TargetData>
-              <SitAnimation>0</SitAnimation>
+              <SitAnimation>878173</SitAnimation>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockHeavyArmorSlopedCorner</SubtypeName>
@@ -1456,7 +1464,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>111859718796867375</EntityId>
+              <EntityId>108754407191830973</EntityId>
               <Min x="37" y="11" z="-1" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -1464,7 +1472,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>101619794748319415</EntityId>
+              <EntityId>92158633579129162</EntityId>
               <Min x="37" y="16" z="-4" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -1472,7 +1480,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>77242106574885009</EntityId>
+              <EntityId>109365896230535219</EntityId>
               <Min x="36" y="12" z="-5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1480,7 +1488,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>138622171734176333</EntityId>
+              <EntityId>98582610705924689</EntityId>
               <Min x="35" y="12" z="-6" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1488,7 +1496,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>108709017829569384</EntityId>
+              <EntityId>104378427405704475</EntityId>
               <Min x="36" y="13" z="-8" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1496,7 +1504,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>88525238100792212</EntityId>
+              <EntityId>103363129527868074</EntityId>
               <Min x="37" y="15" z="-9" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -1504,7 +1512,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>ConveyorTubeDuctT</SubtypeName>
-              <EntityId>124366255217917089</EntityId>
+              <EntityId>102392330750592868</EntityId>
               <Min x="36" y="14" z="-3" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1512,7 +1520,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorAdvancedStator">
               <SubtypeName>LargeHinge</SubtypeName>
-              <EntityId>92627469634722533</EntityId>
+              <EntityId>121823922542749660</EntityId>
               <Min x="35" y="14" z="-4" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
@@ -1524,7 +1532,7 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>2</NumberInGrid>
               <Enabled>true</Enabled>
-              <TopBlockId>72569325295186490</TopBlockId>
+              <TopBlockId>144070858323637195</TopBlockId>
               <ShareInertiaTensor>false</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
@@ -1532,7 +1540,7 @@ Datapad/Datapad=0</Value>
               <TargetVelocity>0</TargetVelocity>
               <MinAngle>0</MinAngle>
               <MaxAngle>1.57079637</MaxAngle>
-              <CurrentAngle>1.28423345</CurrentAngle>
+              <CurrentAngle>1.56466007</CurrentAngle>
               <LimitsActive>true</LimitsActive>
               <RotorLock>false</RotorLock>
               <Torque>3.36E+07</Torque>
@@ -1540,7 +1548,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>142399695288819917</EntityId>
+              <EntityId>75867578363823245</EntityId>
               <Min x="36" y="15" z="-10" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1548,21 +1556,21 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>106305375054558264</EntityId>
+              <EntityId>106987009692599506</EntityId>
               <Min x="35" y="13" z="-5" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>109812834425296953</EntityId>
+              <EntityId>135713289174944177</EntityId>
               <Min x="35" y="14" z="-10" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_FlightMovementBlock">
               <SubtypeName>LargeFlightMovement</SubtypeName>
-              <EntityId>129276755623353116</EntityId>
+              <EntityId>87640082558789294</EntityId>
               <Min x="36" y="13" z="-2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1617,7 +1625,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TurretControlBlock">
               <SubtypeName>LargeTurretControlBlock</SubtypeName>
-              <EntityId>131345307956090129</EntityId>
+              <EntityId>135961059047430161</EntityId>
               <Min x="35" y="14" z="-2" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1869,25 +1877,25 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
-              <AzimuthId>96126663945907274</AzimuthId>
-              <ElevationId>92627469634722533</ElevationId>
-              <CameraId>143837037713421370</CameraId>
+              <AzimuthId>105204959845241833</AzimuthId>
+              <ElevationId>121823922542749660</ElevationId>
+              <CameraId>74680393205857544</CameraId>
               <ToolIds>
-                <long>76108455746222433</long>
-                <long>83902764110659257</long>
-                <long>79639789035016410</long>
-                <long>111013536757057567</long>
-                <long>91138497209611736</long>
-                <long>121811618115838557</long>
+                <long>139712186002519321</long>
+                <long>134129716150634294</long>
+                <long>125970337806450017</long>
+                <long>137773618956059534</long>
+                <long>98147546007748480</long>
+                <long>92132240348052578</long>
               </ToolIds>
               <VelocityMultiplierAzimuth>0.3</VelocityMultiplierAzimuth>
-              <VelocityMultiplierElevation>0.3</VelocityMultiplierElevation>
+              <VelocityMultiplierElevation>-0.3</VelocityMultiplierElevation>
               <PreviousControlledEntityId xsi:nil="true" />
               <Range>1600</Range>
               <IsCorrect>true</IsCorrect>
               <TargetingGroup>PowerSystems</TargetingGroup>
               <AngleDeviation>0.008726646</AngleDeviation>
-              <DirectionBlockId>95458522770941732</DirectionBlockId>
+              <DirectionBlockId>92339119761329670</DirectionBlockId>
               <AreWeaponsMismatched>false</AreWeaponsMismatched>
               <Toolbar>
                 <ToolbarType>Character</ToolbarType>
@@ -1903,7 +1911,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BasicMissionBlock">
               <SubtypeName>LargeBasicMission</SubtypeName>
-              <EntityId>98417852676507536</EntityId>
+              <EntityId>111750374884147958</EntityId>
               <Min x="34" y="14" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1960,7 +1968,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_JumpDrive">
               <SubtypeName>LargeJumpDrive</SubtypeName>
-              <EntityId>99970187588794955</EntityId>
+              <EntityId>77979715650647420</EntityId>
               <Min x="35" y="13" z="2" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1982,14 +1990,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Base</SubtypeName>
-              <EntityId>73650342767085770</EntityId>
+              <EntityId>141919604814533088</EntityId>
               <Min x="34" y="14" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>96220157510054430</EntityId>
+              <EntityId>95295844158499446</EntityId>
               <Min x="36" y="12" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -1997,7 +2005,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>121653863806224307</EntityId>
+              <EntityId>124567138427247261</EntityId>
               <Min x="36" y="12" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2005,7 +2013,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>121500018820089100</EntityId>
+              <EntityId>92020584270242592</EntityId>
               <Min x="36" y="12" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2013,21 +2021,21 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>116481366084650327</EntityId>
+              <EntityId>90066314843965563</EntityId>
               <Min x="38" y="14" z="1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>84458073138665647</EntityId>
+              <EntityId>107419044454977095</EntityId>
               <Min x="38" y="14" z="2" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>115201376950156557</EntityId>
+              <EntityId>97745124178890794</EntityId>
               <Min x="38" y="15" z="4" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -2035,7 +2043,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>131008657615300119</EntityId>
+              <EntityId>96012381105156502</EntityId>
               <Min x="34" y="14" z="-1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2043,7 +2051,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>82160363027382978</EntityId>
+              <EntityId>137152042262095139</EntityId>
               <Min x="36" y="16" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2051,7 +2059,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>136559732641597609</EntityId>
+              <EntityId>118070726925047642</EntityId>
               <Min x="35" y="16" z="0" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2091,7 +2099,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
               <SubtypeName>LargeBlockSmallGeneratorWarfare2</SubtypeName>
-              <EntityId>95123044318081625</EntityId>
+              <EntityId>112618267317870373</EntityId>
               <Min x="36" y="17" z="0" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2105,7 +2113,7 @@ Datapad/Datapad=0</Value>
                       <CanPutItems>true</CanPutItems>
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>99.999886</Amount>
+                          <Amount>99.998603</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -2130,7 +2138,7 @@ Datapad/Datapad=0</Value>
                       <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame100</TimerType>
-                      <FramesFromLastTrigger>200</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>300</FramesFromLastTrigger>
                       <TimerTickInFrames>900</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -2144,7 +2152,7 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>3</NumberInGrid>
               <Enabled>true</Enabled>
-              <Capacity>99.9998856</Capacity>
+              <Capacity>99.9986</Capacity>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeBlockArmorSlope2Tip</SubtypeName>
@@ -2155,7 +2163,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Reactor">
               <SubtypeName>LargeBlockSmallGeneratorWarfare2</SubtypeName>
-              <EntityId>108518679655274219</EntityId>
+              <EntityId>111959059526528109</EntityId>
               <Min x="35" y="14" z="-3" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2172,7 +2180,7 @@ Datapad/Datapad=0</Value>
                       <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame100</TimerType>
-                      <FramesFromLastTrigger>200</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>300</FramesFromLastTrigger>
                       <TimerTickInFrames>900</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -2183,7 +2191,7 @@ Datapad/Datapad=0</Value>
                       <CanPutItems>true</CanPutItems>
                       <Items>
                         <MyObjectBuilder_InventoryItem>
-                          <Amount>99.999886</Amount>
+                          <Amount>99.998603</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_Ingot">
                             <SubtypeName>Uranium</SubtypeName>
                           </PhysicalContent>
@@ -2208,7 +2216,7 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
-              <Capacity>99.9998856</Capacity>
+              <Capacity>99.9986</Capacity>
               <UseConveyorSystem>false</UseConveyorSystem>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
@@ -2227,7 +2235,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>80210687116534087</EntityId>
+              <EntityId>127567957493436280</EntityId>
               <Min x="37" y="16" z="-3" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -2235,7 +2243,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>88708106373357785</EntityId>
+              <EntityId>116814887028691625</EntityId>
               <Min x="36" y="12" z="-4" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2268,7 +2276,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>112361185893591873</EntityId>
+              <EntityId>131355798559739981</EntityId>
               <Min x="35" y="12" z="-5" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2276,7 +2284,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>123034851107982577</EntityId>
+              <EntityId>105556195268954068</EntityId>
               <Min x="36" y="13" z="-9" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2284,7 +2292,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>129755995599239686</EntityId>
+              <EntityId>80497833532231882</EntityId>
               <Min x="37" y="13" z="-9" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -2299,14 +2307,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>108877889218830166</EntityId>
+              <EntityId>122506787323759834</EntityId>
               <Min x="37" y="14" z="-9" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>96905248987572634</EntityId>
+              <EntityId>127345895679678860</EntityId>
               <Min x="36" y="15" z="-11" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2314,7 +2322,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ConveyorConnector">
               <SubtypeName>ConveyorTubeDuct</SubtypeName>
-              <EntityId>116399447981159633</EntityId>
+              <EntityId>79624829720990845</EntityId>
               <Min x="36" y="14" z="-7" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2322,7 +2330,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Gyro">
               <SubtypeName>LargeBlockGyro</SubtypeName>
-              <EntityId>111537741203436587</EntityId>
+              <EntityId>127291710790908442</EntityId>
               <Min x="36" y="13" z="-3" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2345,7 +2353,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_OxygenTank">
               <SubtypeName />
-              <EntityId>140605987326613982</EntityId>
+              <EntityId>127135058951039027</EntityId>
               <Min x="36" y="12" z="-3" />
               <BlockOrientation Forward="Right" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2377,12 +2385,12 @@ Datapad/Datapad=0</Value>
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
               <IsStockpiling>false</IsStockpiling>
-              <FilledRatio>0.9999982</FilledRatio>
+              <FilledRatio>0.9977978</FilledRatio>
               <AutoRefill>false</AutoRefill>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Beacon">
               <SubtypeName>LargeBlockBeacon</SubtypeName>
-              <EntityId>111135954402976888</EntityId>
+              <EntityId>104443504909738858</EntityId>
               <Min x="34" y="14" z="2" />
               <BlockOrientation Forward="Left" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2428,7 +2436,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>94635327149933641</EntityId>
+              <EntityId>84895953283542867</EntityId>
               <Min x="35" y="14" z="4" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2436,7 +2444,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>122273412929753889</EntityId>
+              <EntityId>113367522688242379</EntityId>
               <Min x="37" y="12" z="2" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2476,7 +2484,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>128474999871441602</EntityId>
+              <EntityId>92533455686621874</EntityId>
               <Min x="36" y="12" z="3" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2484,7 +2492,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
-              <EntityId>122107777641317085</EntityId>
+              <EntityId>81954457157846676</EntityId>
               <Min x="36" y="12" z="2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2638,7 +2646,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>101748321409553664</EntityId>
+              <EntityId>88848845672692048</EntityId>
               <Min x="36" y="13" z="4" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2660,21 +2668,21 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>89539944496872099</EntityId>
+              <EntityId>83174017626352908</EntityId>
               <Min x="38" y="14" z="-1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>129771699653908390</EntityId>
+              <EntityId>137842071853158357</EntityId>
               <Min x="38" y="14" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>99318437893153212</EntityId>
+              <EntityId>87868520324203302</EntityId>
               <Min x="36" y="14" z="4" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2689,7 +2697,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>89658903405452897</EntityId>
+              <EntityId>101794697507575535</EntityId>
               <Min x="35" y="16" z="2" />
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2722,7 +2730,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>89473298169456544</EntityId>
+              <EntityId>143332977928080414</EntityId>
               <Min x="35" y="16" z="3" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2755,7 +2763,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>116062296870955075</EntityId>
+              <EntityId>85238817886058270</EntityId>
               <Min x="37" y="16" z="2" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2802,7 +2810,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>98401033334374663</EntityId>
+              <EntityId>110644720719786063</EntityId>
               <Min x="36" y="15" z="4" />
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2824,7 +2832,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>83895684562395225</EntityId>
+              <EntityId>122502677461501684</EntityId>
               <Min x="36" y="16" z="3" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2832,7 +2840,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
-              <EntityId>98009116902653657</EntityId>
+              <EntityId>143946641029783269</EntityId>
               <Min x="36" y="16" z="2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -2986,7 +2994,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>91504701002908516</EntityId>
+              <EntityId>99469517289604870</EntityId>
               <Min x="35" y="12" z="2" />
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3019,7 +3027,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>76650365963499586</EntityId>
+              <EntityId>90318142686911207</EntityId>
               <Min x="35" y="12" z="3" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3066,7 +3074,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>77124520992864906</EntityId>
+              <EntityId>111955675798445827</EntityId>
               <Min x="36" y="17" z="-1" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3106,7 +3114,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>85805456012849662</EntityId>
+              <EntityId>136262078241504388</EntityId>
               <Min x="35" y="12" z="-1" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3139,7 +3147,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>126082139535479012</EntityId>
+              <EntityId>135613832931563633</EntityId>
               <Min x="36" y="11" z="1" />
               <BlockOrientation Forward="Down" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3172,7 +3180,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>72935988770012251</EntityId>
+              <EntityId>94689486894925093</EntityId>
               <Min x="37" y="12" z="1" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3205,7 +3213,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>109633345032991342</EntityId>
+              <EntityId>132277676610234526</EntityId>
               <Min x="35" y="12" z="1" />
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3238,7 +3246,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>103503245823924593</EntityId>
+              <EntityId>105833981411860281</EntityId>
               <Min x="36" y="11" z="-1" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3278,7 +3286,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>143935729463350088</EntityId>
+              <EntityId>141649374468552566</EntityId>
               <Min x="35" y="12" z="0" />
               <BlockOrientation Forward="Left" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3367,7 +3375,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>94537138703564475</EntityId>
+              <EntityId>94680492773342270</EntityId>
               <Min x="35" y="16" z="1" />
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3400,7 +3408,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>135923400863377325</EntityId>
+              <EntityId>76646987696695723</EntityId>
               <Min x="37" y="16" z="1" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3433,7 +3441,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>115517443350340875</EntityId>
+              <EntityId>81026950080510978</EntityId>
               <Min x="36" y="17" z="1" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3480,7 +3488,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>125954518330150668</EntityId>
+              <EntityId>120270684436268942</EntityId>
               <Min x="36" y="10" z="0" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3495,7 +3503,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>98422774561742770</EntityId>
+              <EntityId>134759477379849009</EntityId>
               <Min x="37" y="11" z="-3" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -3503,7 +3511,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>130189425570975241</EntityId>
+              <EntityId>128348451335773135</EntityId>
               <Min x="37" y="12" z="-2" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -3511,7 +3519,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>79462919263142001</EntityId>
+              <EntityId>117663636071406247</EntityId>
               <Min x="35" y="16" z="-4" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3519,7 +3527,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>137850104111291747</EntityId>
+              <EntityId>112714956541314012</EntityId>
               <Min x="36" y="13" z="-10" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3541,7 +3549,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>101593044686868007</EntityId>
+              <EntityId>105892823152812606</EntityId>
               <Min x="35" y="14" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3574,7 +3582,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>75674694994800327</EntityId>
+              <EntityId>137806763618594141</EntityId>
               <Min x="34" y="15" z="4" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3596,7 +3604,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>LargeBlockBatteryBlockWarfare2</SubtypeName>
-              <EntityId>141332303579285952</EntityId>
+              <EntityId>138357342876438464</EntityId>
               <Min x="36" y="11" z="3" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3609,7 +3617,7 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>5</NumberInGrid>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>3.99998927</CurrentStoredPower>
+              <CurrentStoredPower>3.999989</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -3618,7 +3626,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>117910373361793924</EntityId>
+              <EntityId>86691261737596728</EntityId>
               <Min x="36" y="12" z="4" />
               <BlockOrientation Forward="Left" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3626,7 +3634,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>75666537106208933</EntityId>
+              <EntityId>86302535325513354</EntityId>
               <Min x="36" y="11" z="2" />
               <BlockOrientation Forward="Down" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3659,7 +3667,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>114887593838714200</EntityId>
+              <EntityId>133465204762723809</EntityId>
               <Min x="37" y="15" z="4" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3667,7 +3675,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>87735102581655505</EntityId>
+              <EntityId>80042496974975705</EntityId>
               <Min x="36" y="13" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3700,7 +3708,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>109292959483548183</EntityId>
+              <EntityId>72113901041557367</EntityId>
               <Min x="34" y="13" z="4" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3708,7 +3716,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Tip</SubtypeName>
-              <EntityId>87118980305410316</EntityId>
+              <EntityId>134562955591075002</EntityId>
               <Min x="38" y="14" z="-2" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3716,7 +3724,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>124563955205971580</EntityId>
+              <EntityId>91590184018166877</EntityId>
               <Min x="37" y="14" z="4" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3724,7 +3732,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>121662265476646562</EntityId>
+              <EntityId>81940950723246108</EntityId>
               <Min x="36" y="14" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3792,7 +3800,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>82175688688373313</EntityId>
+              <EntityId>89002887465834714</EntityId>
               <Min x="35" y="15" z="4" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3800,7 +3808,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>92700771545512345</EntityId>
+              <EntityId>142789431006159301</EntityId>
               <Min x="37" y="13" z="4" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3808,7 +3816,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>128732835684730641</EntityId>
+              <EntityId>137812845235206931</EntityId>
               <Min x="36" y="15" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3841,7 +3849,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>122142523420842776</EntityId>
+              <EntityId>109128489673876698</EntityId>
               <Min x="36" y="16" z="4" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3849,7 +3857,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>LargeBlockBatteryBlockWarfare2</SubtypeName>
-              <EntityId>113918272419748521</EntityId>
+              <EntityId>107325175543218593</EntityId>
               <Min x="36" y="17" z="3" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3862,7 +3870,7 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>4</NumberInGrid>
               <Enabled>true</Enabled>
-              <CurrentStoredPower>3.99998927</CurrentStoredPower>
+              <CurrentStoredPower>3.999989</CurrentStoredPower>
               <ProducerEnabled>true</ProducerEnabled>
               <MaxStoredPower>0</MaxStoredPower>
               <SemiautoEnabled>false</SemiautoEnabled>
@@ -3871,7 +3879,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>107923849215201146</EntityId>
+              <EntityId>131770521799533192</EntityId>
               <Min x="36" y="17" z="2" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -3925,7 +3933,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>80697901759856573</EntityId>
+              <EntityId>80692483536232892</EntityId>
               <Min x="37" y="17" z="-1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -3954,7 +3962,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>77910819465455045</EntityId>
+              <EntityId>136725717306658734</EntityId>
               <Min x="36" y="18" z="0" />
               <BlockOrientation Forward="Right" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4018,7 +4026,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>89675431802080839</EntityId>
+              <EntityId>79737225234821086</EntityId>
               <Min x="36" y="10" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4026,7 +4034,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>99502598343778354</EntityId>
+              <EntityId>106821825646661501</EntityId>
               <Min x="37" y="18" z="0" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4034,7 +4042,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>108167123483372444</EntityId>
+              <EntityId>88843267495432207</EntityId>
               <Min x="37" y="11" z="-2" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4042,7 +4050,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>76373530101160508</EntityId>
+              <EntityId>133342797477738658</EntityId>
               <Min x="36" y="13" z="-11" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4064,7 +4072,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>141860947043064251</EntityId>
+              <EntityId>89045754798778812</EntityId>
               <Min x="35" y="15" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4097,7 +4105,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>130913557837851073</EntityId>
+              <EntityId>97869457663422341</EntityId>
               <Min x="35" y="13" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4130,7 +4138,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ShipConnector">
               <SubtypeName>Connector</SubtypeName>
-              <EntityId>89255262885689731</EntityId>
+              <EntityId>114206265272632020</EntityId>
               <Min x="34" y="14" z="4" />
               <BlockOrientation Forward="Left" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4144,7 +4152,7 @@ Datapad/Datapad=0</Value>
                     <Component xsi:type="MyObjectBuilder_Inventory">
                       <CanPutItems>true</CanPutItems>
                       <Items />
-                      <nextItemId>0</nextItemId>
+                      <nextItemId>1</nextItemId>
                       <Volume>8</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -4162,7 +4170,7 @@ Datapad/Datapad=0</Value>
                       <TimerEnabled>true</TimerEnabled>
                       <RemoveEntityOnTimer>false</RemoveEntityOnTimer>
                       <TimerType>Frame10</TimerType>
-                      <FramesFromLastTrigger>10</FramesFromLastTrigger>
+                      <FramesFromLastTrigger>50</FramesFromLastTrigger>
                       <TimerTickInFrames>80</TimerTickInFrames>
                       <IsSessionUpdateEnabled>false</IsSessionUpdateEnabled>
                     </Component>
@@ -4189,7 +4197,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>73766970524544270</EntityId>
+              <EntityId>87465343036328947</EntityId>
               <Min x="34" y="14" z="-2" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4197,7 +4205,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>LargeBlockConveyor</SubtypeName>
-              <EntityId>136732523631334224</EntityId>
+              <EntityId>76864625482540214</EntityId>
               <Min x="35" y="13" z="4" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4205,7 +4213,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
-              <EntityId>128229526793254196</EntityId>
+              <EntityId>86528533054180563</EntityId>
               <Min x="36" y="11" z="4" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4367,7 +4375,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>107736418224678985</EntityId>
+              <EntityId>129082693278881308</EntityId>
               <Min x="37" y="17" z="5" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4375,7 +4383,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>106606139596931419</EntityId>
+              <EntityId>85321570149747731</EntityId>
               <Min x="36" y="12" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4408,7 +4416,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>126756989108640035</EntityId>
+              <EntityId>87013175276117816</EntityId>
               <Min x="37" y="13" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4441,7 +4449,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>138481147605287892</EntityId>
+              <EntityId>143421515179556593</EntityId>
               <Min x="36" y="21" z="2" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4449,7 +4457,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>83435799972946406</EntityId>
+              <EntityId>125440208245155672</EntityId>
               <Min x="36" y="7" z="2" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4457,7 +4465,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>137020282192832341</EntityId>
+              <EntityId>85841753279934298</EntityId>
               <Min x="37" y="14" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4497,7 +4505,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedPanelTipLight</SubtypeName>
-              <EntityId>95538703058832379</EntityId>
+              <EntityId>137807618949503516</EntityId>
               <Min x="35" y="16" z="5" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4505,7 +4513,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>127159235682626022</EntityId>
+              <EntityId>135978986858465441</EntityId>
               <Min x="37" y="15" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4538,7 +4546,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>91048138054438678</EntityId>
+              <EntityId>113647852365867342</EntityId>
               <Min x="36" y="16" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4571,7 +4579,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>109848028382629424</EntityId>
+              <EntityId>81780559612804834</EntityId>
               <Min x="37" y="11" z="4" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4579,7 +4587,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CargoContainer">
               <SubtypeName>LargeBlockSmallContainer</SubtypeName>
-              <EntityId>111518908850152220</EntityId>
+              <EntityId>89332804006230221</EntityId>
               <Min x="36" y="17" z="4" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4748,7 +4756,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedPanelTipLight</SubtypeName>
-              <EntityId>137772824920914894</EntityId>
+              <EntityId>140092119804806653</EntityId>
               <Min x="35" y="12" z="5" />
               <BlockOrientation Forward="Down" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4756,7 +4764,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>119996958816911588</EntityId>
+              <EntityId>114440712314723531</EntityId>
               <Min x="37" y="10" z="0" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4764,7 +4772,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>126429976840464712</EntityId>
+              <EntityId>143714237003088454</EntityId>
               <Min x="36" y="18" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4772,7 +4780,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>109335444916059235</EntityId>
+              <EntityId>131626400069887397</EntityId>
               <Min x="38" y="13" z="4" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4780,7 +4788,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>76210843800876931</EntityId>
+              <EntityId>109819178845732780</EntityId>
               <Min x="37" y="10" z="1" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4788,7 +4796,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>103404509270864933</EntityId>
+              <EntityId>126220835522018829</EntityId>
               <Min x="34" y="15" z="5" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4796,7 +4804,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>78718055140179192</EntityId>
+              <EntityId>101875951913810465</EntityId>
               <Min x="34" y="13" z="5" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4804,7 +4812,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_LargeGatlingTurret">
               <SubtypeName />
-              <EntityId>112561282772465978</EntityId>
+              <EntityId>125675804259955974</EntityId>
               <Min x="35" y="8" z="3" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4887,7 +4895,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>83555770752664379</EntityId>
+              <EntityId>100343575279594697</EntityId>
               <Min x="36" y="11" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4920,7 +4928,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>128438252230005082</EntityId>
+              <EntityId>137533551607320251</EntityId>
               <Min x="37" y="11" z="5" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4928,7 +4936,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedPanelTipLight</SubtypeName>
-              <EntityId>89529270917646157</EntityId>
+              <EntityId>93553764850598116</EntityId>
               <Min x="37" y="12" z="5" />
               <BlockOrientation Forward="Down" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4936,7 +4944,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>131768376360314271</EntityId>
+              <EntityId>122196837167937173</EntityId>
               <Min x="38" y="13" z="5" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4944,7 +4952,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>91353715331092452</EntityId>
+              <EntityId>91909709222076480</EntityId>
               <Min x="38" y="15" z="5" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -4952,7 +4960,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedPanelTipLight</SubtypeName>
-              <EntityId>124455837863739923</EntityId>
+              <EntityId>98817160490113750</EntityId>
               <Min x="37" y="16" z="5" />
               <BlockOrientation Forward="Up" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4960,7 +4968,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Thrust">
               <SubtypeName>LargeBlockSmallHydrogenThrust</SubtypeName>
-              <EntityId>76220182332053424</EntityId>
+              <EntityId>108778170609601996</EntityId>
               <Min x="36" y="17" z="5" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -4993,7 +5001,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>136029668976544580</EntityId>
+              <EntityId>125858260239665952</EntityId>
               <Min x="37" y="17" z="4" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5001,7 +5009,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_LargeGatlingTurret">
               <SubtypeName />
-              <EntityId>93855502673083644</EntityId>
+              <EntityId>131491727979098332</EntityId>
               <Min x="35" y="18" z="3" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
@@ -5083,7 +5091,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>138881490761215107</EntityId>
+              <EntityId>75777953974365625</EntityId>
               <Min x="37" y="18" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5091,7 +5099,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>100689446112962667</EntityId>
+              <EntityId>100547734845827542</EntityId>
               <Min x="37" y="19" z="1" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
@@ -5105,7 +5113,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>133667950376914624</EntityId>
+              <EntityId>88252180957506781</EntityId>
               <Min x="38" y="12" z="5" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5113,7 +5121,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>132751853243522975</EntityId>
+              <EntityId>99560752112214043</EntityId>
               <Min x="38" y="16" z="5" />
               <BlockOrientation Forward="Backward" Up="Right" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5128,7 +5136,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>85052820458888905</EntityId>
+              <EntityId>127708286265860794</EntityId>
               <Min x="37" y="9" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5136,7 +5144,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>122537365191707358</EntityId>
+              <EntityId>141842152902041150</EntityId>
               <Min x="36" y="19" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5144,7 +5152,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>104815752092643351</EntityId>
+              <EntityId>106040779114040651</EntityId>
               <Min x="37" y="20" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5152,7 +5160,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>98091336879826193</EntityId>
+              <EntityId>110917631429623924</EntityId>
               <Min x="37" y="19" z="2" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5160,7 +5168,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>73314471753478864</EntityId>
+              <EntityId>128325610527838024</EntityId>
               <Min x="37" y="9" z="2" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5168,35 +5176,35 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>123637795474191839</EntityId>
+              <EntityId>73033555660945511</EntityId>
               <Min x="36" y="9" z="1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>134775146762769964</EntityId>
+              <EntityId>80650181505487656</EntityId>
               <Min x="37" y="8" z="1" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>94317104699603049</EntityId>
+              <EntityId>137711654938382249</EntityId>
               <Min x="36" y="19" z="2" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>81924148112796781</EntityId>
+              <EntityId>85138294366127764</EntityId>
               <Min x="36" y="20" z="1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>122990628360930283</EntityId>
+              <EntityId>112787773096961413</EntityId>
               <Min x="37" y="20" z="2" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5204,7 +5212,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>108420801353415213</EntityId>
+              <EntityId>87783197703373244</EntityId>
               <Min x="37" y="21" z="1" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5212,7 +5220,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>120984328828901907</EntityId>
+              <EntityId>81493460688116144</EntityId>
               <Min x="37" y="16" z="4" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5220,7 +5228,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>122887422795295973</EntityId>
+              <EntityId>97429915153050063</EntityId>
               <Min x="38" y="12" z="4" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5228,7 +5236,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>77885738045192563</EntityId>
+              <EntityId>80308412023656549</EntityId>
               <Min x="36" y="9" z="2" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5236,7 +5244,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>89044116360661827</EntityId>
+              <EntityId>132430559954996223</EntityId>
               <Min x="37" y="8" z="2" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5244,7 +5252,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>73460369968777898</EntityId>
+              <EntityId>109291059492665486</EntityId>
               <Min x="36" y="8" z="1" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5252,7 +5260,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>97942162146417429</EntityId>
+              <EntityId>144032180182338692</EntityId>
               <Min x="37" y="7" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5260,7 +5268,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>96261076584484422</EntityId>
+              <EntityId>121020736759900967</EntityId>
               <Min x="36" y="20" z="2" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5268,7 +5276,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>118711859093489222</EntityId>
+              <EntityId>90528289116380924</EntityId>
               <Min x="36" y="20" z="0" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5276,7 +5284,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>93865886042412655</EntityId>
+              <EntityId>75893739730271187</EntityId>
               <Min x="36" y="21" z="1" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5284,7 +5292,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>114116590880892853</EntityId>
+              <EntityId>105243405214229963</EntityId>
               <Min x="37" y="21" z="0" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5292,7 +5300,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>93680406496701615</EntityId>
+              <EntityId>143495566991355148</EntityId>
               <Min x="37" y="12" z="4" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5300,7 +5308,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>93014380353073013</EntityId>
+              <EntityId>72534093895487242</EntityId>
               <Min x="38" y="16" z="4" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5308,7 +5316,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>77037140637694390</EntityId>
+              <EntityId>118423346636631050</EntityId>
               <Min x="36" y="8" z="2" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5316,14 +5324,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>139618790181047168</EntityId>
+              <EntityId>76251357194873246</EntityId>
               <Min x="36" y="8" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>123370811210896944</EntityId>
+              <EntityId>133991164495175017</EntityId>
               <Min x="36" y="7" z="1" />
               <BlockOrientation Forward="Down" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5331,14 +5339,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>99152347295737993</EntityId>
+              <EntityId>125617975720653182</EntityId>
               <Min x="37" y="7" z="0" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>103171800465676765</EntityId>
+              <EntityId>135512070714874147</EntityId>
               <Min x="36" y="21" z="0" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5346,7 +5354,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>LargeBlockLight_1corner</SubtypeName>
-              <EntityId>81210048194730843</EntityId>
+              <EntityId>100884102627710536</EntityId>
               <Min x="37" y="22" z="0" />
               <BlockOrientation Forward="Right" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5371,14 +5379,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>89201812860180927</EntityId>
+              <EntityId>118201811098904769</EntityId>
               <Min x="36" y="7" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>LargeBlockLight_1corner</SubtypeName>
-              <EntityId>90980719437912578</EntityId>
+              <EntityId>118079296975101135</EntityId>
               <Min x="37" y="6" z="0" />
               <BlockOrientation Forward="Right" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5403,7 +5411,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>LargeBlockLight_1corner</SubtypeName>
-              <EntityId>118565211260745130</EntityId>
+              <EntityId>113268571264459562</EntityId>
               <Min x="36" y="22" z="0" />
               <BlockOrientation Forward="Up" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5428,7 +5436,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>LargeBlockLight_1corner</SubtypeName>
-              <EntityId>108908238367809832</EntityId>
+              <EntityId>105923022133293755</EntityId>
               <Min x="36" y="6" z="0" />
               <BlockOrientation Forward="Down" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5453,14 +5461,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Tip</SubtypeName>
-              <EntityId>120718029160433479</EntityId>
+              <EntityId>85283534471894858</EntityId>
               <Min x="34" y="14" z="-3" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_LandingGear">
               <SubtypeName>LargeBlockSmallMagneticPlate</SubtypeName>
-              <EntityId>109202436609224668</EntityId>
+              <EntityId>131777461377940021</EntityId>
               <Min x="33" y="14" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5488,7 +5496,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope</SubtypeName>
-              <EntityId>144024588511058071</EntityId>
+              <EntityId>142159128626808114</EntityId>
               <Min x="34" y="14" z="5" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5496,21 +5504,21 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>140173313033385076</EntityId>
+              <EntityId>113777624169799958</EntityId>
               <Min x="38" y="14" z="3" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalf</SubtypeName>
-              <EntityId>132245009594285079</EntityId>
+              <EntityId>101728041585898212</EntityId>
               <Min x="38" y="14" z="4" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockSlope2x1Tip</SubtypeName>
-              <EntityId>115979266391733704</EntityId>
+              <EntityId>76960949627796469</EntityId>
               <Min x="38" y="14" z="5" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5518,7 +5526,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallMissileLauncher">
               <SubtypeName>LargeBlockLargeCalibreGun</SubtypeName>
-              <EntityId>102137809269613662</EntityId>
+              <EntityId>79390160448979613</EntityId>
               <Min x="36" y="15" z="-7" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
@@ -5575,7 +5583,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallMissileLauncher">
               <SubtypeName>LargeBlockLargeCalibreGun</SubtypeName>
-              <EntityId>77681081506763719</EntityId>
+              <EntityId>76198305606077214</EntityId>
               <Min x="36" y="13" z="-7" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5633,7 +5641,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>144062169062022206</EntityId>
+              <EntityId>120030100073895205</EntityId>
               <Min x="37" y="15" z="-7" />
               <BlockOrientation Forward="Backward" Up="Up" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5641,7 +5649,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>143481966633440706</EntityId>
+              <EntityId>127378322193986524</EntityId>
               <Min x="37" y="13" z="-7" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5649,14 +5657,14 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeGridBeamBlockHalfSlope</SubtypeName>
-              <EntityId>92906915731023767</EntityId>
+              <EntityId>112991304423208527</EntityId>
               <Min x="37" y="14" z="-11" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>90812898278675729</EntityId>
+              <EntityId>88346060229455447</EntityId>
               <Min x="35" y="14" z="-9" />
               <BlockOrientation Forward="Up" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5664,7 +5672,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>101630642541869282</EntityId>
+              <EntityId>131339040083027501</EntityId>
               <Min x="36" y="18" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5672,21 +5680,21 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>109148521270928101</EntityId>
+              <EntityId>96084773810434136</EntityId>
               <Min x="36" y="10" z="1" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>109517570270138773</EntityId>
+              <EntityId>143811561775659334</EntityId>
               <Min x="36" y="10" z="2" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>137765380406593617</EntityId>
+              <EntityId>108816628092595140</EntityId>
               <Min x="36" y="18" z="2" />
               <BlockOrientation Forward="Backward" Up="Down" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5694,7 +5702,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>135691556207267347</EntityId>
+              <EntityId>108233999445407225</EntityId>
               <Min x="38" y="16" z="3" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5702,7 +5710,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>88335818423846078</EntityId>
+              <EntityId>90306328341949348</EntityId>
               <Min x="38" y="12" z="3" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5710,7 +5718,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLightInv</SubtypeName>
-              <EntityId>83282526650098962</EntityId>
+              <EntityId>100974349557412824</EntityId>
               <Min x="38" y="16" z="2" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5718,7 +5726,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideTipPanelLight</SubtypeName>
-              <EntityId>120532399877116723</EntityId>
+              <EntityId>74946559740579879</EntityId>
               <Min x="38" y="12" z="2" />
               <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0.575" y="0" z="0" />
@@ -5726,7 +5734,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SoundBlock">
               <SubtypeName>LargeBlockSoundBlock</SubtypeName>
-              <EntityId>88819171550563015</EntityId>
+              <EntityId>128534310816295821</EntityId>
               <Min x="35" y="14" z="-6" />
               <BlockOrientation Forward="Left" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5749,7 +5757,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallMissileLauncher">
               <SubtypeName>LargeMissileLauncher</SubtypeName>
-              <EntityId>91800446072716281</EntityId>
+              <EntityId>96428047569407470</EntityId>
               <Min x="36" y="14" z="-9" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5765,13 +5773,13 @@ Datapad/Datapad=0</Value>
                         <MyObjectBuilder_InventoryItem>
                           <Amount>19</Amount>
                           <PhysicalContent xsi:type="MyObjectBuilder_AmmoMagazine">
-                            <SubtypeName>Missile_GS200mm</SubtypeName>
+                            <SubtypeName>Missile200mm</SubtypeName>
                             <ProjectilesCount>0</ProjectilesCount>
                           </PhysicalContent>
-                          <ItemId>0</ItemId>
+                          <ItemId>1</ItemId>
                         </MyObjectBuilder_InventoryItem>
                       </Items>
-                      <nextItemId>1</nextItemId>
+                      <nextItemId>2</nextItemId>
                       <Volume>1.14</Volume>
                       <Mass>9223372036854.775807</Mass>
                       <MaxItemCount>2147483647</MaxItemCount>
@@ -5798,16 +5806,17 @@ Datapad/Datapad=0</Value>
               <GunBase>
                 <RemainingAmmo>1</RemainingAmmo>
                 <RemainingMagazines>19</RemainingMagazines>
-                <CurrentAmmoMagazineName>Missile_GS200mm</CurrentAmmoMagazineName>
+                <CurrentAmmoMagazineName>Missile200mm</CurrentAmmoMagazineName>
                 <RemainingAmmosList>
-                  <RemainingAmmoIns SubtypeName="Missile200mm" Amount="1" />
+                  <RemainingAmmoIns SubtypeName="Missile200mm" Amount="0" />
+                  <RemainingAmmoIns SubtypeName="Missile_GS200mm" Amount="0" />
                 </RemainingAmmosList>
-                <LastShootTime>638629533014016916</LastShootTime>
+                <LastShootTime>638634091578091863</LastShootTime>
               </GunBase>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLight</SubtypeName>
-              <EntityId>87555201348801967</EntityId>
+              <EntityId>114966177831815416</EntityId>
               <Min x="36" y="11" z="-4" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5815,7 +5824,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmor2x1SlopedSideBasePanelLightInv</SubtypeName>
-              <EntityId>80116430088843279</EntityId>
+              <EntityId>97871710916059434</EntityId>
               <Min x="36" y="17" z="-4" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5823,7 +5832,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>140354278155548134</EntityId>
+              <EntityId>86626181869817550</EntityId>
               <Min x="36" y="11" z="-2" />
               <BlockOrientation Forward="Left" Up="Backward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5831,7 +5840,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorSlopedSidePanelLight</SubtypeName>
-              <EntityId>91557922290311959</EntityId>
+              <EntityId>85531094679489185</EntityId>
               <Min x="36" y="17" z="-2" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5839,7 +5848,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>130399050810357151</EntityId>
+              <EntityId>81126233249876573</EntityId>
               <Min x="36" y="11" z="-3" />
               <BlockOrientation Forward="Forward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -5847,14 +5856,13 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>LargeArmorPanelLight</SubtypeName>
-              <EntityId>143463282440609180</EntityId>
+              <EntityId>140341171818039799</EntityId>
               <Min x="36" y="17" z="-3" />
               <BlockOrientation Forward="Backward" Up="Left" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
-          <YMirroxPlane x="37" y="14" z="4" />
           <ConveyorLines>
             <MyObjectBuilder_ConveyorLine>
               <StartPosition x="36" y="16" z="-4" />
@@ -6581,24 +6589,24 @@ Datapad/Datapad=0</Value>
           <CreatePhysics>false</CreatePhysics>
           <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
           <IsRespawnGrid>false</IsRespawnGrid>
-          <LocalCoordSys>892</LocalCoordSys>
+          <LocalCoordSys>916</LocalCoordSys>
           <TargetingTargets />
           <NPCGridClaimElapsed xsi:nil="true" />
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>74971274334122206</EntityId>
+          <EntityId>122626309159618034</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
-          <Name>74971274334122206</Name>
+          <Name>122626309159618034</Name>
           <PositionAndOrientation>
-            <Position x="93.796916961669922" y="8.8604698181152344" z="10.241213798522949" />
-            <Forward x="0.949804246" y="0.08499572" z="-0.301077276" />
-            <Up x="0.237377137" y="0.431058228" z="0.8705405" />
+            <Position x="-34.955291748046875" y="87.397811889648438" z="-10.9998779296875" />
+            <Forward x="0.000131249428" y="0.9998691" z="-0.01617387" />
+            <Up x="-0.9999938" y="7.492304E-05" z="-0.00348904729" />
             <Orientation>
-              <X>0.343379736</X>
-              <Y>-0.481198221</Y>
-              <Z>-0.408119172</Z>
-              <W>0.69568485</W>
+              <X>0.4950414</X>
+              <Y>-0.49683708</Y>
+              <Z>0.504872859</Z>
+              <W>0.5031802</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -6606,15 +6614,15 @@ Datapad/Datapad=0</Value>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorAdvancedRotor">
               <SubtypeName>LargeHingeHead</SubtypeName>
-              <EntityId>72569325295186490</EntityId>
+              <EntityId>144070858323637195</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
-              <ParentEntityId>93887991447457303</ParentEntityId>
+              <ParentEntityId>116139143630754629</ParentEntityId>
               <YieldLastComponent>false</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorAdvancedStator">
               <SubtypeName>LargeHinge</SubtypeName>
-              <EntityId>96126663945907274</EntityId>
+              <EntityId>105204959845241833</EntityId>
               <Min x="-1" y="0" z="0" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6627,15 +6635,15 @@ Datapad/Datapad=0</Value>
               <ShowInInventory>true</ShowInInventory>
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
-              <TopBlockId>74938938796153891</TopBlockId>
-              <ShareInertiaTensor>false</ShareInertiaTensor>
+              <TopBlockId>133918115754768724</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
               <SafetyDetach>5</SafetyDetach>
               <RotorEntityId xsi:nil="true" />
               <WeldedEntityId xsi:nil="true" />
               <TargetVelocity>0</TargetVelocity>
-              <MinAngle>-1.57079637</MinAngle>
-              <MaxAngle>1.57079637</MaxAngle>
-              <CurrentAngle>0.000488483231</CurrentAngle>
+              <MinAngle>-1.30899692</MinAngle>
+              <MaxAngle>1.30899692</MaxAngle>
+              <CurrentAngle>0.00235078018</CurrentAngle>
               <LimitsActive>true</LimitsActive>
               <RotorLock>false</RotorLock>
               <Torque>3.36E+07</Torque>
@@ -6663,18 +6671,18 @@ Datapad/Datapad=0</Value>
         </CubeGrid>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>140506621001150954</EntityId>
+          <EntityId>97743155286602226</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
-          <Name>140506621001150954</Name>
+          <Name>97743155286602226</Name>
           <PositionAndOrientation>
-            <Position x="93.287479400634766" y="11.10624885559082" z="9.26810359954834" />
-            <Forward x="-0.237277627" y="-0.431497067" z="-0.8703503" />
-            <Up x="0.9498043" y="0.0849952" z="-0.301077038" />
+            <Position x="-34.946571350097656" y="87.357376098632813" z="-13.499542236328125" />
+            <Forward x="0.999983" y="-3.620796E-05" z="0.005839765" />
+            <Up x="0.000130654313" y="0.999869168" z="-0.0161739048" />
             <Orientation>
-              <X>-0.249270931</X>
-              <Y>-0.05185424</Y>
-              <Z>-0.6287817</Z>
-              <W>0.7347168</W>
+              <X>-0.005748135</X>
+              <Y>-0.7091451</Y>
+              <Z>0.005689137</Z>
+              <W>0.705016136</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -6682,36 +6690,36 @@ Datapad/Datapad=0</Value>
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorAdvancedRotor">
               <SubtypeName>SmallHingeHead</SubtypeName>
-              <EntityId>74938938796153891</EntityId>
+              <EntityId>133918115754768724</EntityId>
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
-              <ParentEntityId>81539963823487975</ParentEntityId>
+              <ParentEntityId>90125004680584907</ParentEntityId>
               <YieldLastComponent>true</YieldLastComponent>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>SmallBlockConveyor</SubtypeName>
-              <EntityId>102894996881933862</EntityId>
+              <EntityId>131684309390516782</EntityId>
               <Min x="-1" y="0" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>SmallBlockConveyor</SubtypeName>
-              <EntityId>140515641501885605</EntityId>
+              <EntityId>92801304927233560</EntityId>
               <Min x="-1" y="-1" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Conveyor">
               <SubtypeName>SmallBlockConveyor</SubtypeName>
-              <EntityId>113281008556281194</EntityId>
+              <EntityId>136245611451555159</EntityId>
               <Min x="-1" y="1" z="0" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
               <SkinSubtypeId>Weldless</SkinSubtypeId>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>94851925664163602</EntityId>
+              <EntityId>96598148568991405</EntityId>
               <Min x="0" y="1" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6725,7 +6733,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorSide</SubtypeName>
-              <EntityId>114471293531286076</EntityId>
+              <EntityId>74080627104611113</EntityId>
               <Min x="0" y="-1" z="0" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6765,7 +6773,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
               <SubtypeName>SmallBlockAutocannon</SubtypeName>
-              <EntityId>91138497209611736</EntityId>
+              <EntityId>98147546007748480</EntityId>
               <Min x="-5" y="1" z="1" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6820,7 +6828,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
               <SubtypeName>SmallBlockAutocannon</SubtypeName>
-              <EntityId>111013536757057567</EntityId>
+              <EntityId>137773618956059534</EntityId>
               <Min x="-5" y="0" z="1" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6875,7 +6883,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
               <SubtypeName>SmallBlockAutocannon</SubtypeName>
-              <EntityId>79639789035016410</EntityId>
+              <EntityId>125970337806450017</EntityId>
               <Min x="-5" y="-1" z="1" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6930,7 +6938,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
               <SubtypeName>SmallBlockAutocannon</SubtypeName>
-              <EntityId>83902764110659257</EntityId>
+              <EntityId>134129716150634294</EntityId>
               <Min x="-5" y="1" z="-1" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -6985,7 +6993,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
               <SubtypeName>SmallBlockAutocannon</SubtypeName>
-              <EntityId>121811618115838557</EntityId>
+              <EntityId>92132240348052578</EntityId>
               <Min x="-5" y="0" z="-1" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7040,7 +7048,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
               <SubtypeName>SmallBlockAutocannon</SubtypeName>
-              <EntityId>76108455746222433</EntityId>
+              <EntityId>139712186002519321</EntityId>
               <Min x="-5" y="-1" z="-1" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7095,7 +7103,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorCenter</SubtypeName>
-              <EntityId>111402657405756079</EntityId>
+              <EntityId>72424712474297509</EntityId>
               <Min x="0" y="1" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7103,7 +7111,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorCenter</SubtypeName>
-              <EntityId>83265343318267453</EntityId>
+              <EntityId>139033770466172968</EntityId>
               <Min x="0" y="0" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7111,7 +7119,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorCenter</SubtypeName>
-              <EntityId>78114889700733043</EntityId>
+              <EntityId>110259489501185278</EntityId>
               <Min x="0" y="-1" z="1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7119,7 +7127,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorCenter</SubtypeName>
-              <EntityId>89508273006603220</EntityId>
+              <EntityId>127280992076705550</EntityId>
               <Min x="0" y="1" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7127,7 +7135,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorCenter</SubtypeName>
-              <EntityId>89550549568140790</EntityId>
+              <EntityId>93863160813143958</EntityId>
               <Min x="0" y="0" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7135,7 +7143,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
               <SubtypeName>SmallArmorCenter</SubtypeName>
-              <EntityId>93685418253993435</EntityId>
+              <EntityId>87560450861050437</EntityId>
               <Min x="0" y="-1" z="-1" />
               <BlockOrientation Forward="Forward" Up="Right" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7317,7 +7325,7 @@ Datapad/Datapad=0</Value>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CameraBlock">
               <SubtypeName>SmallCameraBlock</SubtypeName>
-              <EntityId>143837037713421370</EntityId>
+              <EntityId>74680393205857544</EntityId>
               <Min x="-4" y="0" z="0" />
               <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="-0.3" />
@@ -7331,10 +7339,9 @@ Datapad/Datapad=0</Value>
               <NumberInGrid>1</NumberInGrid>
               <Enabled>true</Enabled>
               <IsActive>false</IsActive>
-              <Fov>1.74532926</Fov>
+              <Fov>1.04719758</Fov>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
-          <ZMirroxPlane x="-3" y="0" z="0" />
           <ConveyorLines>
             <MyObjectBuilder_ConveyorLine>
               <StartPosition x="0" y="0" z="0" />

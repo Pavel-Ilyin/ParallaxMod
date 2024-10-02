@@ -19,10 +19,6 @@
             <PhysicalMaterial>Ammo</PhysicalMaterial>
             <Capacity>1</Capacity>
             <AmmoDefinitionId Subtype="Missile_GS"/>
-            <!--MinimumOfferAmount>50</MinimumOfferAmount>
-            <MaximumOfferAmount>500</MaximumOfferAmount>
-            <MinimumOrderAmount>100</MinimumOrderAmount>
-            <MaximumOrderAmount>2000</MaximumOrderAmount-->
             <CanPlayerOrder>true</CanPlayerOrder>
         </AmmoMagazine>
     </AmmoMagazines>

@@ -125,14 +125,29 @@
     <Blueprint>
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>Polaris_R1-M2</SubtypeId>
+        <SubtypeId>Polaris_R1-A4</SubtypeId>
       </Id>
       <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
-      <Icon>Textures\Prefabs\Polaris_R1-M2.png</Icon>
+      <Icon>Textures\Prefabs\Polaris_R1-A4.png</Icon>
       <Prerequisites>
         <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
       </Prerequisites>
-      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_R1-M2" />
+      <Result Amount="1" TypeId="Component" SubtypeId="Polaris_R1-A4" />
+      <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+      <IsPrimary>true</IsPrimary>
+    </Blueprint>
+    
+    <Blueprint>
+      <Id>
+        <TypeId>BlueprintDefinition</TypeId>
+        <SubtypeId>Truck_H-J2-lc10</SubtypeId>
+      </Id>
+      <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
+      <Icon>Textures\Prefabs\Truck_H-J2-lc10.png</Icon>
+      <Prerequisites>
+        <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
+      </Prerequisites>
+      <Result Amount="1" TypeId="Component" SubtypeId="Truck_H-J2-lc10" />
       <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
       <IsPrimary>true</IsPrimary>
     </Blueprint>
