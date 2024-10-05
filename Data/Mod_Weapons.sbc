@@ -156,7 +156,7 @@
                 <TypeId>WeaponDefinition</TypeId>
                 <SubtypeId>LargeGatlingTurret</SubtypeId>
             </Id>
-            <ProjectileAmmoData RateOfFire="2400" ShootSoundName="WepGatlingTurretShot" ShotsInBurst="60"/>
+            <ProjectileAmmoData RateOfFire="2600" ShootSoundName="WepGatlingTurretShot" ShotsInBurst="80"/>
             <ReleaseTimeAfterFire>20</ReleaseTimeAfterFire>
             <DeviateShotAngle>0.15</DeviateShotAngle>
             <DeviateShotAngleAiming>0.15</DeviateShotAngleAiming>
@@ -273,7 +273,7 @@
                 <TypeId>WeaponDefinition</TypeId>
                 <SubtypeId>AutocannonTurret</SubtypeId>
             </Id>
-            <ProjectileAmmoData RateOfFire="180" ShootSoundName="WepShipAutocannonShot" ShotsInBurst="16"/>
+            <ProjectileAmmoData RateOfFire="120" ShootSoundName="WepShipAutocannonShot" ShotsInBurst="16"/>
             <ReleaseTimeAfterFire>204</ReleaseTimeAfterFire>
             <DeviateShotAngle>0.25</DeviateShotAngle>
             <DeviateShotAngleAiming>0.25</DeviateShotAngleAiming>

@@ -213,10 +213,10 @@
             <Public>false</Public>
             <Id>
                 <TypeId>Component</TypeId>
-                <SubtypeId>Truck_H-J2-lc10</SubtypeId>
+                <SubtypeId>Truck_H-J1-lc10</SubtypeId>
             </Id>
-            <DisplayName>Truck_H-J2-lc10</DisplayName>
-            <Icon>Textures\Prefabs\Truck_H-J2-lc10.png</Icon>
+            <DisplayName>Truck_H-J1-lc10</DisplayName>
+            <Icon>Textures\Prefabs\Truck_H-J1-lc10.png</Icon>
             <Size>
                 <X>0.2</X>
                 <Y>0.1</Y>

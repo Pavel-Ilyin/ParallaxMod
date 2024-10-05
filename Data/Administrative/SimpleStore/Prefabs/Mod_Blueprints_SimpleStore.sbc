@@ -140,14 +140,14 @@
     <Blueprint>
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>Truck_H-J2-lc10</SubtypeId>
+        <SubtypeId>Truck_H-J1-lc10</SubtypeId>
       </Id>
       <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
-      <Icon>Textures\Prefabs\Truck_H-J2-lc10.png</Icon>
+      <Icon>Textures\Prefabs\Truck_H-J1-lc10.png</Icon>
       <Prerequisites>
         <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
       </Prerequisites>
-      <Result Amount="1" TypeId="Component" SubtypeId="Truck_H-J2-lc10" />
+      <Result Amount="1" TypeId="Component" SubtypeId="Truck_H-J1-lc10" />
       <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
       <IsPrimary>true</IsPrimary>
     </Blueprint>
