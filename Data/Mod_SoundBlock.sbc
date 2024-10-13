@@ -19,6 +19,21 @@
         <SoundDesc Id= "Music_community_008" SoundName= "Linkin Park - Faint" />
         <SoundDesc Id= "Music_community_009" SoundName= "Hans Zimmer - Time" />
         <SoundDesc Id= "Music_community_010" SoundName= "AP$ENT - Можно я с тобой" />
+        <SoundDesc Id= "Music_community_011" SoundName= "Highfleet OST -  Tanc A Lelek" />
+        <SoundDesc Id= "Music_community_012" SoundName= "OneRepublic - All The Right Moves" />
+        <SoundDesc Id= "Music_community_013" SoundName= "Bullet Catcher - Alec Koff" />
+        <SoundDesc Id= "Music_community_014" SoundName= "Red Hot Chili Peppers - Can't Stop" />
+        <SoundDesc Id= "Music_community_015" SoundName= "Future - Eqwillus" />
+        <SoundDesc Id= "Music_community_016" SoundName= "AC_DC - Highway To Hell" />
+        <SoundDesc Id= "Music_community_017" SoundName= "Ray Charles - Hit the Road Jack" />
+        <SoundDesc Id= "Music_community_018" SoundName= "Dr_Alban - Its My Life" />
+        <SoundDesc Id= "Music_community_019" SoundName= "The Cardigans - My Favourite Game" />
+        <SoundDesc Id= "Music_community_020" SoundName= "Scatman John - Scatman" />
+        <SoundDesc Id= "Music_community_021" SoundName= "Bee Gees - Stayin Alive" />
+        <SoundDesc Id= "Music_community_022" SoundName= "Europe - The Final Countdown" />
+        <SoundDesc Id= "Music_community_023" SoundName= "Eminem - Without Me" />
+        <SoundDesc Id= "Music_community_024" SoundName= "The Cranberries - Zombie" />
+        <SoundDesc Id= "Music_community_025" SoundName= "Radio Tapok - Гвардия петра" />
 	  
 		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
         <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />
@@ -32,6 +47,11 @@
 		<SoundDesc Id= "Rock_09" SoundName= "Scorpions - Wind Of Change" />
 		<SoundDesc Id= "Rock_10" SoundName= "VNV Nation - Illusion" />
         <SoundDesc Id= "Rock_11" SoundName= "Moby - Flower" />
+        <SoundDesc Id= "Rock_12" SoundName= "PAIN - Shut Your Mouth" />
+        <SoundDesc Id= "Rock_13" SoundName= "Queen - I Want To Break Free" />
+        <SoundDesc Id= "Rock_14" SoundName= "The Animals - The House Of The Rising Sun" />
+        <SoundDesc Id= "Rock_15" SoundName= "Nickelback - We Will Rock You" />
+        <SoundDesc Id= "Rock_16" SoundName= "Survivor - Eye of the Tiger" />
 
         <SoundDesc Id= "" SoundName= "Green_ya--------------------------------" />
         <SoundDesc Id= "Green_ya_001" SoundName= "Хранитель" />
@@ -85,6 +105,8 @@
         <SoundDesc Id= "PARALLAX_042" SoundName= "Monocherry - On the Nature of Daylight" />
         <SoundDesc Id= "PARALLAX_043" SoundName= "MAILKY - Flawless" />
         <SoundDesc Id= "PARALLAX_044" SoundName= "Sub Focus, Wilkinson - Stratus" />
+        <SoundDesc Id= "PARALLAX_045" SoundName= "Ooyy - Kenji" />
+        <SoundDesc Id= "PARALLAX_046" SoundName= "Steve Levi - Journey" />
 		
 		<SoundDesc Id= "" SoundName= "Pirate wave-----------------------------" />
 		<SoundDesc Id= "PirateWAVE_001" SoundName= "Adam Liria - Experiment" />
@@ -120,6 +142,10 @@
         <SoundDesc Id= "PirateWAVE_031" SoundName= "Matstubs - Alice" />
         <SoundDesc Id= "PirateWAVE_032" SoundName= "Nephed - Ocean" />
         <SoundDesc Id= "PirateWAVE_033" SoundName= "The Placenta - Kinesthetic Groove" />
+        <SoundDesc Id= "PirateWAVE_034" SoundName= "Gosize - The Purge" />
+        <SoundDesc Id= "PirateWAVE_035" SoundName= "Kaito Shoma - Hotline" />
+        <SoundDesc Id= "PirateWAVE_036" SoundName= "Arkana - Tzimtzum" />
+        <SoundDesc Id= "PirateWAVE_037" SoundName= "Geon - Intensity" />
         
 		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
         <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />

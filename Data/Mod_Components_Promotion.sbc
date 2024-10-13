@@ -4,10 +4,10 @@
         <Component>
             <Id>
                 <TypeId>Component</TypeId>
-                <SubtypeId>ZoneChip</SubtypeId>
+                <SubtypeId>Promotion</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_ZoneChip</DisplayName>
-            <Icon>Textures\ColorFull\Items\ZoneChip_Item.dds</Icon>
+            <DisplayName>DisplayName_Item_Promotion</DisplayName>
+            <Icon>Textures\Icons\Promotion.png</Icon>
             <Size>
                 <X>0.1</X>
                 <Y>0.1</Y>
@@ -15,9 +15,9 @@
             </Size>
             <Mass>0.250</Mass>
             <Volume>0.2</Volume>
-            <Model>Models\Items\ZoneChip_Item.mwm</Model>
+            <Model>Models\Components\SpaceCredit.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-            <MinimalPricePerUnit>360000</MinimalPricePerUnit>
+            <MinimalPricePerUnit>75000000</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
             <MaxIntegrity>1</MaxIntegrity>
             <DropProbability>0.1</DropProbability>

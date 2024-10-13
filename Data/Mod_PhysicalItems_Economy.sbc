@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <PhysicalItems>
+    
         <PhysicalItem xsi:type="MyObjectBuilder_DatapadDefinition">
             <Id>
                 <TypeId>Datapad</TypeId>
@@ -18,9 +19,6 @@
             <Volume>0.4</Volume>
             <Model>Models\Items\Datapad_Item.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
-
-            <!--MinimumOfferAmount>5</MinimumOfferAmount>
-            <MaximumOfferAmount>20</MaximumOfferAmount-->
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
 
@@ -42,6 +40,7 @@
             <Model>Models\Components\ContractPackage.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
         </PhysicalItem>
+        
         <PhysicalItem xsi:type="MyObjectBuilder_ConsumableItemDefinition">
             <Id>
                 <TypeId>ConsumableItem</TypeId>
@@ -62,12 +61,10 @@
             <Stats>
                 <Stat Name="Health" Value ="0.05" Time="5"/>
             </Stats>
-
             <MinimalPricePerUnit>750</MinimalPricePerUnit>
-            <!--MinimumOfferAmount>5</MinimumOfferAmount>
-            <MaximumOfferAmount>50</MaximumOfferAmount-->
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
+        
         <PhysicalItem xsi:type="MyObjectBuilder_ConsumableItemDefinition">
             <Id>
                 <TypeId>ConsumableItem</TypeId>
@@ -90,10 +87,9 @@
             </Stats>
 
             <MinimalPricePerUnit>1000</MinimalPricePerUnit>
-            <!--MinimumOfferAmount>5</MinimumOfferAmount>
-            <MaximumOfferAmount>50</MaximumOfferAmount-->
             <CanPlayerOrder>true</CanPlayerOrder>
         </PhysicalItem>
+        
         <PhysicalItem xsi:type="MyObjectBuilder_PhysicalItemDefinition">
             <Id>
                 <TypeId>PhysicalObject</TypeId>
@@ -113,5 +109,6 @@
             <Model>Models\Components\SpaceCredit.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
         </PhysicalItem>
+        
     </PhysicalItems>
 </Definitions>
