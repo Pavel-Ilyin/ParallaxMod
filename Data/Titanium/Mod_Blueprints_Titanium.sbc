@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Blueprints>
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>TitaniumOreToIngot</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_TitaniumIngot</DisplayName>
+            <Icon>Textures\Icons\Titanium_ingot.png</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ore" SubtypeId="Titanium"/>
+            </Prerequisites>
+            <Result Amount="0.01" TypeId="Ingot" SubtypeId="Titanium"/>
+            <BaseProductionTimeInSeconds>6</BaseProductionTimeInSeconds>
+        </Blueprint>
+    </Blueprints>
+</Definitions>
