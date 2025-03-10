@@ -39,7 +39,7 @@
             <BuildTimeSeconds>40</BuildTimeSeconds>
             <PrimarySound>BlockGyroscope</PrimarySound>
             <ResourceSinkGroup>Gyro</ResourceSinkGroup>
-            <ForceMagnitude>5.71E+07</ForceMagnitude>
+            <ForceMagnitude>57100000</ForceMagnitude>
             <RequiredPowerInput>0.01</RequiredPowerInput>
             <DamageEffectName>Damage_HeavyMech_Damaged</DamageEffectName>
             <DamagedSound>ParticleHeavyMech</DamagedSound>

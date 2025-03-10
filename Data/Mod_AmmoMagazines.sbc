@@ -4,9 +4,9 @@
         <AmmoMagazine>
             <Id>
                 <TypeId>AmmoMagazine</TypeId>
-                <SubtypeId>NATO_50x184mm</SubtypeId>
+                <SubtypeId>50x184mm</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_NATO_50x184mm</DisplayName>
+            <DisplayName>DisplayName_Item_50x184mm</DisplayName>
             <Icon>Textures\Icons\Ammo_Box_1.png</Icon>
             <Size>
                 <X>1.25</X>

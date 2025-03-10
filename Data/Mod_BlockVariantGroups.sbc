@@ -3,6 +3,23 @@
     <BlockVariantGroups>
     
         <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ContainerGroup" />
+            <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
+            <DisplayName>DisplayName_BlockGroup_ContainerGroup</DisplayName>
+            <Description>Description_BlockGroup_ContainerGroup</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="LargeBlockSmallContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="LargeBlockLargeContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockSmallContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockMediumContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockLargeContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockModularContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="LargeBlockLargeIndustrialContainer" />
+                <Block Type="MyObjectBuilder_CargoContainer" Subtype="QuantumStorage" />
+            </Blocks>
+        </BlockVariantGroup>
+    
+        <BlockVariantGroup>
             <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ShipToolGroup" />
             <Icon>Textures\GUI\Icons\Cubes\Grinder.dds</Icon>
             <DisplayName>DisplayName_BlockGroup_ShipToolGroup</DisplayName>
@@ -12,9 +29,9 @@
                 <Block Type="MyObjectBuilder_ShipGrinder" Subtype="SmallShipGrinder" />
                 <Block Type="MyObjectBuilder_ShipWelder" Subtype="LargeShipWelder" />
                 <Block Type="MyObjectBuilder_ShipWelder" Subtype="SmallShipWelder" />
+                <Block Type="MyObjectBuilder_ShipWelder" Subtype="LargeIndustrialWelder" />
                 <Block Type="MyObjectBuilder_Drill" Subtype="SmallBlockDrill" />
                 <Block Type="MyObjectBuilder_Drill" Subtype="LargeBlockDrill" />
-                <Block Type="MyObjectBuilder_ShipWelder" Subtype="LargeIndustrialWelder" />
             </Blocks>
         </BlockVariantGroup>
         
@@ -26,15 +43,19 @@
             <Blocks>
                 <Block Type="MyObjectBuilder_LargeGatlingTurret" Subtype="" />
                 <Block Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallGatlingTurret" />
+                <Block Type="MyObjectBuilder_LargeGatlingTurret" Subtype="LargeGatlingTurretReskin" />
+                <Block Type="MyObjectBuilder_LargeGatlingTurret" Subtype="SmallGatlingTurretReskin" />
                 <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="" />
                 <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="SmallMissileTurret" />
+                <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="LargeMissileTurretReskin" />
+                <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="SmallMissileTurretReskin" />
                 <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="LargeCalibreTurret" />
                 <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="LargeBlockMediumCalibreTurret" />
                 <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="SmallBlockMediumCalibreTurret" />
                 <Block Type="MyObjectBuilder_InteriorTurret" Subtype="LargeInteriorTurret" />
                 <Block Type="MyObjectBuilder_LargeGatlingTurret" Subtype="AutoCannonTurret" />
-				<Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="MA_Designator_sm" />
                 <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="MA_Designator" />
+                <Block Type="MyObjectBuilder_LargeMissileTurret" Subtype="MA_Designator_sm" />
             </Blocks>
         </BlockVariantGroup>
         
@@ -60,20 +81,183 @@
                 <Block Type="MyObjectBuilder_SmallMissileLauncher" Subtype="SmallFlareLauncher" />
             </Blocks>
         </BlockVariantGroup>
+		
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorCubeGroupTitanium" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\Armor_cubeTitanium.dds</Icon>
+            <DisplayName>DisplayName_Block_TitaniumArmorBlock</DisplayName>
+            <Description>Description_TitaniumArmor</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorBlockTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorCornerInvTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorCornerSquareTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorCornerSquareInvertedTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorBlockTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorCornerInvTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorCornerSquareTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorCornerSquareInvertedTitanium" />
+            </Blocks>
+        </BlockVariantGroup>
+		
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorRampGroupTitanium" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\Slope2x1x1BaseTitanium.dds</Icon>
+            <DisplayName>DisplayName_BlockGroup_ArmorTitaniumRampGroup</DisplayName>
+            <Description>Description_TitaniumArmor</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlope2BaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlope2TipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeHalfArmorBlockTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeHalfSlopeArmorBlockTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorHalfSlopeCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorHalfCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorHalfSlopedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlope2BaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlope2TipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="HalfArmorBlockTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="HalfSlopeArmorBlockTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorHalfSlopeCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorHalfCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorHalfSlopedCornerTitanium" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorRampCornerGroupTitanium" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\Corner2x1x1BaseTitanium.dds</Icon>
+            <DisplayName>DisplayName_BlockGroup_ArmorTitaniumRampCornerGroup</DisplayName>
+            <Description>Description_TitaniumArmor</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorCorner2BaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorCorner2TipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorInvCorner2BaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorInvCorner2TipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorHalfSlopeCornerInvertedTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorHalfSlopeInvertedTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorCorner2BaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorCorner2TipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorInvCorner2BaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorInvCorner2TipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorHalfSlopeCornerInvertedTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorHalfSlopeInvertedTitanium" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorRoundGroupTitanium" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\RoundArmorSlopeTitanium.dds</Icon>
+            <DisplayName>DisplayName_Block_TitaniumRoundArmorSlope</DisplayName>
+            <Description>Description_TitaniumArmor</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorRoundSlopeTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorRoundCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorRoundCornerInvTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorRoundSlopeTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorRoundCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorRoundCornerInvTitanium" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorSlopedCornersTitanium" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\SlopedCornerTipTitanium.dds</Icon>
+            <DisplayName>DisplayName_BlockGroup_TitaniumArmorSlopedCorners</DisplayName>
+            <Description>Description_TitaniumArmor</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopedCornerTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorRaisedSlopedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSquareSlopedCornerTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSquareSlopedCornerBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSquareSlopedCornerTipInvTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopedCornerBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorHalfSlopedCornerBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopedCornerTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorRaisedSlopedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSquareSlopedCornerTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSquareSlopedCornerBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSquareSlopedCornerTipInvTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopedCornerBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorHalfSlopedCornerBaseTitanium" />
+            </Blocks>
+        </BlockVariantGroup>
+
+        <BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ArmorTransitionBlocksTitanium" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\ArmorSlopeTransitionBaseTitanium.dds</Icon>
+            <DisplayName>DisplayName_BlockGroup_TitaniumArmorTransitionBlocks</DisplayName>
+            <Description>Description_TitaniumArmor</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTransitionBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTransitionTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTransitionTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTransitionBaseMirroredTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTransitionMirroredTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeBlockArmorSlopeTransitionTipMirroredTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTransitionBaseTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTransitionTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTransitionTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTransitionBaseMirroredTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTransitionMirroredTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallBlockArmorSlopeTransitionTipMirroredTitanium" />
+            </Blocks>
+        </BlockVariantGroup>
         
         <BlockVariantGroup>
-            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="ContainerGroup" />
-            <Icon>Textures\GUI\Icons\Cubes\container.dds</Icon>
-            <DisplayName>DisplayName_BlockGroup_ContainerGroup</DisplayName>
-            <Description>Description_BlockGroup_ContainerGroup</Description>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="TitaniumArmorPanelsGroup" />
+            <Icon>Textures\Icons\Cubes\TitaniumArmor\TitaniumArmorPanel.dds</Icon>
+            <DisplayName>DisplayName_Block_TitaniumArmorPanel</DisplayName>
+            <Description>Description_TitaniumArmorPanel</Description>
             <Blocks>
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="LargeBlockSmallContainer" />
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="LargeBlockLargeContainer" />
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="QuantumStorage" />
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockSmallContainer" />
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockMediumContainer" />
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="SmallBlockLargeContainer" />
-                <Block Type="MyObjectBuilder_CargoContainer" Subtype="LargeBlockLargeIndustrialContainer" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorSlopedPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorSlopedSidePanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedPanelTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideBasePanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideTipPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideBasePanelTitaniumInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1SlopedSideTipPanelTitaniumInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorHalfSlopedPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedPanelTitaniumRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedTipPanelTitaniumRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedPanelTitaniumLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmor2x1HalfSlopedTipPanelTitaniumLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelFaceTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeRoundArmorPanelInvertedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorHalfCenterPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorHalfPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorQuarterPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="LargeArmorCenterPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorSlopedPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorSlopedSidePanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedPanelTipTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideBasePanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideTipPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideBasePanelTitaniumInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1SlopedSideTipPanelTitaniumInv" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorHalfSlopedPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedPanelTitaniumRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedTipPanelTitaniumRight" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedPanelTitaniumLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmor2x1HalfSlopedTipPanelTitaniumLeft" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelFaceTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallRoundArmorPanelInvertedCornerTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorHalfCenterPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorHalfPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorQuarterPanelTitanium" />
+                <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorCenterPanelTitanium" />
             </Blocks>
         </BlockVariantGroup>
         

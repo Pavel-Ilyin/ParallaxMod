@@ -5,6 +5,28 @@
         <Component>
             <Id>
                 <TypeId>Component</TypeId>
+                <SubtypeId>TitaniumPlate</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_TitaniumPlate</DisplayName>
+            <Icon>Textures\Icons\Titanium_plate.png</Icon>
+            <Size>
+                <X>0.5</X>
+                <Y>0.5</Y>
+                <Z>0.01</Z>
+            </Size>
+            <Mass>10</Mass>
+            <Volume>3</Volume>
+            <Model>Models\Components\Titanium_plate.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>1650</MaxIntegrity>
+            <DropProbability>0.7</DropProbability>
+            <Health>170</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+    
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
                 <SubtypeId>SteelPlate</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_SteelPlate</DisplayName>
@@ -126,7 +148,7 @@
             </Size>
             <Mass>0.250</Mass>
             <Volume>0.2</Volume>
-            <Model>Models\Components\computer_component.mwm</Model>
+            <Model>Models\Components\Calculator.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <CanPlayerOrder>true</CanPlayerOrder>
             <MaxIntegrity>15</MaxIntegrity>
@@ -158,11 +180,11 @@
         <Component>
             <Id>
                 <TypeId>Component</TypeId>
-                <SubtypeId>IngotsPackage</SubtypeId>
+                <SubtypeId>Resurspak</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_IngotsPackage</DisplayName>
-            <Description>Description_IngotsPackage</Description>
-            <Icon>Textures\Icons\IngotsPackage.dds</Icon>
+            <DisplayName>DisplayName_Item_Resurspak</DisplayName>
+            <Description>Description_Resurspak</Description>
+            <Icon>Textures\Icons\Resurspak.dds</Icon>
             <Size>
                 <X>0.5</X>
                 <Y>0.5</Y>
@@ -523,6 +545,163 @@
             <MaxIntegrity>5</MaxIntegrity>
             <DropProbability>0.3</DropProbability>
             <Health>14</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+        
+        <!--Prototech components-->
+        
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechFrame</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechFrame</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechFrame.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>100</Mass>
+            <Volume>50</Volume>
+            <Model>Models\Components\PrototechFrame.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>1000</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>300</Health>
+			<MinimalPricePerUnit>37720000</MinimalPricePerUnit>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechPanel</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechPanel</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechPanel_Component.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>30</Mass>
+            <Volume>6</Volume>
+            <Model>Models\Components\PrototechPanel_Component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>300</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>150</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechCapacitor</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechCapacitor</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechCapacitor_Component.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>20</Mass>
+            <Volume>50</Volume>
+            <Model>Models\Components\PrototechCapacitor_Component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>80</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>40</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechPropulsionUnit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechPropulsionUnit</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechThrusterComponent.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>240</Mass>
+            <Volume>160</Volume>
+            <Model>Models\Components\PrototechThrusterComponent.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>200</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>100</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechMachinery</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechMachinery</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechMachinery_Icon.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>80</Mass>
+            <Volume>35</Volume>
+            <Model>Models\Components\PrototechMachinery_Component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>250</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>80</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechCircuitry</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechCircuitry</DisplayName>
+            <Icon>Textures\ColorFull\Component\prototech_circuitry_component.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>60</Mass>
+            <Volume>20</Volume>
+            <Model>Models\Components\prototech_circuitry_component.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>100</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>150</Health>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </Component>
+
+        <Component>
+            <Id>
+                <TypeId>Component</TypeId>
+                <SubtypeId>PrototechCoolingUnit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechCoolingUnit</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechCoolingUnit.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>1.0</Y>
+                <Z>0.03</Z>
+            </Size>
+            <Mass>250</Mass>
+            <Volume>80</Volume>
+            <Model>Models\Components\PrototechCoolingUnit.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+            <MaxIntegrity>150</MaxIntegrity>
+            <DropProbability>0.3</DropProbability>
+            <Health>140</Health>
             <CanPlayerOrder>true</CanPlayerOrder>
         </Component>
 

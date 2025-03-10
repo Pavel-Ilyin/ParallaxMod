@@ -289,41 +289,4 @@
             <DLC>Economy</DLC>
         </Definition>
     </CubeBlocks>
-    <BlockPositions>
-        <BlockPosition>
-            <Name>SafeZone</Name>
-            <Position>
-                <X>1</X>
-                <Y>19</Y>
-            </Position>
-        </BlockPosition>
-        <BlockPosition>
-            <Name>StoreBlock</Name>
-            <Position>
-                <X>2</X>
-                <Y>19</Y>
-            </Position>
-        </BlockPosition>
-        <BlockPosition>
-            <Name>AtmBlock</Name>
-            <Position>
-                <X>3</X>
-                <Y>19</Y>
-            </Position>
-        </BlockPosition>
-        <BlockPosition>
-            <Name>VendingMachine</Name>
-            <Position>
-                <X>4</X>
-                <Y>19</Y>
-            </Position>
-        </BlockPosition>
-        <BlockPosition>
-            <Name>ContractBlock</Name>
-            <Position>
-                <X>5</X>
-                <Y>19</Y>
-            </Position>
-        </BlockPosition>
-    </BlockPositions>
 </Definitions>

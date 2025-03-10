@@ -62,16 +62,15 @@
 		<value>Промышленный сварщик</value>
 	</data>
 	<data name="Description_IndustrialWelder" xml:space="preserve">
-		<value>Промышленный сварщик имеет большое поле охвата сварки.
-    </value>
+		<value>Промышленный сварщик имеет большое поле охвата сварки.</value>
 	</data>
 	<data name="DisplayName_Item_Calculator" xml:space="preserve">
 		<value>Вычислитель</value>
 	</data>
-	<data name="DisplayName_Item_IngotsPackage" xml:space="preserve">
+	<data name="DisplayName_Item_Resurspak" xml:space="preserve">
 		<value>Ресурспак</value>
 	</data>
-	<data name="Description_IngotsPackage" xml:space="preserve">
+	<data name="Description_Resurspak" xml:space="preserve">
 		<value>Ресурспак - плотно упакованный пакет слитков.</value>
 	</data>
 	<data name="Description_InteriorTurret" xml:space="preserve">
@@ -191,7 +190,7 @@
 
 При обнаружении врага этот блок имеет приоритет над активными блоками типа «Задание».</value>
 	</data>
-	<data name="DisplayName_Item_NATO_50x184mm" xml:space="preserve">
+	<data name="DisplayName_Item_50x184mm" xml:space="preserve">
 		<value>Боеприпасы 50x184 мм</value>
 	</data>
 	<data name="DisplayName_MostlyHarmlessEnergy" xml:space="preserve">
@@ -251,8 +250,8 @@
         
 Имеет высокое энергопотребление.</value>
 	</data>
-	<data name="DisplayName_Category_EnergyShield" xml:space="preserve">
-		<value>Энергетические щиты</value>
+	<data name="DisplayName_Category_Parallax" xml:space="preserve">
+		<value>Интеграции</value>
 	</data>
 	<data name="DisplayName_Block_StoneRecycler" xml:space="preserve">
 		<value>Утилизатор камня</value>
@@ -309,5 +308,200 @@
 	</data>
 	<data name="DisplayName_Item_Promotion" xml:space="preserve">
 		<value>Акция</value>
+	</data>
+	<data name="Titanium" xml:space="preserve">
+		<value>Титан</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumIngot" xml:space="preserve">
+		<value>Титановый слиток</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumOre" xml:space="preserve">
+		<value>Титановая руда</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumPlate" xml:space="preserve">
+		<value>Титановая пластина</value>
+	</data>
+	<data name="Description_TitaniumArmor" xml:space="preserve">
+		<value>Титановая броня. Очень прочная и лёгкая. </value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorBlock" xml:space="preserve">
+		<value>Блок титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlope" xml:space="preserve">
+		<value>Скат титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCorner" xml:space="preserve">
+		<value>Угол титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorInvCorner" xml:space="preserve">
+		<value>Обратный угол титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumRoundArmorSlope" xml:space="preserve">
+		<value>Круглая титановая броня</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumRoundArmorCorner" xml:space="preserve">
+		<value>Круглый угол титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumRoundArmorInvCorner" xml:space="preserve">
+		<value>Круглый обратный угол титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_HalfTitaniumArmorBlock" xml:space="preserve">
+		<value>Полублок титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_HalfSlopeTitaniumArmorBlock" xml:space="preserve">
+		<value>Угловой полублок титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlope2Base" xml:space="preserve">
+		<value>Скат 2x1 основа титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlope2Tip" xml:space="preserve">
+		<value>Скат 2x1 вершина титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCorner2Base" xml:space="preserve">
+		<value>Угол 2x1 основа титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCorner2Tip" xml:space="preserve">
+		<value>Угол 2x1 вершина титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorInvCorner2Base" xml:space="preserve">
+		<value>Обратный угол 2x1 основа титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorInvCorner2Tip" xml:space="preserve">
+		<value>Обратный угол 2x1 вершина титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCornerSquare" xml:space="preserve">
+		<value>Прямоуг. угловой блок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCornerSquareInverted" xml:space="preserve">
+		<value>Обратн. прямоуг. угловой блок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfCorner" xml:space="preserve">
+		<value>Угловой полублок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopeCorner" xml:space="preserve">
+		<value>Угловой наклонный полублок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopeCornerInverted" xml:space="preserve">
+		<value>Обратн. угловой наклон. полублок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopedCorner" xml:space="preserve">
+		<value>Угловой полублок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopedCornerBase" xml:space="preserve">
+		<value>Полублок основы угл. наклон. титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopeInverted" xml:space="preserve">
+		<value>Обратн. наклонный полублок титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopedCorner" xml:space="preserve">
+		<value>Угловая наклонная титан. броня</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopedCornerBase" xml:space="preserve">
+		<value>Основа угловой наклонной титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopedCornerTip" xml:space="preserve">
+		<value>Вершина угловой наклонной титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorRaisedSlopedCorner" xml:space="preserve">
+		<value>Угловой приподнятый скат титановой брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransition" xml:space="preserve">
+		<value>Скат титановой брони, переход</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionBase" xml:space="preserve">
+		<value>Скат титановой брони, переходная основа</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionBaseMirrored" xml:space="preserve">
+		<value>Скат титановой брони, отраженная переходная основа</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionMirrored" xml:space="preserve">
+		<value>Скат титановой брони, отраженный переход</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionTip" xml:space="preserve">
+		<value>Скат титановой брони, переходная вершина</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionTipMirrored" xml:space="preserve">
+		<value>Скат титановой брони, отраженная переходная вершина</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSquareSlopedCornerBase" xml:space="preserve">
+		<value>Накл. угловая база прямоуг. титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSquareSlopedCornerTip" xml:space="preserve">
+		<value>Накл. угловая вершина прямоуг. титан. брони</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSquareSlopedCornerTipInv" xml:space="preserve">
+		<value>Накл. угловая вершина прямоуг. титан. брони. (обратн.)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedPanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки 2x1 (основа, скат)</value>
+	</data>
+	<data name="DisplayName_Block_ArmorHalfPanelTitanium" xml:space="preserve">
+		<value>Полупанель титановой обшивки</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки</value>
+	</data>
+	<data name="DisplayName_Block_ArmorSlopedPanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки (скат) </value>
+	</data>
+	<data name="DisplayName_Block_ArmorSlopedSidePanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки (бок)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideBasePanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки 2x1 (основа, правая)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideBasePanelTitaniumInv" xml:space="preserve">
+		<value>Панель титановой обшивки 2x1 (основа, левая)</value>
+	</data>
+	<data name="DisplayName_Block_ArmorHalfSlopedPanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки (полускат)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedPanelTitanium" xml:space="preserve">
+		<value>Полупанель титановой обшивки 2x1 (основа, правая)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedPanelTitaniumInv" xml:space="preserve">
+		<value>Полупанель титановой обшивки 2x1 (основа, левая)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideTipPanelTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки 2x1 (вершина, правая)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideTipPanelTitaniumInv" xml:space="preserve">
+		<value>Панель титановой обшивки 2x1 (вершина, левая)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedPanelTipTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки 2x1 (вершина, скат)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedTipPanelTitanium" xml:space="preserve">
+		<value>Полупанель титановой обшивки 2x1 (вершина, правая)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedTipPanelTitaniumInv" xml:space="preserve">
+		<value>Полупанель титановой обшивки 2x1 (вершина, левая)</value>
+	</data>
+	<data name="DisplayName_Block_ArmorQuarterPanelTitanium" xml:space="preserve">
+		<value>Четвертьпанель титановой обшивки</value>
+	</data>
+	<data name="DisplayName_Block_ArmorCenterPanelTitanium" xml:space="preserve">
+		<value>Центральная панель титановой обшивки</value>
+	</data>
+	<data name="DisplayName_Block_ArmorHalfCenterPanelTitanium" xml:space="preserve">
+		<value>Центральная полупанель титановой обшивки</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundCornerTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки, круглый угол</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки, круглая</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundInvertedCornerTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки, круглый обратный угол</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundFaceTitanium" xml:space="preserve">
+		<value>Панель титановой обшивки, круглая, лицевая</value>
+	</data>
+	<data name="DisplayName_Block_NanobotBuildAndRepairSystem" xml:space="preserve">
+		<value>Нанитка</value>
+	</data>
+	<data name="Description_NanobotBuildAndRepairSystem" xml:space="preserve">
+		<value>Система наноботов для сборки, ремонта и разборки блоков.</value>
 	</data>
 </root>

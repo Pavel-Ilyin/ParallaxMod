@@ -151,15 +151,16 @@
             </AmmoMagazines>
             <ReloadTime>400</ReloadTime>
         </Weapon>
+        
         <Weapon>
             <Id>
                 <TypeId>WeaponDefinition</TypeId>
                 <SubtypeId>LargeGatlingTurret</SubtypeId>
             </Id>
-            <ProjectileAmmoData RateOfFire="2600" ShootSoundName="WepGatlingTurretShot" ShotsInBurst="80"/>
+            <ProjectileAmmoData RateOfFire="1000" ShootSoundName="WepGatlingTurretShot" ShotsInBurst="80"/>
             <ReleaseTimeAfterFire>20</ReleaseTimeAfterFire>
-            <DeviateShotAngle>0.15</DeviateShotAngle>
-            <DeviateShotAngleAiming>0.15</DeviateShotAngleAiming>
+            <DeviateShotAngle>0.35</DeviateShotAngle>
+            <DeviateShotAngleAiming>0.35</DeviateShotAngleAiming>
             <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
             <MuzzleFlashLifeSpan>40</MuzzleFlashLifeSpan>
             <Effects>
@@ -167,10 +168,31 @@
                 <Effect Action="Shoot" Dummy="None" Particle="Smoke_LargeGunShot" Loop="true" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-1.9" ParticleBirthStart="1" ParticleBirthMin="1" ParticleBirthMax="2" ParticleBirthDecrease="1" ParticleBirthIncrease="1"/>
             </Effects>
             <AmmoMagazines>
-                <AmmoMagazine Subtype="NATO_50x184mm"/>
+                <AmmoMagazine Subtype="50x184mm"/>
             </AmmoMagazines>
             <ReloadTime>2000</ReloadTime>
         </Weapon>
+        <Weapon>
+            <Id>
+                <TypeId>WeaponDefinition</TypeId>
+                <SubtypeId>LargeGatlingTurretReskin</SubtypeId>
+            </Id>
+            <ProjectileAmmoData RateOfFire="3400" ShootSoundName="WepGatlingTurretShot" ShotsInBurst="140"/>
+            <ReleaseTimeAfterFire>20</ReleaseTimeAfterFire>
+            <DeviateShotAngle>0.3</DeviateShotAngle>
+            <DeviateShotAngleAiming>0.3</DeviateShotAngleAiming>
+            <NoAmmoSoundName>WepShipGatlingNoAmmo</NoAmmoSoundName>
+            <MuzzleFlashLifeSpan>40</MuzzleFlashLifeSpan>
+            <Effects>
+                <Effect Action="Shoot" Dummy="muzzle_projectile_001" Particle="Muzzle_Flash_Large" Loop="true" InstantStop="true" OffsetX="0" OffsetY="0" OffsetZ="-2.3"/>
+                <Effect Action="Shoot" Dummy="None" Particle="Smoke_LargeGunShot" Loop="true" InstantStop="false" OffsetX="0" OffsetY="0" OffsetZ="-1.9" ParticleBirthStart="1" ParticleBirthMin="1" ParticleBirthMax="2" ParticleBirthDecrease="1" ParticleBirthIncrease="1"/>
+            </Effects>
+            <AmmoMagazines>
+                <AmmoMagazine Subtype="NATO_25x184mm"/>
+            </AmmoMagazines>
+            <ReloadTime>200</ReloadTime>
+        </Weapon>
+        
         <Weapon>
             <Id>
                 <TypeId>WeaponDefinition</TypeId>

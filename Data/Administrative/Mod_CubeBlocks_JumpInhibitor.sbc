@@ -38,7 +38,7 @@
             <MirroringY>Z</MirroringY>
             <DamageEffectId>214</DamageEffectId>
             <MaxBroadcastRadius>7000</MaxBroadcastRadius>
-            <MaxBroadcastPowerDrainkW>20</MaxBroadcastPowerDrainkW>
+            <MaxBroadcastPowerDrainkW>0.2</MaxBroadcastPowerDrainkW>
             <DamagedSound>ParticleElectrical</DamagedSound>
             <Flare>BeaconSmall</Flare>
             <PCU>100</PCU>

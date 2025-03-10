@@ -174,7 +174,7 @@
             <BuildTimeSeconds>24</BuildTimeSeconds>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
-            <PCU>4200</PCU>
+            <PCU>16000</PCU>
             <EmissiveColorPreset>Extended</EmissiveColorPreset>
         </Definition>
         <Definition xsi:type="MyObjectBuilder_OffensiveCombatBlockDefinition">
@@ -221,7 +221,7 @@
             <BuildTimeSeconds>10</BuildTimeSeconds>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
             <DamagedSound>ParticleElectrical</DamagedSound>
-            <PCU>1800</PCU>
+            <PCU>8000</PCU>
             <EmissiveColorPreset>Extended</EmissiveColorPreset>
             <IsAirTight>true</IsAirTight>
         </Definition>

@@ -32,7 +32,7 @@
                 <SubtypeId>LargeCaliberGatling</SubtypeId>
             </Id>
             <BasicProperties>
-                <DesiredSpeed>800</DesiredSpeed>
+                <DesiredSpeed>1200</DesiredSpeed>
                 <SpeedVariance>0</SpeedVariance>
                 <MaxTrajectory>2400</MaxTrajectory>
                 <BackkickForce>600</BackkickForce>
@@ -43,7 +43,7 @@
             <ProjectileProperties>
                 <ProjectileTrailScale>0.3</ProjectileTrailScale>
                 <ProjectileHitImpulse>4</ProjectileHitImpulse>
-                <ProjectileMassDamage>160</ProjectileMassDamage>
+                <ProjectileMassDamage>270</ProjectileMassDamage>
                 <ProjectileHealthDamage>60</ProjectileHealthDamage>
                 <HeadShot>true</HeadShot>
             </ProjectileProperties>

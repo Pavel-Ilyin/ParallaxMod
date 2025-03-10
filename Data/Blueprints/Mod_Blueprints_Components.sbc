@@ -1,9 +1,22 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <BlueprintClassEntries>
-        <Entry Class="Components" BlueprintSubtypeId="IngotsPackage"/>
-    </BlueprintClassEntries>
     <Blueprints>
+    
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>TitaniumPlate</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_TitaniumPlate</DisplayName>
+            <Icon>Textures\Icons\Titanium_plate.png</Icon>
+            <Prerequisites>
+                <Item Amount="15" TypeId="Ingot" SubtypeId="Titanium"/>
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Cobalt"/>
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="TitaniumPlate"/>
+            <BaseProductionTimeInSeconds>30</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
     
         <Blueprint>
             <Id>
@@ -26,10 +39,10 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>IngotsPackage</SubtypeId>
+                <SubtypeId>Resurspak</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_IngotsPackage</DisplayName>
-            <Icon>Textures\Icons\IngotsPackage.dds</Icon>
+            <DisplayName>DisplayName_Item_Resurspak</DisplayName>
+            <Icon>Textures\Icons\Resurspak.dds</Icon>
             <Prerequisites>
                 <Item Amount="8400" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="900" TypeId="Ingot" SubtypeId="Nickel"/>
@@ -39,7 +52,7 @@
                 <Item Amount="48" TypeId="Ingot" SubtypeId="Gold"/>
                 <Item Amount="6" TypeId="Ingot" SubtypeId="Platinum"/>
             </Prerequisites>
-            <Result Amount="1" TypeId="Component" SubtypeId="IngotsPackage"/>
+            <Result Amount="1" TypeId="Component" SubtypeId="Resurspak"/>
             <BaseProductionTimeInSeconds>210</BaseProductionTimeInSeconds>
             <IsPrimary>true</IsPrimary>
         </Blueprint>
@@ -390,6 +403,150 @@
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Canvas" />
             <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+        </Blueprint>
+        
+        <!-- Prototech -->
+
+        <Blueprint> <!-- This blueprint is only used for economy prices -->
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechScrap</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechPanel</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechPanel_Component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint> <!-- This blueprint exists to prevent missing blueprint errors -->
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechFrame</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechPanel</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechPanel_Component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="1" TypeId="Component" SubtypeId="PrototechFrame" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechFrame" />
+            <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechPanel</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechPanel</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechPanel_Component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="35" TypeId="Ingot" SubtypeId="Iron" />
+				<Item Amount="7" TypeId="Ingot" SubtypeId="Nickel" />
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="4" TypeId="Ingot" SubtypeId="Magnesium" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechPanel" />
+            <BaseProductionTimeInSeconds>4</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechCapacitor</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechCapacitor</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechCapacitor_Component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Iron" />
+				<Item Amount="4" TypeId="Ingot" SubtypeId="Silicon" />
+				<Item Amount="3" TypeId="Ingot" SubtypeId="Silver" />
+				<Item Amount="6" TypeId="Ingot" SubtypeId="Gold" />
+				<Item Amount="1.5" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechCapacitor" />
+            <BaseProductionTimeInSeconds>16</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechPropulsionUnit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechPropulsionUnit</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechThrusterComponent.dds</Icon>
+            <Prerequisites>
+                <Item Amount="60" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="24" TypeId="Ingot" SubtypeId="Cobalt" />
+                <Item Amount="6" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="3" TypeId="Ingot" SubtypeId="Platinum" />
+				<Item Amount="1.25" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechPropulsionUnit" />
+            <BaseProductionTimeInSeconds>14</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechMachinery</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechMachinery</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechMachinery_Icon.dds</Icon>
+            <Prerequisites>
+                <Item Amount="45" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Nickel" />
+				<Item Amount="7" TypeId="Ingot" SubtypeId="Silicon" />
+				<Item Amount="3" TypeId="Ingot" SubtypeId="Gold" />
+                <Item Amount="1.15" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechMachinery" />
+            <BaseProductionTimeInSeconds>12</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechCircuitry</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechCircuitry</DisplayName>
+            <Icon>Textures\ColorFull\Component\prototech_circuitry_component.dds</Icon>
+            <Prerequisites>
+                <Item Amount="5" TypeId="Ingot" SubtypeId="Iron" />
+				<Item Amount="8" TypeId="Ingot" SubtypeId="Silicon" />
+                <Item Amount="2" TypeId="Ingot" SubtypeId="Gold" />
+				<Item Amount="1.5" TypeId="Ingot" SubtypeId="Platinum" />
+                <Item Amount="1.75" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechCircuitry" />
+            <BaseProductionTimeInSeconds>11</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
+        </Blueprint>
+
+        <Blueprint>
+            <Id>
+                <TypeId>BlueprintDefinition</TypeId>
+                <SubtypeId>PrototechCoolingUnit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechCoolingUnit</DisplayName>
+            <Icon>Textures\ColorFull\Component\PrototechCoolingUnit.dds</Icon>
+            <Prerequisites>
+                <Item Amount="80" TypeId="Ingot" SubtypeId="Iron" />
+                <Item Amount="12" TypeId="Ingot" SubtypeId="Gold" />
+				<Item Amount="3.25" TypeId="Ingot" SubtypeId="Platinum" />
+				<Item Amount="2.5" TypeId="Ingot" SubtypeId="PrototechScrap" />
+            </Prerequisites>
+            <Result Amount="1" TypeId="Component" SubtypeId="PrototechCoolingUnit" />
+            <BaseProductionTimeInSeconds>9</BaseProductionTimeInSeconds>
+            <IsPrimary>true</IsPrimary>
         </Blueprint>
         
     </Blueprints>

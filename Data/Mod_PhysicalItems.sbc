@@ -40,8 +40,8 @@
 			<IconSymbol>IconSymbol_Fe</IconSymbol>
 			<MinimalPricePerUnit>2</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -62,8 +62,8 @@
 			<IconSymbol>IconSymbol_Ni</IconSymbol>
 			<MinimalPricePerUnit>3</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -84,8 +84,8 @@
 			<IconSymbol>IconSymbol_Co</IconSymbol>
 			<MinimalPricePerUnit>14</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -106,8 +106,8 @@
 			<IconSymbol>IconSymbol_Mg</IconSymbol>
 			<MinimalPricePerUnit>78</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -128,8 +128,8 @@
 			<IconSymbol>IconSymbol_Si</IconSymbol>
 			<MinimalPricePerUnit>3</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -150,8 +150,8 @@
 			<IconSymbol>IconSymbol_Ag</IconSymbol>
 			<MinimalPricePerUnit>18</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -172,8 +172,8 @@
 			<IconSymbol>IconSymbol_Au</IconSymbol>
 			<MinimalPricePerUnit>46</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -194,8 +194,8 @@
 			<IconSymbol>IconSymbol_Pt</IconSymbol>
 			<MinimalPricePerUnit>108</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -216,8 +216,8 @@
 			<IconSymbol>IconSymbol_U</IconSymbol>
 			<MinimalPricePerUnit>212</MinimalPricePerUnit>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -256,8 +256,8 @@
 			<PhysicalMaterial>Metal</PhysicalMaterial>
 			<IconSymbol>IconSymbol_Fe</IconSymbol>
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>30</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>300</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>30</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>300</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -281,8 +281,8 @@
             <MinimumOrderAmount>100</MinimumOrderAmount>
             <MaximumOrderAmount>10000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>3</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>30</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>3</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>30</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -306,8 +306,8 @@
             <MinimumOrderAmount>20</MinimumOrderAmount>
             <MaximumOrderAmount>1000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -331,8 +331,8 @@
             <MinimumOrderAmount>10</MinimumOrderAmount>
             <MaximumOrderAmount>200</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>200</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -356,8 +356,8 @@
             <MinimumOrderAmount>1000</MinimumOrderAmount>
             <MaximumOrderAmount>20000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>4</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>40</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>4</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>40</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -381,8 +381,8 @@
             <MinimumOrderAmount>30</MinimumOrderAmount>
             <MaximumOrderAmount>3000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>500</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -406,8 +406,8 @@
             <MinimumOrderAmount>30</MinimumOrderAmount>
             <MaximumOrderAmount>3000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>50</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>250</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>50</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>250</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -431,8 +431,8 @@
             <MinimumOrderAmount>10</MinimumOrderAmount>
             <MaximumOrderAmount>1000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>200</MaximumAcquisitionAmount-->
 		</PhysicalItem>
 		<PhysicalItem>
 			<Id>
@@ -456,9 +456,32 @@
             <MinimumOrderAmount>10</MinimumOrderAmount>
             <MaximumOrderAmount>1000</MaximumOrderAmount-->
 			<CanPlayerOrder>true</CanPlayerOrder>
-			<MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
-			<MaximumAcquisitionAmount>200</MaximumAcquisitionAmount>
+			<!--MinimumAcquisitionAmount>10</MinimumAcquisitionAmount>
+			<MaximumAcquisitionAmount>200</MaximumAcquisitionAmount-->
 		</PhysicalItem>
+        
+        <PhysicalItem>
+            <Id>
+                <TypeId>Ingot</TypeId>
+                <SubtypeId>PrototechScrap</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_PrototechScrap</DisplayName>
+            <Icon>Textures\ColorFull\Component\ScrapPrototechComponent.dds</Icon>
+            <Size>
+                <X>0.2</X>
+                <Y>0.2</Y>
+                <Z>0.1</Z>
+            </Size>
+            <Mass>10</Mass>
+            <Volume>1.5</Volume>
+            <Model>Models\Components\ScrapPrototechComponent.mwm</Model>
+            <PhysicalMaterial>Metal</PhysicalMaterial>
+			<MinimalPricePerUnit>460000</MinimalPricePerUnit>
+            <!--MinimumOrderAmount>10</MinimumOrderAmount>
+            <MaximumOrderAmount>50</MaximumOrderAmount-->
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </PhysicalItem>
+        
 		<PhysicalItem xsi:type="MyObjectBuilder_WeaponItemDefinition">
 			<Id>
 				<TypeId>PhysicalGunObject</TypeId>
@@ -1084,13 +1107,15 @@
 			<Model>Models\Components\ScrapMetalComponent.mwm</Model>
 			<PhysicalMaterial>Metal</PhysicalMaterial>
 		</PhysicalItem>
+        
+        
+        
 		<PhysicalItem>
 			<Id>
 				<TypeId>Ingot</TypeId>
 				<SubtypeId>Scrap</SubtypeId>
 			</Id>
 			<DisplayName>DisplayName_Item_ScrapIngot</DisplayName>
-			<!-- Old definition for backwards compatibility -->
 			<Icon>Textures\ColorFull\Component\ScrapMetalComponent.dds</Icon>
 			<Size>
 				<X>0.2</X>

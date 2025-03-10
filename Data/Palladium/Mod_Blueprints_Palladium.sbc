@@ -7,7 +7,7 @@
                 <SubtypeId>PalladiumOreToIngot</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_PalladiumIngot</DisplayName>
-            <Icon>Textures\GUI\Icons\ingot\silver_ingot.dds</Icon>
+            <Icon>Textures\Icons\Palladium_ingot.png</Icon>
             <Prerequisites>
                 <Item Amount="1" TypeId="Ore" SubtypeId="Palladium"/>
             </Prerequisites>

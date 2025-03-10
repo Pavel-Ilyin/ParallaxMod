@@ -160,10 +160,10 @@
 		  <Ore Value="140" Type="Platinum_01" Start="17" Depth="6" />
 		  <Ore Value="150" Type="Platinum_01" Start="13" Depth="7" />
 		  <Ore Value="160" Type="Platinum_01" Start="34" Depth="6" />
-		  <Ore Value="170" Type="Stone_05" Start="48" Depth="3" />
-		  <Ore Value="180" Type="Stone_05" Start="21" Depth="1" />
-		  <Ore Value="190" Type="Stone_05" Start="70" Depth="4" />
-		  <Ore Value="200" Type="Stone_05" Start="32" Depth="2" />
+		  <Ore Value="170" Type="Palladium_01" Start="48" Depth="4" />
+		  <Ore Value="180" Type="Palladium_01" Start="21" Depth="2" />
+		  <Ore Value="190" Type="Palladium_01" Start="70" Depth="6" />
+		  <Ore Value="200" Type="Palladium_01" Start="32" Depth="3" />
 		</OreMappings>
 		
 		<SoundRules>

@@ -227,7 +227,7 @@
             <BuildTimeSeconds>30</BuildTimeSeconds>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <DeformationRatio>0.2</DeformationRatio>
@@ -375,7 +375,7 @@
             <EdgeType>Light</EdgeType>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <BuildTimeSeconds>32</BuildTimeSeconds>
@@ -438,7 +438,7 @@
             <EdgeType>Light</EdgeType>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <BuildTimeSeconds>20</BuildTimeSeconds>
@@ -768,7 +768,7 @@
             <EdgeType>Light</EdgeType>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <BuildTimeSeconds>20</BuildTimeSeconds>
@@ -842,7 +842,7 @@
             <EdgeType>Light</EdgeType>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <BuildTimeSeconds>20</BuildTimeSeconds>
@@ -1129,7 +1129,7 @@
             <EdgeType>Light</EdgeType>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <BuildTimeSeconds>20</BuildTimeSeconds>
@@ -1198,7 +1198,7 @@
             <EdgeType>Light</EdgeType>
             <EnableFirstPerson>true</EnableFirstPerson>
             <EnableShipControl>true</EnableShipControl>
-            <EnableBuilderCockpit>false</EnableBuilderCockpit>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
             <TargetLockingEnabled>true</TargetLockingEnabled>
             <IsPressurized>false</IsPressurized>
             <BuildTimeSeconds>20</BuildTimeSeconds>
@@ -1210,7 +1210,153 @@
             <HasInventory>false</HasInventory>
         </Definition>
 
-
+        <Definition xsi:type="MyObjectBuilder_CockpitDefinition">
+            <Id>
+                <TypeId>Cockpit</TypeId>
+                <SubtypeId>SmallBlockFlushCockpit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_CockpitFlush</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\CockpitFlush.dds</Icon>
+            <Description>Description_Cockpit</Description>
+            <CubeSize>Small</CubeSize>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="3" y="3" z="4" />
+            <Model>Models\Cubes\Small\CockpitFlush_LOD0.mwm</Model>
+            <InteriorModel>Models\Cubes\Small\CockpitFlushInterior.mwm</InteriorModel>
+            <CharacterAnimation>CapCockpitPose</CharacterAnimation>
+            <ModelOffset x="0" y="0" z="0" />
+            <Components>
+                <Component Subtype="SteelPlate" Count="10" />
+                <Component Subtype="Construction" Count="20" />
+                <Component Subtype="Motor" Count="2" />
+                <Component Subtype="Display" Count="5" />
+                <Component Subtype="Computer" Count="20" />
+                <Component Subtype="SteelPlate" Count="10" />
+                <Component Subtype="BulletproofGlass" Count="40" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="3" EndY="4" Default="true" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="4" EndY="2" />
+                <MountPoint Side="Left" StartX="2" StartY="2" EndX="4" EndY="3" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="4" EndY="2 " />
+                <MountPoint Side="Right" StartX="0" StartY="2" EndX="2" EndY="3" />
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="3" EndY="1.7" />
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="3" EndY="3" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="3" EndY="1" />
+                <MountPoint Side="Front" StartX="0" StartY="1.4" EndX="0.2" EndY="1.8" />
+                <MountPoint Side="Front" StartX="2.8" StartY="1.4" EndX="3" EndY="1.8" />
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.50" File="Models\Cubes\Small\CockpitFlush_Construction_1.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Small\CockpitFlush_Construction_2.mwm" />
+            </BuildProgressModels>
+            <VoxelPlacement>
+                <StaticMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0</MinAllowed>
+                </StaticMode>
+                <DynamicMode>
+                    <PlacementMode>OutsideVoxel</PlacementMode>
+                    <MaxAllowed>0.2</MaxAllowed>
+                    <MinAllowed>0</MinAllowed>
+                </DynamicMode>
+            </VoxelPlacement>
+            <ScreenAreas>
+                <ScreenArea Name="CockpitScreen_01" DisplayName="DisplayName_Screen_Center" TextureResolution="256" ScreenWidth="4" ScreenHeight="3" Script="TSS_ArtificialHorizon" />
+                <ScreenArea Name="CockpitScreen_02" DisplayName="DisplayName_Screen_Left" TextureResolution="256" ScreenWidth="4" ScreenHeight="5" Script="TSS_EnergyHydrogen" />
+            </ScreenAreas>
+            <BlockPairName>FlushCockpit</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <DeformationRatio>0.2</DeformationRatio>
+            <EnableFirstPerson>true</EnableFirstPerson>
+            <EnableShipControl>true</EnableShipControl>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
+            <TargetLockingEnabled>true</TargetLockingEnabled>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <PrimarySound>BlockCockpitLrg</PrimarySound>
+            <OxygenCapacity>60</OxygenCapacity>
+            <IsPressurized>true</IsPressurized>
+            <BuildTimeSeconds>30</BuildTimeSeconds>
+            <PCU>45</PCU>
+            <NewsletterSubscriptionNeeded>true</NewsletterSubscriptionNeeded>
+        </Definition>
+        
+        <Definition xsi:type="MyObjectBuilder_CockpitDefinition">
+            <Id>
+                <TypeId>Cockpit</TypeId>
+                <SubtypeId>LargeBlockModularBridgeCockpit</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Block_ModularBridgeCockpit</DisplayName>
+            <Icon>Textures\GUI\Icons\Cubes\BridgeCockpit.dds</Icon>
+            <Description>Description_ModularBridgeCockpit</Description>
+            <CubeSize>Large</CubeSize>
+            <GuiVisible>false</GuiVisible>
+            <BlockTopology>TriangleMesh</BlockTopology>
+            <Size x="1" y="1" z="1" />
+            <Model>Models\Cubes\Large\BridgeCockpit.mwm</Model>
+            <CharacterAnimation>BridgeCockpitPose</CharacterAnimation>
+            <ModelOffset x="0" y="0" z="0" />
+            <Components>
+                <Component Subtype="SteelPlate" Count="15" />
+                <Component Subtype="Construction" Count="15" />
+                <Component Subtype="Motor" Count="1" />
+                <Component Subtype="Display" Count="4" />
+                <Component Subtype="Computer" Count="100" />
+                <Component Subtype="BulletproofGlass" Count="30" />
+                <Component Subtype="InteriorPlate" Count="30" />
+            </Components>
+            <CriticalComponent Subtype="Computer" Index="0" />
+            <MountPoints>
+                <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" Default="true" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="0.3" EndY="0.6" />
+                <MountPoint Side="Left" StartX="0.3" StartY="0" EndX="1" EndY="0.1" />
+                <MountPoint Side="Left" StartX="0" StartY="0" EndX="1" EndY="1" Enabled="false"/>
+                <MountPoint Side="Left" StartX="0.6" StartY="0.8" EndX="1" EndY="1" />
+                <MountPoint Side="Right" StartX="0.7" StartY="0" EndX="1" EndY="0.6" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="0.7" EndY="0.1" />
+                <MountPoint Side="Right" StartX="0" StartY="0.8" EndX="0.4" EndY="1" />
+                <MountPoint Side="Right" StartX="0" StartY="0" EndX="1" EndY="1" Enabled="false"/>
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="0.5" />
+                <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="1" Enabled="false"/>
+                <MountPoint Side="Back" StartX="0" StartY="0" EndX="1" EndY="0.1" />
+                <MountPoint Side="Back" StartX="0" StartY="0.9" EndX="1" EndY="1" />
+                <MountPoint Side="Top" StartX="0" StartY="0" EndX="1" EndY="1" Enabled="false"/>
+            </MountPoints>
+            <BuildProgressModels>
+                <Model BuildPercentUpperBound="0.33" File="Models\Cubes\Large\BridgeCockpit_Construction_1.mwm" />
+                <Model BuildPercentUpperBound="0.66" File="Models\Cubes\Large\BridgeCockpit_Construction_2.mwm" />
+                <Model BuildPercentUpperBound="1.00" File="Models\Cubes\Large\BridgeCockpit_Construction_3.mwm" />
+            </BuildProgressModels>
+            <ScreenAreas>
+                <ScreenArea Name="CockpitScreen_01" DisplayName="DisplayName_Screen_Center" TextureResolution="256" ScreenWidth="5" ScreenHeight="3" Script="TSS_ArtificialHorizon" />
+                <ScreenArea Name="CockpitScreen_02" DisplayName="DisplayName_Screen_Left" TextureResolution="256" ScreenWidth="5" ScreenHeight="3" Script="TSS_EnergyHydrogen" />
+            </ScreenAreas>
+            <BlockPairName>ModularBridgeCockpit</BlockPairName>
+            <MirroringZ>Y</MirroringZ>
+            <MirroringY>Z</MirroringY>
+            <EdgeType>Light</EdgeType>
+            <DeformationRatio>0.2</DeformationRatio>
+            <EnableFirstPerson>true</EnableFirstPerson>
+            <EnableShipControl>true</EnableShipControl>
+            <EnableBuilderCockpit>true</EnableBuilderCockpit>
+            <TargetLockingEnabled>true</TargetLockingEnabled>
+            <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>
+            <DamagedSound>ParticleElectrical</DamagedSound>
+            <PrimarySound>BlockCockpitSm</PrimarySound>
+            <OxygenCapacity>60</OxygenCapacity>
+            <IsPressurized>false</IsPressurized>
+            <GetInSound>ShipSmCockpitIn</GetInSound>
+            <GetOutSound>ShipSmCockpitOut</GetOutSound>
+            <BuildTimeSeconds>30</BuildTimeSeconds>
+            <PCU>45</PCU>
+            <DLC>Contact</DLC>
+        </Definition>
         
     </CubeBlocks>
 </Definitions>

@@ -28,7 +28,7 @@
                 <ScreenArea Name="StoreScreen_01" DisplayName="DisplayName_Screen_Large" TextureResolution="512" ScreenWidth="16" ScreenHeight="10" />
                 <ScreenArea Name="StoreScreen_02" DisplayName="DisplayName_Screen_Keyboard" TextureResolution="256" ScreenWidth="5" ScreenHeight="2" />
             </ScreenAreas>
-            <BlockPairName>SimpleStoreBlock</BlockPairName>
+            <!--BlockPairName>SimpleStoreBlock</BlockPairName-->
             <EdgeType>Light</EdgeType>
             <BuildTimeSeconds>200000</BuildTimeSeconds>
             <ResourceSinkGroup>Conveyors</ResourceSinkGroup>

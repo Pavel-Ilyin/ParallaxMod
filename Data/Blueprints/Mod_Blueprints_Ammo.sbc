@@ -4,16 +4,16 @@
         <Blueprint>
             <Id>
                 <TypeId>BlueprintDefinition</TypeId>
-                <SubtypeId>Position0085_NATO_50x184mmMagazine</SubtypeId>
+                <SubtypeId>Position0085_50x184mmMagazine</SubtypeId>
             </Id>
-            <DisplayName>DisplayName_Item_NATO_50x184mm</DisplayName>
+            <DisplayName>DisplayName_Item_50x184mm</DisplayName>
             <Icon>Textures\Icons\Ammo_Box_1.png</Icon>
             <Prerequisites>
                 <Item Amount="90" TypeId="Ingot" SubtypeId="Iron"/>
                 <Item Amount="12" TypeId="Ingot" SubtypeId="Nickel"/>
                 <Item Amount="9.0" TypeId="Ingot" SubtypeId="Magnesium"/>
             </Prerequisites>
-            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="NATO_50x184mm"/>
+            <Result Amount="1" TypeId="AmmoMagazine" SubtypeId="50x184mm"/>
             <BaseProductionTimeInSeconds>24</BaseProductionTimeInSeconds>
         </Blueprint>
         <Blueprint>

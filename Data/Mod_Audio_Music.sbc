@@ -1587,6 +1587,38 @@
             <MusicCategory>PirateWAVE</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_038</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_038.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_039</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_039.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
         
         <Sound>
             <Id>
@@ -2551,6 +2583,38 @@
             <MusicCategory>Music_community</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Music_community_026</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Music_community\Music_community_026.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Music_community</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+        <Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Music_community_027</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Music_community\Music_community_027.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Music_community</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
         
         <Sound>
             <Id>
@@ -2774,6 +2838,87 @@
                 </Wave>
             </Waves>
             <MusicCategory>Rammstein</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Track_1</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Voice_acting\Track_1.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Voice_acting</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Track_2</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Voice_acting\Track_2.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Voice_acting</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Track_3</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Voice_acting\Track_3.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Voice_acting</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Track_4</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Voice_acting\Track_4.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Voice_acting</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Track_5</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Voice_acting\Track_5.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Voice_acting</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
         

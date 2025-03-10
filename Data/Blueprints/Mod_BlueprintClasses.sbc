@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
     <BlueprintClassEntries>
 		<Entry Class="LargeBlocks" BlueprintSubtypeId="ShipWelder/LargeIndustrialWelder" />
         <Entry Class="LargeBlocks" BlueprintSubtypeId="CargoContainer/QuantumStorage" />
@@ -33,6 +34,8 @@
         <Entry Class="Components" BlueprintSubtypeId="SolarCell" />
         <Entry Class="Components" BlueprintSubtypeId="PowerCell" />
         <Entry Class="Components" BlueprintSubtypeId="Superconductor" />
+        <Entry Class="Components" BlueprintSubtypeId="Resurspak"/>
+        <Entry Class="Components" BlueprintSubtypeId="TitaniumPlate" />
         <Entry Class="EliteTools" BlueprintSubtypeId="Position0010_AngleGrinder" />
         <Entry Class="EliteTools" BlueprintSubtypeId="Position0020_AngleGrinder2" />
         <Entry Class="EliteTools" BlueprintSubtypeId="Position0030_AngleGrinder3" />
@@ -74,7 +77,7 @@
         <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0060_PreciseAutomaticRifleGun_Mag_5rd" />
         <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0070_UltimateAutomaticRifleGun_Mag_30rd" />
         <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0080_NATO_25x184mmMagazine" />
-        <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0085_NATO_50x184mmMagazine" />
+        <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0085_50x184mmMagazine" />
         <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0090_AutocannonClip" />
         <Entry Class="EliteConsumables" BlueprintSubtypeId="Position0100_Missile200mm" />
 		<Entry Class="EliteConsumables" BlueprintSubtypeId="Position0105_Missile_GS" />
@@ -96,5 +99,7 @@
         <Entry Class="Ingots" BlueprintSubtypeId="PlatinumOreToIngot" />
         <Entry Class="Ingots" BlueprintSubtypeId="UraniumOreToIngot" />
         <Entry Class="Ingots" BlueprintSubtypeId="PalladiumOreToIngot" />
+        <Entry Class="Ingots" BlueprintSubtypeId="TitaniumOreToIngot" />
+        
     </BlueprintClassEntries>
 </Definitions>

@@ -42,7 +42,7 @@
                 <Distortion Type="Perlin" Value="92" Frequency="10" Height="4" LayerCount="6"/>
             </DistortionTable>
             <OreMappings>
-                <Ore Value="4" Type="Stone_05" Start="3" Depth="1" TargetColor="#000000" ColorInfluence="200"/>
+                <Ore Value="4" Type="Palladium_01" Start="1" Depth="5" TargetColor="#000000" ColorInfluence="200"/>
             </OreMappings>
             <SoundRules>
                 <SoundRule>

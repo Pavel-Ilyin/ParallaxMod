@@ -68,10 +68,10 @@
 	<data name="DisplayName_Item_Calculator" xml:space="preserve">
 		<value>Calculator</value>
 	</data>
-	<data name="DisplayName_Item_IngotsPackage" xml:space="preserve">
+	<data name="DisplayName_Item_Resurspak" xml:space="preserve">
 		<value>Resurspak</value>
 	</data>
-	<data name="Description_IngotsPackage" xml:space="preserve">
+	<data name="Description_Resurspak" xml:space="preserve">
 		<value>Resurspak - a tightly packed package of bullion.</value>
 	</data>
 	<data name="Description_InteriorTurret" xml:space="preserve">
@@ -186,7 +186,7 @@ This can detect, target lock, and engage enemy grids up to 4000m using customiza
 
 When enemies are detected, this block takes priority over any active Task type blocks.</value>
 	</data>
-	<data name="DisplayName_Item_NATO_50x184mm" xml:space="preserve">
+	<data name="DisplayName_Item_50x184mm" xml:space="preserve">
 		<value>Gatling Ammo Box High Caliber</value>
 	</data>
 	<data name="DisplayName_MostlyHarmlessEnergy" xml:space="preserve">
@@ -243,8 +243,8 @@ Maximum range: 4000 m.</value>
 
 Has high power consumption.</value>
 	</data>
-	<data name="DisplayName_Category_EnergyShield" xml:space="preserve">
-		<value>Energy Shields</value>
+	<data name="DisplayName_Category_Parallax" xml:space="preserve">
+		<value>Integrations</value>
 	</data>
 	<data name="DisplayName_Block_StoneRecycler" xml:space="preserve">
 		<value>Stone Recycler</value>
@@ -299,7 +299,208 @@ Maximum range: 4000 m.</value>
 	<data name="Description_Assembler" xml:space="preserve">
 		<value>High capacity assembler.</value>
 	</data>
-    <data name="DisplayName_Item_Promotion" xml:space="preserve">
+	<data name="DisplayName_Item_Promotion" xml:space="preserve">
 		<value>Promotion</value>
+	</data>
+	<data name="Titanium" xml:space="preserve">
+		<value>Titanium</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumIngot" xml:space="preserve">
+		<value>Titanium ingot</value>
+	</data>
+	<data name="Titanium" xml:space="preserve">
+		<value>Titanium</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumIngot" xml:space="preserve">
+		<value>Titanium ingot</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumOre" xml:space="preserve">
+		<value>Titanium Ore</value>
+	</data>
+	<data name="DisplayName_Item_TitaniumPlate" xml:space="preserve">
+		<value>Titanium  plate</value>
+	</data>
+	<data name="Description_TitaniumArmor" xml:space="preserve">
+		<value>Titanium armor. Very strong and light.. </value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorBlock" xml:space="preserve">
+		<value>Titanium Armor Block</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlope" xml:space="preserve">
+		<value>Titanium Armor Slope</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCorner" xml:space="preserve">
+		<value>Titanium Armor Corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorInvCorner" xml:space="preserve">
+		<value>Titanium Armor Inverse Corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumRoundArmorSlope" xml:space="preserve">
+		<value>Round Titanium Armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumRoundArmorCorner" xml:space="preserve">
+		<value>Round Titanium Armor Corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumRoundArmorInvCorner" xml:space="preserve">
+		<value>Round Titanium Armor Inverse Corner</value>
+	</data>
+	<data name="DisplayName_Block_HalfTitaniumArmorBlock" xml:space="preserve">
+		<value>Half Titanium Armor Block</value>
+	</data>
+	<data name="DisplayName_Block_HalfSlopeTitaniumArmorBlock" xml:space="preserve">
+		<value>Half Titanium Armor Corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlope2Base" xml:space="preserve">
+		<value>2x1 Titanium Armor Base Slope</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlope2Tip" xml:space="preserve">
+		<value>2x1 Titanium Armor Tip</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCorner2Base" xml:space="preserve">
+		<value>2x1 Titanium Armor Base Corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCorner2Tip" xml:space="preserve">
+		<value>2x1 Titanium Armor Tip Corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorInvCorner2Base" xml:space="preserve">
+		<value>2x1 Inverted Corner Titanium Armor Base</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorInvCorner2Tip" xml:space="preserve">
+		<value>2x1 Inverted Corner Titanium Armor Tip</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCornerSquare" xml:space="preserve">
+		<value>Rectangular Corner Titanium Armor Block</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorCornerSquareInverted" xml:space="preserve">
+		<value>Inverted Rectangular Corner Titanium Block. armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfCorner" xml:space="preserve">
+		<value>Titanium armor half-block corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopeCorner" xml:space="preserve">
+		<value>Titanium armor half-block corner sloping</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopeCornerInverted" xml:space="preserve">
+		<value>Titanium armor half-block inverted</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopedCorner" xml:space="preserve">
+		<value>Titanium armor half-block corner. armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopedCornerBase" xml:space="preserve">
+		<value>Half block of titanium armor angled slope base</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorHalfSlopeInverted" xml:space="preserve">
+		<value>Inverted sloping half block of titanium armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopedCorner" xml:space="preserve">
+		<value>Corner sloping titanium armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopedCornerBase" xml:space="preserve">
+		<value>Base of corner sloping titanium armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopedCornerTip" xml:space="preserve">
+		<value>Top of corner sloping titanium. armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorRaisedSlopedCorner" xml:space="preserve">
+		<value>Titanium armor raised slope corner</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransition" xml:space="preserve">
+		<value>Titanium armor slope, transition</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionBase" xml:space="preserve">
+		<value>Titanium armor slope, transition base</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionBaseMirrored" xml:space="preserve">
+		<value>Titanium armor slope, reflected transition base</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionMirrored" xml:space="preserve">
+		<value>Titanium armor slope, mirrored transition</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionTip" xml:space="preserve">
+		<value>Titanium armor slope, transition tip</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSlopeTransitionTipMirrored" xml:space="preserve">
+		<value>Titanium armor slope, mirrored transition tip</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSquareSlopedCornerBase" xml:space="preserve">
+		<value>Slanted corner base, rectangular, titanium. armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSquareSlopedCornerTip" xml:space="preserve">
+		<value>Inc. corner tip of rectangular titanium armor</value>
+	</data>
+	<data name="DisplayName_Block_TitaniumArmorSquareSlopedCornerTipInv" xml:space="preserve">
+		<value>Inc. corner tip of rectangular titanium armor. (reverse)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedPanelTitanium" xml:space="preserve">
+		<value>Titanium plating panel 2x1 (base, slope)</value>
+	</data>
+	<data name="DisplayName_Block_ArmorHalfPanelTitanium" xml:space="preserve">
+		<value>Titanium plating half panel</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelTitanium" xml:space="preserve">
+		<value>Titanium plating panel</value>
+	</data>
+	<data name="DisplayName_Block_ArmorSlopedPanelTitanium" xml:space="preserve">
+		<value>Titanium plating panel (slope) </value>
+	</data>
+	<data name="DisplayName_Block_ArmorSlopedSidePanelTitanium" xml:space="preserve">
+		<value>Titanium siding panel (side)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideBasePanelTitanium" xml:space="preserve">
+		<value>Titanium siding panel 2x1 (base, right)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideBasePanelTitaniumInv" xml:space="preserve">
+		<value>Titanium siding panel 2x1 (base, left)</value>
+	</data>
+	<data name="DisplayName_Block_ArmorHalfSlopedPanelTitanium" xml:space="preserve">
+		<value>Titanium siding panel (half-slope)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedPanelTitanium" xml:space="preserve">
+		<value>Titanium siding half panel 2x1 (base, right)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedPanelTitaniumInv" xml:space="preserve">
+		<value>Titanium Sheathing Half Panel 2x1 (Base, Left)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideTipPanelTitanium" xml:space="preserve">
+		<value>Titanium Sheathing Panel 2x1 (Top, Right)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedSideTipPanelTitaniumInv" xml:space="preserve">
+		<value>Titanium Sheathing Panel 2x1 (Top, Left)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1SlopedPanelTipTitanium" xml:space="preserve">
+		<value>Titanium Sheathing Panel 2x1 (Top, Slope)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedTipPanelTitanium" xml:space="preserve">
+		<value>Titanium Sheathing Half Panel 2x1 (Top, Right)</value>
+	</data>
+	<data name="DisplayName_Block_Armor2x1HalfSlopedTipPanelTitaniumInv" xml:space="preserve">
+		<value>Titanium Sheathing Half Panel 2x1 (Top, Left)</value>
+	</data>
+	<data name="DisplayName_Block_ArmorQuarterPanelTitanium" xml:space="preserve">
+		<value>Titanium Sheathing Quarter Panel</value>
+	</data>
+	<data name="DisplayName_Block_ArmorCenterPanelTitanium" xml:space="preserve">
+		<value>Center titanium skin panel</value>
+	</data>
+	<data name="DisplayName_Block_ArmorHalfCenterPanelTitanium" xml:space="preserve">
+		<value>Titanium Skin Center Half Panel</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundCornerTitanium" xml:space="preserve">
+		<value>Titanium Skin Panel Round Corner</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundTitanium" xml:space="preserve">
+		<value>Titanium Skin Panel Round</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundInvertedCornerTitanium" xml:space="preserve">
+		<value>Titanium Skin Panel Round Inverted Corner</value>
+	</data>
+	<data name="DisplayName_Block_ArmorPanelRoundFaceTitanium" xml:space="preserve">
+		<value>Titanium cladding panel, round, face</value>
+	</data>
+		<data name="DisplayName_Block_NanobotBuildAndRepairSystem" xml:space="preserve">
+		<value>Nanobot Build And Repair System</value>
+	</data>
+	<data name="Description_NanobotBuildAndRepairSystem" xml:space="preserve">
+		<value>Nanobot system for assembly, repair and disassembly of blocks.</value>
 	</data>
 </root>

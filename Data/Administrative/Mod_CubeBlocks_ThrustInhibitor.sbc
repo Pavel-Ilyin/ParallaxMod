@@ -41,7 +41,7 @@
 			<EdgeType>Light</EdgeType>
 			<MirroringY>Z</MirroringY>
 			<DamageEffectId>214</DamageEffectId>
-			<MaxBroadcastRadius>6000</MaxBroadcastRadius>
+			<MaxBroadcastRadius>35000</MaxBroadcastRadius>
 			<MaxBroadcastPowerDrainkW>20</MaxBroadcastPowerDrainkW>
 			<DamagedSound>ParticleElectrical</DamagedSound>
 			<PCU>100</PCU>

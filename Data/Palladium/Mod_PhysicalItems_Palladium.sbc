@@ -7,7 +7,7 @@
                 <SubtypeId>Palladium</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_PalladiumOre</DisplayName>
-            <Icon>Textures\Icons\ore_Pd_palladium.png</Icon>
+            <Icon>Textures\Icons\Ore_Pd_Palladium.png</Icon>
             <Size>
                 <X>0.07</X>
                 <Y>0.07</Y>
@@ -20,8 +20,6 @@
             <IconSymbol>Pd</IconSymbol>
             <MinimalPricePerUnit>1380</MinimalPricePerUnit>
             <CanPlayerOrder>true</CanPlayerOrder>
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
         </PhysicalItem>
         <PhysicalItem>
             <Id>
@@ -29,7 +27,7 @@
                 <SubtypeId>Palladium</SubtypeId>
             </Id>
             <DisplayName>DisplayName_Item_PalladiumIngot</DisplayName>
-            <Icon>Textures\Icons\palladium_ingot.png</Icon>
+            <Icon>Textures\Icons\Palladium_ingot.png</Icon>
             <Size>
                 <X>0.046</X>
                 <Y>0.046</Y>
@@ -37,12 +35,10 @@
             </Size>
             <Mass>1</Mass>
             <Volume>0.085</Volume>
-            <Model>Models\Ingots\silver_ingot.mwm</Model>
+            <Model>Models\Ingots\Naquadah_Ingot.mwm</Model>
             <PhysicalMaterial>Metal</PhysicalMaterial>
             <IconSymbol>Pd</IconSymbol>
             <CanPlayerOrder>true</CanPlayerOrder>
-            <MinimumAcquisitionAmount>100</MinimumAcquisitionAmount>
-            <MaximumAcquisitionAmount>500</MaximumAcquisitionAmount>
         </PhysicalItem>
     </PhysicalItems>
 </Definitions>

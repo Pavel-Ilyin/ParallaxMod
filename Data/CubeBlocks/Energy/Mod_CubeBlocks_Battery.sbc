@@ -39,11 +39,11 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <MaxPowerOutput>16</MaxPowerOutput>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
-            <RequiredPowerInput>16</RequiredPowerInput>
+            <RequiredPowerInput>8</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>4</MaxStoredPower>
-            <InitialStoredPowerRatio>0</InitialStoredPowerRatio>
-            <RechargeMultiplier>1</RechargeMultiplier>
+            <InitialStoredPowerRatio>0.05</InitialStoredPowerRatio>
+            <RechargeMultiplier>0.9</RechargeMultiplier>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -102,7 +102,7 @@
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
             <RequiredPowerInput>4</RequiredPowerInput>
             <MaxStoredPower>2</MaxStoredPower>
-            <InitialStoredPowerRatio>0</InitialStoredPowerRatio>
+            <InitialStoredPowerRatio>0.05</InitialStoredPowerRatio>
             <RechargeMultiplier>0.8</RechargeMultiplier>
             <InventorySize>
                 <X>1</X>
@@ -220,11 +220,11 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <MaxPowerOutput>16</MaxPowerOutput>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
-            <RequiredPowerInput>16</RequiredPowerInput>
+            <RequiredPowerInput>8</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>4</MaxStoredPower>
-            <InitialStoredPowerRatio>0</InitialStoredPowerRatio>
-            <RechargeMultiplier>1</RechargeMultiplier>
+            <InitialStoredPowerRatio>0.05</InitialStoredPowerRatio>
+            <RechargeMultiplier>0.9</RechargeMultiplier>
             <InventorySize>
                 <X>1</X>
                 <Y>1</Y>
@@ -292,7 +292,7 @@
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
             <RequiredPowerInput>4</RequiredPowerInput>
             <MaxStoredPower>2</MaxStoredPower>
-            <InitialStoredPowerRatio>0</InitialStoredPowerRatio>
+            <InitialStoredPowerRatio>0.05</InitialStoredPowerRatio>
             <RechargeMultiplier>0.8</RechargeMultiplier>
             <InventorySize>
                 <X>1</X>

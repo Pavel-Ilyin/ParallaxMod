@@ -48,6 +48,11 @@
                     <Modifier>15.6</Modifier>
                     <ModifierType>Additive</ModifierType>
                 </MyUpgradeModuleInfo>
+                <MyUpgradeModuleInfo>
+                    <UpgradeType>Effectiveness</UpgradeType>
+                    <Modifier>1.0905077</Modifier>
+                    <ModifierType>Multiplicative</ModifierType>
+                </MyUpgradeModuleInfo>
             </Upgrades>
             <PrimarySound>BlockModuleProductivity</PrimarySound>
             <DamageEffectName>Damage_Electrical_Damaged</DamageEffectName>

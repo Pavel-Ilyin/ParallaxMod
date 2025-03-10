@@ -34,6 +34,8 @@
         <SoundDesc Id= "Music_community_023" SoundName= "Eminem - Without Me" />
         <SoundDesc Id= "Music_community_024" SoundName= "The Cranberries - Zombie" />
         <SoundDesc Id= "Music_community_025" SoundName= "Radio Tapok - Гвардия петра" />
+        <SoundDesc Id= "Music_community_026" SoundName= "Нейромонах Феофан - Притоптать" />
+        <SoundDesc Id= "Music_community_027" SoundName= "DVRST,Игорь Скляр,Atomic Heart - Komarovo" />
 	  
 		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
         <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />
@@ -146,6 +148,8 @@
         <SoundDesc Id= "PirateWAVE_035" SoundName= "Kaito Shoma - Hotline" />
         <SoundDesc Id= "PirateWAVE_036" SoundName= "Arkana - Tzimtzum" />
         <SoundDesc Id= "PirateWAVE_037" SoundName= "Geon - Intensity" />
+        <SoundDesc Id= "PirateWAVE_038" SoundName= "Pete Tong - Clubbed To Death" />
+        <SoundDesc Id= "PirateWAVE_039" SoundName= "Placenta - Insight" />
         
 		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
         <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />
@@ -355,6 +359,13 @@
 		<SoundDesc Id= "MusConcert_8" SoundName= "SoundBlock_SoundName_MusicConcert7" />
 		<SoundDesc Id= "MusConcert_9" SoundName= "SoundBlock_SoundName_MusicConcert8" />
 		<SoundDesc Id= "MusConcert_10" SoundName= "SoundBlock_SoundName_MusicConcert9" />
+		
+		<SoundDesc Id= "" SoundName= "Voice acting----------------------------" />
+		<SoundDesc Id= "Track_1" SoundName= "Ровер_Приветствие" />
+		<SoundDesc Id= "Track_2" SoundName= "Обитель_Приветствие" />
+		<SoundDesc Id= "Track_3" SoundName= "Обитель_Экономика" />
+		<SoundDesc Id= "Track_4" SoundName= "Обитель_Точки_интереса" />
+		<SoundDesc Id= "Track_5" SoundName= "Обитель_Вооружение" />
 		
       </Sounds>
     </SoundCategory>
