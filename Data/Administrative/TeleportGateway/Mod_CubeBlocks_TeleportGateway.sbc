@@ -8,7 +8,7 @@
 			</Id>
 			<DisplayName>DisplayName_TeleportGateway</DisplayName>
 			<Icon>Textures\Icons\TeleportGateway.png</Icon>
-            <Public>false</Public>
+            <!--Public>false</Public-->
 			<Description>Description_TeleportGateway</Description>
 			<CubeSize>Large</CubeSize>
 			<BlockTopology>TriangleMesh</BlockTopology>

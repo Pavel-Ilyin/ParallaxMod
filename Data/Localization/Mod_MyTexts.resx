@@ -98,6 +98,12 @@ Maximum range: 2400 m.
 Maximum range auto-aim: 1600 m.</value>
 	</data>
 	<data name="Description_Small_GatlingTurret" xml:space="preserve">
+		<value>Turret that can be loaded through conveyors. Uses Gatling Ammo Boxes.
+
+Maximum range: 1400 m.
+Maximum range auto-aim: 1200 m.</value>
+	</data>
+	<data name="Description_Small_GatlingTurretReskin" xml:space="preserve">
 		<value>Fast-shooting turret that can be loaded through conveyors. Uses Gatling Ammo Boxes.
 
 Maximum range: 1400 m.

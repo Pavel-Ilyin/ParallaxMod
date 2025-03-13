@@ -1,123 +1,305 @@
 <?xml version="1.0"?>
 <Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <SpawnGroups>
-
-               
-        <SpawnGroup>
-            <Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Kratos_U1" />
-            <Frequency>900</Frequency>
-            <IsGlobalEncounter>true</IsGlobalEncounter>
-            <Factions>
-                <SubtypeId>Factorum</SubtypeId>
-            </Factions>
-            
-            <GlobalEncounterSettings>
-                <MinDistanceFromCenter>1000000</MinDistanceFromCenter>
-                <MaxDistanceFromCenter>10000000</MaxDistanceFromCenter>
-                <PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
-                <MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
-                <MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
-            </GlobalEncounterSettings>
-            <ReactorsOn>true</ReactorsOn>
-            <Prefabs>
-                <Prefab SubtypeId="Kratos_U1">
-                    <Position>
-                        <X>0</X>
-                        <Y>0</Y>
-                        <Z>0</Z>
-                    </Position>
-                    <Speed>0</Speed>
-                    <GpsGrid>true</GpsGrid>
-                </Prefab>
-            </Prefabs>
-        </SpawnGroup>
-        
-        <SpawnGroup>
-            <Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Kratos_U2" />
-            <Frequency>800</Frequency>
-            <IsGlobalEncounter>true</IsGlobalEncounter>
-            <Factions>
-                <SubtypeId>Factorum</SubtypeId>
-            </Factions>
-            
-            <GlobalEncounterSettings>
-                <MinDistanceFromCenter>1000000</MinDistanceFromCenter>
-                <MaxDistanceFromCenter>10000000</MaxDistanceFromCenter>
-                <PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
-                <MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
-                <MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
-            </GlobalEncounterSettings>
-            <ReactorsOn>true</ReactorsOn>
-            <Prefabs>
-                <Prefab SubtypeId="Kratos_U2">
-                    <Position>
-                        <X>0</X>
-                        <Y>0</Y>
-                        <Z>0</Z>
-                    </Position>
-                    <Speed>0</Speed>
-                    <GpsGrid>true</GpsGrid>
-                </Prefab>
-            </Prefabs>
-        </SpawnGroup>
-        
-        <SpawnGroup>
-            <Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Kratos_U3" />
-            <Frequency>700</Frequency>
-            <IsGlobalEncounter>true</IsGlobalEncounter>
-            <Factions>
-                <SubtypeId>Factorum</SubtypeId>
-            </Factions>
-            
-            <GlobalEncounterSettings>
-                <MinDistanceFromCenter>1000000</MinDistanceFromCenter>
-                <MaxDistanceFromCenter>10000000</MaxDistanceFromCenter>
-                <PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
-                <MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
-                <MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
-            </GlobalEncounterSettings>
-            <ReactorsOn>true</ReactorsOn>
-            <Prefabs>
-                <Prefab SubtypeId="Kratos_U3">
-                    <Position>
-                        <X>0</X>
-                        <Y>0</Y>
-                        <Z>0</Z>
-                    </Position>
-                    <Speed>0</Speed>
-                    <GpsGrid>true</GpsGrid>
-                </Prefab>
-            </Prefabs>
-        </SpawnGroup>
-        
-        <SpawnGroup>
-            <Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Zeus_L1" />
-            <Frequency>300</Frequency>
-            <IsGlobalEncounter>true</IsGlobalEncounter>
-            <Factions>
-                <SubtypeId>Factorum</SubtypeId>
-            </Factions>
-            
-            <GlobalEncounterSettings>
-                <MinDistanceFromCenter>1000000</MinDistanceFromCenter>
-                <MaxDistanceFromCenter>10000000</MaxDistanceFromCenter>
-                <PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
-                <MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
-                <MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
-            </GlobalEncounterSettings>
-            <ReactorsOn>true</ReactorsOn>
-            <Prefabs>
-                <Prefab SubtypeId="Zeus_L1">
-                    <Position>
-                        <X>0</X>
-                        <Y>0</Y>
-                        <Z>0</Z>
-                    </Position>
-                    <Speed>0</Speed>
-                    <GpsGrid>true</GpsGrid>
-                </Prefab>
-            </Prefabs>
-        </SpawnGroup>
-
-    </SpawnGroups>
+	<SpawnGroups>
+		<!--AI-->
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Gladius_AI"/>
+			<Frequency>900</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>1000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Gladius_AI">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Raptor_AI"/>
+			<Frequency>920</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>1000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Raptor_AI">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Zeus_AI"/>
+			<Frequency>810</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>3000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Zeus_AI">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Ajax_AI"/>
+			<Frequency>800</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>3000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Ajax_AI">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Zeus_L1"/>
+			<Frequency>710</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>6000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Zeus_L1">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Kratos_U3"/>
+			<Frequency>700</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>6000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Kratos_U3">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		
+		<!--Script-->
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Gladius_S"/>
+			<Frequency>640</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>1000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Gladius_S">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Raptor_S"/>
+			<Frequency>630</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>1000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Raptor_S">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Zeus _S"/>
+			<Frequency>620</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>3000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Zeus _S">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Ajax_S"/>
+			<Frequency>610</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>3000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Ajax_S">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Manticore_S"/>
+			<Frequency>600</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>3000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Manticore_S">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+	</SpawnGroups>
 </Definitions>
