@@ -166,7 +166,7 @@
 				<CanBeCompetetive>false</CanBeCompetetive>
 			</SpawnRules>
 		</DropContainer>
-				<DropContainer>
+		<DropContainer>
 			<Id>
 				<TypeId>DropContainerDefinition</TypeId>
 				<SubtypeId>Container_MK-12R</SubtypeId>

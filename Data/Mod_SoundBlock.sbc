@@ -54,6 +54,7 @@
         <SoundDesc Id= "Rock_14" SoundName= "The Animals - The House Of The Rising Sun" />
         <SoundDesc Id= "Rock_15" SoundName= "Nickelback - We Will Rock You" />
         <SoundDesc Id= "Rock_16" SoundName= "Survivor - Eye of the Tiger" />
+		<SoundDesc Id= "Rock_17" SoundName= "Dire Straits - Money For Nothing" />
 
         <SoundDesc Id= "" SoundName= "Green_ya--------------------------------" />
         <SoundDesc Id= "Green_ya_001" SoundName= "Хранитель" />
@@ -109,6 +110,7 @@
         <SoundDesc Id= "PARALLAX_044" SoundName= "Sub Focus, Wilkinson - Stratus" />
         <SoundDesc Id= "PARALLAX_045" SoundName= "Ooyy - Kenji" />
         <SoundDesc Id= "PARALLAX_046" SoundName= "Steve Levi - Journey" />
+		<SoundDesc Id= "PARALLAX_047" SoundName= "Victoriya - Radiance" />
 		
 		<SoundDesc Id= "" SoundName= "Pirate wave-----------------------------" />
 		<SoundDesc Id= "PirateWAVE_001" SoundName= "Adam Liria - Experiment" />
@@ -150,10 +152,14 @@
         <SoundDesc Id= "PirateWAVE_037" SoundName= "Geon - Intensity" />
         <SoundDesc Id= "PirateWAVE_038" SoundName= "Pete Tong - Clubbed To Death" />
         <SoundDesc Id= "PirateWAVE_039" SoundName= "Placenta - Insight" />
+		<SoundDesc Id= "PirateWAVE_040" SoundName= "FREE FLOW FLAVA,Smuff Tha Quiz - Papercut" />
+		<SoundDesc Id= "PirateWAVE_041" SoundName= "KAMADEV - I Think Too Muc" />
+		<SoundDesc Id= "PirateWAVE_042" SoundName= "Placenta - Ways (Original Mix)" />
+		<SoundDesc Id= "PirateWAVE_043" SoundName= "Raphael Schon - Desir" />
         
 		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
         <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />
-        <SoundDesc Id= "LEGACY_02" SoundName= "Древний Египет – Анубис" />
+        <SoundDesc Id= "LEGACY_02" SoundName= "Obsqure - Hijaz" />
 		<SoundDesc Id= "LEGACY_03" SoundName= "Древний Египет – Пустыня" />
 		<SoundDesc Id= "LEGACY_04" SoundName= "Древний Египет – Солнце пустыни" />
 		<SoundDesc Id= "LEGACY_05" SoundName= "Древний Египет – Солнце Египта" />
@@ -162,6 +168,8 @@
 		<SoundDesc Id= "LEGACY_08" SoundName= "Древний Египет – Сон Фараона" />
 		<SoundDesc Id= "LEGACY_09" SoundName= "Древний Египет – Арабская мелодия" />
 		<SoundDesc Id= "LEGACY_10" SoundName= "Древний Египет – Полет Сокола" />
+		<SoundDesc Id= "LEGACY_11" SoundName= "Obsqure - The Scepter" />
+		<SoundDesc Id= "LEGACY_12" SoundName= "Hans Zimmer - Paul's Dream" />
         
 		<SoundDesc Id= "" SoundName= "ABODON----------------------------------" />
         <SoundDesc Id= "ABODON_001" SoundName= "Johnny Klimek  - Cloud Atlas" />

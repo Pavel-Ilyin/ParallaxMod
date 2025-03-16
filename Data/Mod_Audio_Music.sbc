@@ -257,6 +257,22 @@
             <MusicCategory>Rock</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>Rock_17</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\Rock\Rock_17.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>Rock</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
 
         <Sound>
             <Id>
@@ -994,6 +1010,22 @@
             <MusicCategory>PARALLAX</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PARALLAX_047</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PARALLAX\PARALLAX_047.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PARALLAX</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
 
         <Sound>
             <Id>
@@ -1619,6 +1651,70 @@
             <MusicCategory>PirateWAVE</MusicCategory>
             <StreamSound>true</StreamSound>
         </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_040</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_040.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_041</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_041.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_042</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_042.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>PirateWAVE_043</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\PirateWAVE\PirateWAVE_043.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>PirateWAVE</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
         
         <Sound>
             <Id>
@@ -1856,6 +1952,38 @@
             <Waves>
                 <Wave Type="D2">
                     <Start>Audio\MUS\LEGACY\LEGACY_10.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>LEGACY</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>LEGACY_11</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\LEGACY\LEGACY_11.xwm</Start>
+                </Wave>
+            </Waves>
+            <MusicCategory>LEGACY</MusicCategory>
+            <StreamSound>true</StreamSound>
+        </Sound>
+		<Sound>
+            <Id>
+                <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+                <SubtypeId>LEGACY_12</SubtypeId>
+            </Id>
+            <Category>Music</Category>
+            <MaxDistance>2000</MaxDistance>
+            <Volume>0.5</Volume>
+            <Waves>
+                <Wave Type="D2">
+                    <Start>Audio\MUS\LEGACY\LEGACY_12.xwm</Start>
                 </Wave>
             </Waves>
             <MusicCategory>LEGACY</MusicCategory>
