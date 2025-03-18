@@ -3,6 +3,60 @@
 	<SpawnGroups>
 		<!--AI-->
 		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Proton_M-29-18_SH"/>
+			<Frequency>910</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>1000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Proton_M-29-18_SH">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
+			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Proton_M-29-18_A"/>
+			<Frequency>900</Frequency>
+			<IsGlobalEncounter>true</IsGlobalEncounter>
+			<Factions>
+				<SubtypeId>Factorum</SubtypeId>
+			</Factions>
+			<GlobalEncounterSettings>
+				<MinDistanceFromCenter>1000000</MinDistanceFromCenter>
+				<MaxDistanceFromCenter>9000000</MaxDistanceFromCenter>
+				<PlanetProximitySpawnProbability>0</PlanetProximitySpawnProbability>
+				<MinPlanetProximityDistance>2000</MinPlanetProximityDistance>
+				<MaxPlanetProximityDistance>5000</MaxPlanetProximityDistance>
+			</GlobalEncounterSettings>
+			<ReactorsOn>true</ReactorsOn>
+			<Prefabs>
+				<Prefab SubtypeId="Proton_M-29-18_A">
+					<Position>
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Position>
+					<Speed>0</Speed>
+					<GpsGrid>true</GpsGrid>
+				</Prefab>
+			</Prefabs>
+		</SpawnGroup>
+		<SpawnGroup>
 			<Id Type="MyObjectBuilder_SpawnGroupDefinition" Subtype="Gladius_AI"/>
 			<Frequency>900</Frequency>
 			<IsGlobalEncounter>true</IsGlobalEncounter>

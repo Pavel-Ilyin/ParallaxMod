@@ -305,10 +305,10 @@
             <Public>false</Public>
             <Id>
                 <TypeId>Component</TypeId>
-                <SubtypeId>Proton_M_29L</SubtypeId>
+                <SubtypeId>Proton_M-38L_C</SubtypeId>
             </Id>
-            <DisplayName>Proton_M_29L</DisplayName>
-            <Icon>Textures\Prefabs\Proton_M_29L.png</Icon>
+            <DisplayName>Proton_M-38L_C</DisplayName>
+            <Icon>Textures\Prefabs\Proton_M-38L_C.png</Icon>
             <Size>
                 <X>0.2</X>
                 <Y>0.1</Y>

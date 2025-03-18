@@ -200,14 +200,14 @@
 	<Blueprint>
       <Id>
         <TypeId>BlueprintDefinition</TypeId>
-        <SubtypeId>Proton_M_29L</SubtypeId>
+        <SubtypeId>Proton_M-38L_C</SubtypeId>
       </Id>
       <DisplayName>DisplayName_Item_ConstructionComponent</DisplayName>
-      <Icon>Textures\Prefabs\Proton_M_29L.png</Icon>
+      <Icon>Textures\Prefabs\Proton_M-38L_C.png</Icon>
       <Prerequisites>
         <Item Amount="8" TypeId="Ingot" SubtypeId="Iron" />
       </Prerequisites>
-      <Result Amount="1" TypeId="Component" SubtypeId="Proton_M_29L" />
+      <Result Amount="1" TypeId="Component" SubtypeId="Proton_M-38L_C" />
       <BaseProductionTimeInSeconds>1</BaseProductionTimeInSeconds>
       <IsPrimary>true</IsPrimary>
     </Blueprint>
