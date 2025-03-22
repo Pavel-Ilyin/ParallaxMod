@@ -39,7 +39,7 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <MaxPowerOutput>16</MaxPowerOutput>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
-            <RequiredPowerInput>8</RequiredPowerInput>
+            <RequiredPowerInput>16</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>4</MaxStoredPower>
             <InitialStoredPowerRatio>0.05</InitialStoredPowerRatio>
@@ -220,7 +220,7 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <MaxPowerOutput>16</MaxPowerOutput>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
-            <RequiredPowerInput>8</RequiredPowerInput>
+            <RequiredPowerInput>16</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>4</MaxStoredPower>
             <InitialStoredPowerRatio>0.05</InitialStoredPowerRatio>

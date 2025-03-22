@@ -955,7 +955,7 @@
             <ResourceSourceGroup>Battery</ResourceSourceGroup>
             <ResourceSinkGroup>BatteryBlock</ResourceSinkGroup>
             <MaxPowerOutput>64</MaxPowerOutput>
-            <RequiredPowerInput>32</RequiredPowerInput>
+            <RequiredPowerInput>64</RequiredPowerInput>
             <AdaptibleInput>true</AdaptibleInput>
             <MaxStoredPower>16</MaxStoredPower>
             <InitialStoreddPowerRatio>0.5</InitialStoreddPowerRatio>
