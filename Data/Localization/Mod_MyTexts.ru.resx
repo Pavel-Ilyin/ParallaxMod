@@ -512,4 +512,13 @@
 	<data name="Description_NanobotBuildAndRepairSystem" xml:space="preserve">
 		<value>Система наноботов для сборки, ремонта и разборки блоков.</value>
 	</data>
+	<data name="DisplayName_SuperTurretControlBlock" xml:space="preserve">
+		<value>Супер контроллер пользовательской турели</value>
+	</data>
+	<data name="Description_SuperTurretControlBlock" xml:space="preserve">
+		<value>Контроллер пользовательской турели увеличенной дальности действия.</value>
+	</data>
+	<data name="DisplayName_Item_SuperRailgunAmmo" xml:space="preserve">
+		<value>Супер снаряд рельсотрона</value>
+	</data>
 </root>

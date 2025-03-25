@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Ammos>
+		<Ammo xsi:type="MyObjectBuilder_MissileAmmoDefinition">
+			<Id>
+				<TypeId>AmmoDefinition</TypeId>
+				<SubtypeId>SuperRailgunSlug</SubtypeId>
+			</Id>
+			<BasicProperties>
+				<DesiredSpeed>2000</DesiredSpeed>
+				<SpeedVariance>0</SpeedVariance>
+				<MaxTrajectory>7000</MaxTrajectory>
+				<IsExplosive>true</IsExplosive>
+				<BackkickForce>420000</BackkickForce>
+				<PhysicalMaterial>LargeShell</PhysicalMaterial>
+				<ExplosiveDamageMultiplier>3</ExplosiveDamageMultiplier>
+				<DeathMessage>CauseOfDeath_HeavyWeapons</DeathMessage>
+			</BasicProperties>
+			<MissileProperties>
+				<MissileMass>3700</MissileMass>
+				<MissileExplosionRadius>3</MissileExplosionRadius>
+				<MissileModelName>Models\Weapons\RailgunAmmoLarge.mwm</MissileModelName>
+				<MissileAcceleration>0</MissileAcceleration>
+				<MissileInitialSpeed>2000</MissileInitialSpeed>
+				<MissileSkipAcceleration>false</MissileSkipAcceleration>
+				<MissileExplosionDamage>0</MissileExplosionDamage>
+				<MissileHealthPool>270000</MissileHealthPool>
+				<MissileTrailEffect>RailGunTrail</MissileTrailEffect>
+				<MissileGravityEnabled>true</MissileGravityEnabled>
+			</MissileProperties>
+		</Ammo>
+	</Ammos>
+</Definitions>

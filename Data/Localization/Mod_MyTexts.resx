@@ -503,10 +503,19 @@ Maximum range: 4000 m.</value>
 	<data name="DisplayName_Block_ArmorPanelRoundFaceTitanium" xml:space="preserve">
 		<value>Titanium cladding panel, round, face</value>
 	</data>
-		<data name="DisplayName_Block_NanobotBuildAndRepairSystem" xml:space="preserve">
+	<data name="DisplayName_Block_NanobotBuildAndRepairSystem" xml:space="preserve">
 		<value>Nanobot Build And Repair System</value>
 	</data>
 	<data name="Description_NanobotBuildAndRepairSystem" xml:space="preserve">
 		<value>Nanobot system for assembly, repair and disassembly of blocks.</value>
+	</data>
+	<data name="DisplayName_SuperTurretControlBlock" xml:space="preserve">
+		<value>Super Custom Turret Controller</value>
+	</data>
+	<data name="Description_SuperTurretControlBlock" xml:space="preserve">
+		<value>Extended Range Custom Turret Controller.</value>
+	</data>
+	<data name="DisplayName_Item_SuperRailgunAmmo" xml:space="preserve">
+		<value>Super Railgun Ammo</value>
 	</data>
 </root>

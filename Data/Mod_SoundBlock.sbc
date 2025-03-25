@@ -35,7 +35,9 @@
         <SoundDesc Id= "Music_community_024" SoundName= "The Cranberries - Zombie" />
         <SoundDesc Id= "Music_community_025" SoundName= "Radio Tapok - Гвардия петра" />
         <SoundDesc Id= "Music_community_026" SoundName= "Нейромонах Феофан - Притоптать" />
-        <SoundDesc Id= "Music_community_027" SoundName= "DVRST,Игорь Скляр,Atomic Heart - Komarovo" />
+        <SoundDesc Id= "Music_community_027" SoundName= "Atomic Heart - Komarovo" />
+		<SoundDesc Id= "Music_community_028" SoundName= "Atomic Heart - Prekrasnoe Dalyoko" />
+		<SoundDesc Id= "Music_community_029" SoundName= "Блестящие - Там, только там" />
 	  
 		<SoundDesc Id= "" SoundName= "Rock------------------------------------" />
         <SoundDesc Id= "Rock_01" SoundName= "AC/DC - Thunderstruck" />
@@ -111,6 +113,12 @@
         <SoundDesc Id= "PARALLAX_045" SoundName= "Ooyy - Kenji" />
         <SoundDesc Id= "PARALLAX_046" SoundName= "Steve Levi - Journey" />
 		<SoundDesc Id= "PARALLAX_047" SoundName= "Victoriya - Radiance" />
+		<SoundDesc Id= "PARALLAX_048" SoundName= "Revolted Child - Getting Higher" />
+		<SoundDesc Id= "PARALLAX_049" SoundName= "Stephen Barton - Alice s Theme" />
+		<SoundDesc Id= "PARALLAX_050" SoundName= "Celo - Interstellar" />
+		<SoundDesc Id= "PARALLAX_051" SoundName= "The Brainkiller - What Time is it" />
+		<SoundDesc Id= "PARALLAX_052" SoundName= "The Dualz - Vision" />
+		<SoundDesc Id= "PARALLAX_053" SoundName= "Berdnikov - Гравити фолз" />
 		
 		<SoundDesc Id= "" SoundName= "Pirate wave-----------------------------" />
 		<SoundDesc Id= "PirateWAVE_001" SoundName= "Adam Liria - Experiment" />
@@ -156,6 +164,12 @@
 		<SoundDesc Id= "PirateWAVE_041" SoundName= "KAMADEV - I Think Too Muc" />
 		<SoundDesc Id= "PirateWAVE_042" SoundName= "Placenta - Ways (Original Mix)" />
 		<SoundDesc Id= "PirateWAVE_043" SoundName= "Raphael Schon - Desir" />
+		<SoundDesc Id= "PirateWAVE_044" SoundName= "DJ BLUE - Resident" />
+		<SoundDesc Id= "PirateWAVE_045" SoundName= "Hankook - Secret (2021Vip Mix)" />
+		<SoundDesc Id= "PirateWAVE_046" SoundName= "NewTone - Contabele" />
+		<SoundDesc Id= "PirateWAVE_047" SoundName= "Pendulum, Moby - Vault (Moby Remix)" />
+		<SoundDesc Id= "PirateWAVE_048" SoundName= "The Prodigy - Medusa's Path" />
+		<SoundDesc Id= "PirateWAVE_049" SoundName= "Two Steps From Hell - Victory" />
         
 		<SoundDesc Id= "" SoundName= "LEGACY-----------------------------------" />
         <SoundDesc Id= "LEGACY_01" SoundName= "Древний Египет – Вечные пески" />

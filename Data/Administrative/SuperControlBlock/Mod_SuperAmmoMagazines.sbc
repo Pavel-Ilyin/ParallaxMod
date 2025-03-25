@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <AmmoMagazines>
+        <AmmoMagazine>
+            <Id>
+                <TypeId>AmmoMagazine</TypeId>
+                <SubtypeId>SuperRailgunAmmo</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Item_SuperRailgunAmmo</DisplayName>
+            <Icon>Textures\ColorFull\Ammo\RailgunAmmoLarge.dds</Icon>
+            <Size>
+                <X>1.0</X>
+                <Y>0.3</Y>
+                <Z>0.3</Z>
+            </Size>
+            <Mass>90</Mass>
+            <Volume>40</Volume>
+            <Model>Models\Weapons\RailgunAmmoLarge.mwm</Model>
+            <PhysicalMaterial>Ammo</PhysicalMaterial>
+            <Capacity>1</Capacity>
+            <AmmoDefinitionId Subtype="SuperRailgunSlug"/>
+            <CanPlayerOrder>true</CanPlayerOrder>
+        </AmmoMagazine>
+    </AmmoMagazines>
+</Definitions>
