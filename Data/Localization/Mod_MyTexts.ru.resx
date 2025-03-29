@@ -521,4 +521,16 @@
 	<data name="DisplayName_Item_SuperRailgunAmmo" xml:space="preserve">
 		<value>Супер снаряд рельсотрона</value>
 	</data>
+	<data name="DisplayName_BlockATWheelSuspension" xml:space="preserve">
+		<value>Подвеска вездехода (правая)</value>
+	</data>
+	<data name="DisplayName_BlockATWheelSuspensionMirrored" xml:space="preserve">
+		<value>Подвеска вездехода (левая)</value>
+	</data>
+	<data name="DisplayName_BlockATSuspensionWheel" xml:space="preserve">
+		<value>Колесо вездехода (правое)</value>
+	</data>
+	<data name="DisplayName_BlockATSuspensionWheelMirrored" xml:space="preserve">
+		<value>Колесо вездехода (левое)</value>
+	</data>
 </root>

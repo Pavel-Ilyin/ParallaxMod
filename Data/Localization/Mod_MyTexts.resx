@@ -518,4 +518,16 @@ Maximum range: 4000 m.</value>
 	<data name="DisplayName_Item_SuperRailgunAmmo" xml:space="preserve">
 		<value>Super Railgun Ammo</value>
 	</data>
+	<data name="DisplayName_BlockATWheelSuspension" xml:space="preserve">
+		<value>ATV Suspension (Right)</value>
+	</data>
+	<data name="DisplayName_BlockATWheelSuspensionMirrored" xml:space="preserve">
+		<value>ATV Suspension (Left)</value>
+	</data>
+	<data name="DisplayName_BlockATSuspensionWheel" xml:space="preserve">
+		<value>ATV Wheel (Right)</value>
+	</data>
+	<data name="DisplayName_BlockATSuspensionWheelMirrored" xml:space="preserve">
+		<value>ATV Wheel (Left)</value>
+	</data>
 </root>

@@ -11,6 +11,12 @@
 			<Name>Parallax</Name>
 			<StrictSearch>true</StrictSearch>
 			<ItemIds>
+				<string>LargeBlockATWheelSuspension</string>
+				<string>LargeBlockATWheelSuspensionMirrored</string>
+				<string>SmallBlockBigATWheelSuspension</string>
+				<string>SmallBlockBigATWheelSuspensionMirrored</string>
+			
+			
 				<string>LargeShipSmallShieldGeneratorBase</string>
 				<string>SmallShipMicroShieldGeneratorBase</string>
 				<string>LargeStoneRecycler</string>
@@ -630,5 +636,22 @@
 				<string>CubeBlock/SmallRoundArmorPanelTitanium</string>
 			</ItemIds>
 		</Category>
+		
+		<Category xsi:type="MyObjectBuilder_GuiBlockCategoryDefinition"> <!-- Propulsion -->
+            <Id>
+                <TypeId>GuiBlockCategoryDefinition</TypeId>
+                <SubtypeId>Propulsion</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_Category_Propulsion</DisplayName>
+            <Name>Section1_Position3_Propulsion</Name>
+			<StrictSearch>true</StrictSearch>
+            <ItemIds>
+				<string>MotorSuspension/LargeBlockATWheelSuspension</string>
+				<string>MotorSuspension/LargeBlockATWheelSuspensionMirrored</string>
+				<string>MotorSuspension/SmallBlockBigATWheelSuspension</string>
+				<string>MotorSuspension/SmallBlockBigATWheelSuspensionMirrored</string>
+            </ItemIds>
+        </Category>
+		
 	</CategoryClasses>
 </Definitions>

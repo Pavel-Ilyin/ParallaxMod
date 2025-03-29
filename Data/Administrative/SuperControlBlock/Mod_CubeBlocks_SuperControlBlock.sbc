@@ -36,7 +36,7 @@
             <PidGainIntegral>0.5</PidGainIntegral>
             <PidGainDerivative>0.005</PidGainDerivative>
             <PidGainFilter>1</PidGainFilter>
-            <BuildTimeSeconds>24</BuildTimeSeconds>
+            <BuildTimeSeconds>200000</BuildTimeSeconds>
             <MountPoints>
                 <MountPoint Side="Bottom" StartX="0" StartY="0" EndX="1" EndY="1" Default="true" />
                 <MountPoint Side="Front" StartX="0" StartY="0" EndX="1" EndY="1" />

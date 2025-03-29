@@ -260,6 +260,19 @@
                 <Block Type="MyObjectBuilder_CubeBlock" Subtype="SmallArmorCenterPanelTitanium" />
             </Blocks>
         </BlockVariantGroup>
+		
+		<BlockVariantGroup>
+            <Id Type="MyObjectBuilder_BlockVariantGroup" Subtype="WheelATSuspensionGroup" />
+            <Icon>Textures\Icons\Cubes\ATSuspension\ATSuspension.png</Icon>
+            <DisplayName>DisplayName_Block_Suspension3x3</DisplayName>
+            <Description>Description_Suspension</Description>
+            <Blocks>
+                <Block Type="MyObjectBuilder_MotorSuspension" Subtype="LargeBlockATWheelSuspension" />
+				<Block Type="MyObjectBuilder_MotorSuspension" Subtype="LargeBlockATWheelSuspensionMirrored" />
+				<Block Type="MyObjectBuilder_MotorSuspension" Subtype="SmallBlockBigATWheelSuspension" />
+                <Block Type="MyObjectBuilder_MotorSuspension" Subtype="SmallBlockBigATWheelSuspensionMirrored" />
+            </Blocks>
+        </BlockVariantGroup>
         
     </BlockVariantGroups>
 </Definitions>
