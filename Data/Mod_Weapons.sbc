@@ -263,6 +263,7 @@
 			<NoAmmoSoundName>WepShipRailgunNoAmmo</NoAmmoSoundName>
 			<AmmoMagazines>
 				<AmmoMagazine Subtype="LargeRailgunAmmo"/>
+				<AmmoMagazine Subtype="SuperRailgunAmmo"/>
 			</AmmoMagazines>
 			<ReloadTime>4000</ReloadTime>
 			<Effects>
